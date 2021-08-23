@@ -1,0 +1,1357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.candydistrict.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.candydistrict.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.candydistrict.com/collections/american-candy.atom"/>
+  <title>Candy District</title>
+  <updated>2021-08-20T11:55:32-04:00</updated>
+  <author>
+    <name>Candy District</name>
+  </author>
+  <entry>
+    <id>https://www.candydistrict.com/products/6965234532530</id>
+    <published>2021-08-20T11:55:32-04:00</published>
+    <updated>2021-08-20T11:55:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/trolli-cherry-bombers-120g"/>
+    <title>Trolli Cherry Bombers - 120g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/ferrara_candy_co_trolli_cherry_bombers_120g_candy_district.jpg?v=1629397759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Bombs Away!</span></h2>
+<p><span>     Treat your tastebuds to an explosion of flavour with <strong>Trolli Cherry Bombers</strong>! Each bite packs a punch with a <strong>delicious liquid cherry center</strong> that will POP! and deliver a tidal wave of juiciness to hijack your senses!</span></p>
+<h5 style="text-align: center;" data-mce-style="text-align: center;"><span>See <a title="Trolli Gummies | Candy District" href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*" target="_blank" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*">the rest of our delicious Trolli gummies</a>, there's a flavour for everyone!</span></h5>
+<h3><strong>4.25oz / 120g | 1 peg bag</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Trolli</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6965234532530</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1002498</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6965150449842</id>
+    <published>2021-08-20T11:55:32-04:00</published>
+    <updated>2021-08-20T11:55:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/trolli-apple-os-gummy-candy-120-g"/>
+    <title>Trolli Apple O&apos;s Gummy Candy - 120 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/ferrara_candy_co_trolli_apple_os_120g_candy_district.jpg?v=1629395788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>No Need to Mind the Seeds!</span></h2>
+<p><span>     For an apple flavour that's only comparable to the freshly picked fruit from a fine orchard, try <strong>Trolli Apple O's</strong>! They're soft, squishy, sour and fun - the perfect treat to share with friends or to upgrade your snack stash.</span></p>
+<h5 style="text-align: center;" data-mce-style="text-align: center;"><span>See <a title="Trolli Gummies | Candy District" href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*" target="_blank" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*">the rest of our delicious Trolli gummies</a>, there's a flavour for everyone!</span></h5>
+<h3><strong>4.25oz / 120g | 1 peg bag</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Trolli</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6965150449842</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1002494</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6965263466674</id>
+    <published>2021-08-20T11:55:31-04:00</published>
+    <updated>2021-08-20T11:55:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/trolli-evil-twins-120g"/>
+    <title>Trolli Evil Twins - 120g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/ferrara_candy_co_trolli_evil_twins_120g_candy_district.jpg?v=1629398766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>A Flavour Duo That Never Gets Old!</span></h2>
+<p><span>      During some late-night experiments, Dr. Gum E. Werm flipped the wrong switch and accidentally created some problematic twins. Joined at the hip, <strong>one is sweet</strong> but<strong> the other is super sour</strong>!</span></p>
+<p><span>     They may not make for great friends, but they're fantastically yummy! The <strong>flavours of sweet and sour</strong> balance out perfectly to give you a gummy treat that might just become a new favourite. There are 3 crazy flavour combos: <strong>Angelic Orange &amp; Mischievous Lime</strong>, <strong>Sweet Strawberry</strong> <strong>&amp; Rowdy Blue Raspberry</strong>, and <strong>Charming Cherry &amp; Wicked Lemon</strong>!</span></p>
+<h5 style="text-align: center;" data-mce-style="text-align: center;"><span>See <a title="Trolli Gummies | Candy District" href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*" target="_blank" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*">the rest of our delicious Trolli gummies</a>, there's a flavour for everyone!</span></h5>
+<h3><strong>4.25oz / 120g | 1 peg bag</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Trolli</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6965263466674</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1002502</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6965323628722</id>
+    <published>2021-08-20T11:55:29-04:00</published>
+    <updated>2021-08-20T11:55:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/trolli-sour-brite-bites-blue-raspberry-120g"/>
+    <title>Trolli Sour Brite Bites Blue Raspberry - 120g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/ferrara_candy_co_trolli_sour_brite_bites_blue_raspberry_120g_candy_district.jpg?v=1629400959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Fun New Flavour For Any Licorice-Lover</span></h2>
+<p><span>     Indulge in a new kind of licorice taste with <strong>Trolli Sour Brite Bites Blue Raspberry</strong>! Each bite is a mix of<strong> tangy, sweet, juicy blue raspberry flavour</strong> that's bound to excite your tastebuds.</span></p>
+<p><span>     Perfect for sharing with family and friends, it'll make them even sweeter!</span></p>
+<h5 style="text-align: center;"><span>See <a href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*" title="Trolli Gummies | Candy District" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*" target="_blank">the rest of our delicious Trolli gummies</a>, there's a flavour for everyone!</span></h5>
+<h3><strong>4.25oz / 120g | 1 peg bag</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Trolli</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6965323628722</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1002518</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6965292662962</id>
+    <published>2021-08-20T11:55:29-04:00</published>
+    <updated>2021-08-20T11:55:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/trolli-sour-brite-all-star-mix-120g"/>
+    <title>Trolli Sour Brite All-Star Mix - 120g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/ferrara_candy_co_trolli_sour_brite_all-star_mix_120g_candy_district.jpg?v=1629400036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Featuring Only the Best of Trolli</span></h2>
+<p><span>     This crazy crew of characters has joined together to form the ultimate sour squad! <strong>Trolli Sour Brite All-Star Mix</strong> has all the sour neon gummies you love from <strong>Trolli</strong>, like <strong>Llamas</strong>, <strong>Sloths</strong>, <strong>Crawlers</strong>, and <strong>Octopuses</strong>.</span></p>
+<p><span>     Of course tons of friends means tons of flavour! Take your pick from <strong>Strawberry-Grape</strong>, <strong>Mango-Fruit Punch</strong>, and <strong>Pineapple-Raspberry</strong>.</span></p>
+<h5 style="text-align: center;" data-mce-style="text-align: center;"><span>See <a title="Trolli Gummies | Candy District" href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*" target="_blank" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*">the rest of our delicious Trolli gummies</a>, there's a flavour for everyone!</span></h5>
+<h3><strong>4.25oz / 120g | 1 peg bag</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Trolli</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6965292662962</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1002515</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6965341388978</id>
+    <published>2021-08-20T11:55:28-04:00</published>
+    <updated>2021-08-20T11:55:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/trolli-sour-brite-blasts-120g"/>
+    <title>Trolli Sour Brite Blasts - 120g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/ferrara_candy_co_trolli_sour_brite_blasts_120g_candy_district.jpg?v=1629401201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Juicy Exploding Cubes</span></h2>
+<p><span>     Each bite of <strong>Trolli Sour Brite Blasts</strong> is like a radical explosion of flavour that will light up all your senses! These <strong>sour gummy cubes</strong> have a <strong>juicy inside</strong> that bursts open to give you two flavours in one. </span></p>
+<p><span>     Enjoy all four flavour combos: <strong>Strawberry-Mango</strong>, <strong>Apple-Watermelon</strong>, <strong>Cherry-Lime</strong>, and <strong>Blue Raspberry-Lemon</strong>!</span></p>
+<h5 style="text-align: center;" data-mce-style="text-align: center;"><span>See <a title="Trolli Gummies | Candy District" href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*" target="_blank" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*">the rest of our delicious Trolli gummies</a>, there's a flavour for everyone!</span></h5>
+<h3><strong>4.25oz / 120g | 1 peg bag</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Trolli</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6965341388978</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1002519</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6965380120754</id>
+    <published>2021-08-20T11:55:27-04:00</published>
+    <updated>2021-08-20T11:55:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/trolli-sour-brite-crawlers-very-berry-120g"/>
+    <title>Trolli Sour Brite Crawlers Very Berry - 120g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/ferrara_candy_co_trolli_sour_brite_crawlers_very_berry_120g_candy_district.jpg?v=1629402571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">Bursting with Berry Goodness</span></h2>
+<p><span>     <strong>Trolli Sour Brite Crawlers Very Berry</strong> have all the juiciness of regular sour neon worms with a fruity twist! Each bite into these creepy crawlies features fresh forest-berry flavour combos like <strong>Strawberry-Blackberry</strong>, <strong>Raspberry-Blueberry</strong>, and <strong>Blue Raspberry-Berry Punch</strong>. </span></p>
+<p><span>     Perfect for sharing with family and friends, it'll make them even sweeter!</span></p>
+<h5 style="text-align: center;" data-mce-style="text-align: center;"><span>See <a title="Trolli Gummies | Candy District" href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*" target="_blank" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*">the rest of our delicious Trolli gummies</a>, there's a flavour for everyone!</span></h5>
+<h3><strong>4.25oz / 120g | 1 peg bag</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Trolli</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6965380120754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1002523</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6965361901746</id>
+    <published>2021-08-20T11:55:27-04:00</published>
+    <updated>2021-08-20T11:55:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/trolli-sour-brite-crawlers-tropical-120g"/>
+    <title>Trolli Sour Brite Crawlers Tropical - 120g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/ferrara_candy_co_trolli_sour_brite_crawlers_tropical_120g_candy_district.jpg?v=1629401956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">Book Your Tastebuds a Tropical Trip!</span></h2>
+<p><span>     <strong>Trolli Sour Brite Crawlers Tropical</strong> have all the juiciness of regular sour neon worms with an exotic twist! Each bite into these creepy crawlies features wild island-themed flavour combos like <strong>Strawberry-Kiwi</strong>, <strong>Mango-Orange</strong>, and <strong>Pineapple-Lime</strong>. </span></p>
+<h5 style="text-align: center;" data-mce-style="text-align: center;"><span>See <a title="Trolli Gummies | Candy District" href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*" target="_blank" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*">the rest of our delicious Trolli gummies</a>, there's a flavour for everyone!</span></h5>
+<h3><strong>4.25oz / 120g | 1 peg bag</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Trolli</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6965361901746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1002522</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6965398241458</id>
+    <published>2021-08-20T11:55:26-04:00</published>
+    <updated>2021-08-20T11:55:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/trolli-sour-brite-dipn-crawlers-1-55oz"/>
+    <title>Trolli Sour Brite Dip &apos;N Crawlers - 1.55oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/ferrara_candy_co_trolli_sour_brite_dip_n_crawlers_44g_candy_district.jpg?v=1629403506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;"><span mce-data-marked="1">What Level Of Sour Are You?</span></h2>
+<p><span>     Get ready to dunk!<strong> Trolli Sour Brite Dip 'N Crawlers</strong> are <strong>deliciously juicy gummy worms</strong> that include a pool of <strong>tangy sour powder</strong> to give each bite the perfect amount of sour flavour for you!<strong></strong></span></p>
+<p><span>     Do you want a mouth-puckering mouthful that'll go down in history? Or just a touch of sour power to balance the sweet? However you enjoy them, it's always more fun when you can share with a friend! </span></p>
+<h5 style="text-align: center;" data-mce-style="text-align: center;"><span>See <a title="Trolli Gummies | Candy District" href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*" target="_blank" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*">the rest of our delicious Trolli gummies</a>, there's a flavour for everyone!</span></h5>
+<h3><strong>1.55oz / 44g | 1 peg bag</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Trolli</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6965398241458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002881</s:sku>
+      <s:grams>44</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6967303635122</id>
+    <published>2021-08-20T11:55:25-04:00</published>
+    <updated>2021-08-20T11:55:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/trolli-sour-brite-crawlers-watermelon-120g"/>
+    <title>Trolli Sour Brite Crawlers Watermelon - 120g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/ferrara_candy_co_trolli_sour_brite_crawlers_watermelon_120g_candy_district.jpg?v=1629473889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">An Incomparable Watermelon Taste!<br></span></h2>
+<p><span>     <strong>Trolli Sour Brite Crawlers Watermelon</strong> are fun neon sour gummies with a <strong>bold, juicy Watermelon flavour</strong> that'll remind you of a summer picnic on a beautifully warm day. One bite is enough to thoroughly excite your tastebuds!<br></span></p>
+<p><span>     Don't forget to share these tangy and sweet confections, everyone getting to experience their yummy flavour makes them all the sweeter!</span></p>
+<h5 style="text-align: center;" data-mce-style="text-align: center;"><span>See <a title="Trolli Gummies | Candy District" href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*" target="_blank" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*">the rest of our delicious Trolli gummies</a>, there's a flavour for everyone!</span></h5>
+<h3><strong>4.25oz / 120g | 1 peg bag</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Trolli</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6967303635122</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1002524</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6967247896754</id>
+    <published>2021-08-20T11:55:25-04:00</published>
+    <updated>2021-08-20T11:55:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/trolli-sour-gummi-creations-martian-mix-120g"/>
+    <title>Trolli Sour Gummi Creations Martian Mix - 120g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/ferrara_candy_co_trolli_sour_gummi_creations_martian_mix_120g_candy_district.jpg?v=1629473243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">The Perfect Way to Play with Your Food!<br></span></h2>
+<p>     These gummies are seriously out of this world! <strong>Trolli Sour Gummi Creations Martian Mix</strong> gives you the captain's seat on the S.S. Creativity where you decide how you want to build your favourite Martian!</p>
+<p>     Each piece is coated in tangy sugar and can be any one of these 6 juicy, fruity flavours: <strong>Strawberry</strong>, <strong>Pineapple</strong>, <strong>Lemonade</strong>, <strong>Watermelon</strong>, <strong>Mango</strong>, and <strong>Blue Raspberry.</strong> With <strong>over 200 flavour combinations</strong> available for you to experiment with, your tastebuds will be excitedly moon-walking the whole time!</p>
+<h5 style="text-align: center;" data-mce-style="text-align: center;"><span>See <a href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*" title="Trolli Gummies | Candy District" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*" target="_blank">the rest of our delicious Trolli gummies</a>, there's a flavour for everyone!</span></h5>
+<h3><strong>4.25oz / 120g | 1 peg bag</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Trolli</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6967247896754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1002504</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6967322968242</id>
+    <published>2021-08-20T11:55:24-04:00</published>
+    <updated>2021-08-20T11:55:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/trolli-sour-brite-sloths-120g"/>
+    <title>Trolli Sour Brite Sloths - 120g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/ferrara_candy_co_trolli_sour_brite_sloths_120g_candy_district.jpg?v=1629474080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">Yummy Sloths to Hit the Spot!<br></span></h2>
+<p><span>     These are some crazy, tangy critters! <strong>Trolli Sour Brite Sloths</strong> offer a <strong>burst of juicy and sour flavour</strong> in every bite, each one giving you an awesome 2-in-1 flavour that'll knock your socks off!<strong></strong></span></p>
+<p><span>     You can find these wild Sloths in a great variety of delicious flavours like: <strong>Pineapple-Lime</strong>, <strong>Strawberry-Grape</strong>, and <strong>Blue Raspberry-Berry Punch</strong>. It's so much fun to link them like a bunch of barrel monkeys and slowly drop them in your mouth!</span></p>
+<h5 style="text-align: center;" data-mce-style="text-align: center;"><span>See <a title="Trolli Gummies | Candy District" href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*" target="_blank" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*">the rest of our delicious Trolli gummies</a>, there's a flavour for everyone!</span></h5>
+<h3><strong>4.25oz / 120g | 1 peg bag</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Trolli</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6967322968242</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1002531</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6964987789490</id>
+    <published>2021-08-19T11:37:01-04:00</published>
+    <updated>2021-08-19T11:37:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/brachs-candy-corn-11oz"/>
+    <title>Brach&apos;s Candy Corn - 11oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/brachs_classic_candy_corn_11oz_candy_district.jpg?v=1629387421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">The Classic Festive Candy!</h2>
+<p>     A timeless treat, these pieces of <strong>Brach's Classic Candy Corn</strong> are as yummy as the<strong> real honey</strong> that's used to make them! Get ready for Halloween by stocking up on this nostalgic candy that makes every autumn a little bit sweeter.</p>
+<h3>11oz / 312g | 1 bulk bag </h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_1900s</s:tag>
+    <s:tag>Halloween Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6964987789490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>01-1003028</s:sku>
+      <s:grams>311</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6960855318706</id>
+    <published>2021-08-17T16:59:44-04:00</published>
+    <updated>2021-08-17T16:59:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hersheys-kisses-vampire-filled-with-strawberry-creme-9oz"/>
+    <title>Hershey&apos;s Kisses Vampire Filled with Strawberry Creme - 9oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hersheys_kisses_vampire_milk_chocolate_strawberry_creme_255g_candy_district.jpg?v=1629233984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">⚠️ Caution ⚠️: Deliciousness Ahead<br>
+</h2>
+<p>     Nothing is better than stumbling across a bowl full of <strong>Hershey's Kisses</strong>, just be careful, these ones have fangs! One bite and you'll feel a strange bloodlust take over your tastebuds, they're craving the <strong>sweet Strawberry creme</strong> that fills each of these tasty treats.</p>
+<p>     One Kiss, ah ah ah! Two Kisses, ah ah ah! You won't be able to stop yourself from reaching for number three, ah ah ah! Just keep these away from mom, she might just faint thinking her kids really turned into bloodsucking vampires!</p>
+<h3 data-mce-fragment="1"><strong data-mce-fragment="1">9oz / 255g | 1 bag</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Halloween Candy</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6960855318706</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>02-2001444</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6960545104050</id>
+    <published>2021-08-17T15:18:08-04:00</published>
+    <updated>2021-08-17T15:18:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/m-ms-cookies-screeem-1-41oz"/>
+    <title>M&amp;M&apos;s Cookies &amp; Screeem - 1.41oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars Wrigley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/mars_wrigley_m_and_ms_cookies_and_screeem_1.41oz_candy_district.jpg?v=1629226679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Wrigley<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;" data-mce-fragment="1">Goosebump-Inducing Flavour!</h2>
+<p>     This Halloween, a terrifying treat has caused some whispered rumours to spread across the globe. They say if you clap 3 times, say its name in the mirror at night, and have 13 lit candles nearby, you'll be haunted by a big red M&amp;M!</p>
+<p>     <strong>M&amp;M's Cookies &amp; Screeem</strong> are<strong> candy-coated bites </strong>filled with<strong> chocolate and white chocolate</strong> that blend together to give you a <strong>hauntingly sweet cookies and cream flavour</strong>. You'd best eat these quickly, it might be the only way to make that scary M&amp;M go away!</p>
+<h2 style="text-align: center;" data-mce-style="text-align: center;" data-mce-fragment="1"></h2>
+<h3 style="text-align: left;" data-mce-style="text-align: left;" data-mce-fragment="1"><strong data-mce-fragment="1">1.41oz / 40g | 1 pouch</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>2020s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Halloween Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>M&amp;M</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6960545104050</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2001459</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6960482156722</id>
+    <published>2021-08-17T14:33:10-04:00</published>
+    <updated>2021-08-17T14:33:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/red-vines-candy-corn-licorice-4oz"/>
+    <title>Red Vines Candy Corn Licorice - 4oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>American Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/american_licorice_red_vines_twists_candy_corn_flavor_4oz_candy_district.jpg?v=1629225181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">A Delicious Festive Sweet</h2>
+<p>     A fun treat any licorice fan would go crazy over! These delightful <strong>Red Vines</strong> <strong>Twists</strong> are flavoured to taste just like <strong>Candy Corn</strong> - an amazing fall-inspired flavour that's warm and nostalgic. Even the packaging is ready for the season!</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong data-mce-fragment="1">No Preservatives</strong></li>
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Fat-Free</strong></li>
+</ul>
+<h3 data-mce-fragment="1"><strong data-mce-fragment="1">4oz | 1 sleeve</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Halloween Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Licorice</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6960482156722</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1003025</s:sku>
+      <s:grams>114</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6960343679154</id>
+    <published>2021-08-17T14:07:39-04:00</published>
+    <updated>2021-08-17T14:07:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/sour-punch-spooky-straws-3-7oz"/>
+    <title>Sour Punch Spooky Straws - 3.7oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>American Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/american_licorice_sour_punch_spooky_straws_3.7oz_candy_district.jpg?v=1629223375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Sweet Halloween Treat</h2>
+<p>     Get ready for a sweet treat that'll spook your tastebuds right off! <strong>Sour Punch Spooky Straws</strong> are delightfully tangy, coming in the delicious flavours of <strong>Apple</strong>, <strong>Tangerine</strong>, and <strong>Grape</strong>. </p>
+<ul>
+<li><strong>Low Fat</strong></li>
+<li><strong>Low Sodium</strong></li>
+<li><strong>Kosher &amp; Halal Certified</strong></li>
+</ul>
+<p><strong>3.7oz / 105g | 1 pack</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6960343679154</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1003024</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6960333291698</id>
+    <published>2021-08-17T13:34:41-04:00</published>
+    <updated>2021-08-17T13:34:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hawaiian-punch-cotton-candy-1-5oz"/>
+    <title>Hawaiian Punch Cotton Candy - 1.5oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Taste of Nature</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/taste_of_nature_hawaiian_punch_cotton_candy_1.5oz_candy_district.jpg?v=1629221709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taste of Nature<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;" data-mce-fragment="1">A Great Fluffy Treat for All!</h2>
+<p>     <strong>Hawaiian Punch Cotton Candy</strong> is a delicious fluffy treat with a juicy taste you've never experienced before! Surf the Hawaiian waves of <strong>Fruit Juicy Red</strong> flavour with every bite of this handspun candy.</p>
+<p>     If you've ever had <strong>Hawaiian Punch</strong> chewy candy before, you'll love the same great flavour in every bag of this super sweet cotton candy. It's the perfect sweet to share with friends!</p>
+<h2 data-mce-fragment="1"></h2>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Gluten-Free</strong></li>
+<li data-mce-fragment="1"><strong>Fat-Free</strong></li>
+<li data-mce-fragment="1"><strong>No Cholesterol</strong></li>
+</ul>
+<h5 data-mce-fragment="1"><strong data-mce-fragment="1"></strong></h5>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">1.5oz / 42.5g | 1 bag</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Cotton Candy</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Cotton Candy</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6960333291698</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>01-1003032</s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6960280633522</id>
+    <published>2021-08-17T13:08:37-04:00</published>
+    <updated>2021-08-17T13:08:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/sour-punch-mini-bites-rad-reds-pouch-3-5oz"/>
+    <title>Sour Punch Mini Bites Rad Reds Pouch - 3.5oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>American Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/american_licorice_sour_punch_mini_bites_rad_reds_3.5oz_candy_district.jpg?v=1629220095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Punch of Sour Juiciness!</h2>
+<p>     The classic taste of Sour Punch is back with a tiny twist! <strong>Sour Punch Mini Bites Rad Reds</strong> come in a variety of your favourite red fruit flavours like <strong>Strawberry</strong>, <strong>Watermelon</strong>, and <strong>Cherry</strong>. </p>
+<p>     Soft and chewy, these tangy snacks will wash your tastebuds with a familiar wave of juiciness in every bite. The resealable pack they come in is perfect for sharing with all your loved ones and small enough to fit in any pocket or bag! <br></p>
+<ul>
+<li><strong>Low Fat</strong></li>
+<li><strong>Low Sodium</strong></li>
+<li><strong>Kosher &amp; Halal Certified</strong></li>
+</ul>
+<p><strong>3.5oz / 100g | 1 pack</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6960280633522</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1003033</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6960182558898</id>
+    <published>2021-08-17T13:01:33-04:00</published>
+    <updated>2021-08-17T13:01:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/sour-punch-mini-bites-assorted-pouch-3-5oz"/>
+    <title>Sour Punch Mini Bites Assorted Pouch - 3.5oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>American Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/american_licorice_sour_punch_mini_bites_assorted_flavours_3.5oz_candy_district.jpg?v=1629219668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Punch of Sour Juiciness!</h2>
+<p>     The classic taste of Sour Punch is back with a tiny twist! <strong>Sour Punch Mini Bites</strong> come in a variety of fruity assorted flavours like <strong>Strawberry</strong>, <strong>Green</strong> <strong>Apple</strong>, and <strong>Blue</strong> <strong>Raspberry</strong>. </p>
+<p>     Soft and chewy, these tangy snacks will wash your tastebuds with a familiar wave of juiciness in every bite. The resealable pack they come in is perfect for sharing with all your loved ones and small enough to fit in any pocket or bag! <br></p>
+<ul>
+<li><strong>Low Fat</strong></li>
+<li><strong>Low Sodium</strong></li>
+<li><strong>Kosher &amp; Halal Certified</strong></li>
+</ul>
+<p><strong>3.5oz / 100g | 1 pack</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6960182558898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1003034</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934625452210</id>
+    <published>2021-08-05T14:24:45-04:00</published>
+    <updated>2021-08-05T14:24:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/starburst-fruit-chews-duos-2-07oz"/>
+    <title>Starburst Fruit Chews Duos - 2.07oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wrigley JR. Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/wrigley_jr_co_starburst_duos_fruit_chews_2.07oz_candy_district.jpg?v=1628186959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrigley JR. Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Two Flavours in Each Bite!</span></h2>
+<p><span>     When you want a chewy treat that's bursting with two delicious flavours in one package, <strong>Starburst Duos</strong> are here to deliver! Each fruit chew is half of one flavour and half of another so you get double the fantastic taste every bite you take. With flavours like <strong>Strawberry-Watermelon</strong> and<strong> Blue Raspberry-Lemonade</strong>, we know you won't be able to resist going for another!<br><br></span></p>
+<h3><strong>2.07oz / 58.7g | 1 pack</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Starburst</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Taffy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934625452210</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.39</s:price>
+      <s:sku>01-1002258</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934585147570</id>
+    <published>2021-08-05T14:04:55-04:00</published>
+    <updated>2021-08-05T14:04:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/rock-candy-on-a-stick-blue-raspberry"/>
+    <title>Rock Candy on a Stick - Blue Raspberry</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Espeez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/espeez_rock_stick_candy_blue_raspberry_22g_candy_district.jpg?v=1628184452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Espeez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Crystalized Candy For Any Occasion</h2>
+<p data-mce-fragment="1">     For the most<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">delicious flavours</strong><span data-mce-fragment="1"> </span>and<strong data-mce-fragment="1"><span data-mce-fragment="1"> </span>vibrant colours</strong> for<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Rock Candy on a Stick</strong>, look no further than<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Espeez</strong>. Simply made with sugar and water, the sticks' crystals slowly blossom to become tasty treats and beautiful displays. </p>
+<p data-mce-fragment="1">     Deep blue like a vast ocean and full of juicy berry flavour,<strong data-mce-fragment="1"> Blue Raspberry </strong>Rock Candy makes the perfect treat that doubles as a gorgeous display. Use in your next wedding, birthday party, shower, or corporate event for a sight that'll impress all your guests - and a flavour that's sure to shock their tastebuds!</p>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><br data-mce-fragment="1"></h4>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Make any event absolutely stunning with our<span data-mce-fragment="1"> </span><a href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" title="Rock Candy on a Stick Selection | Candy District" data-mce-fragment="1" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" target="_blank">wide assortment of Rock Candy on a Stick</a><span data-mce-fragment="1"> </span>colours and flavours!<br data-mce-fragment="1">
+</h4>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<h3 data-mce-fragment="1">22g | 1 stick</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934585147570</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.09</s:price>
+      <s:sku>01-1002043</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934581772466</id>
+    <published>2021-08-05T14:04:54-04:00</published>
+    <updated>2021-08-05T14:04:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/rock-candy-on-a-stick-banana"/>
+    <title>Rock Candy on a Stick - Banana</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Espeez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/espeez_rock_stick_candy_banana_22g_candy_district.jpg?v=1628183985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Espeez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Crystalized Candy For Any Occasion</h2>
+<p data-mce-fragment="1">     For the most<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">delicious flavours</strong><span data-mce-fragment="1"> </span>and<strong data-mce-fragment="1"><span data-mce-fragment="1"> </span>vibrant colours</strong> for<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Rock Candy on a Stick</strong>, look no further than<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Espeez</strong>. Simply made with sugar and water, the sticks' crystals slowly blossom to become tasty treats and beautiful displays. </p>
+<p data-mce-fragment="1">     Bright yellow like a freshly bloomed tulip and flavour just like the delicious tropical fruit,<strong data-mce-fragment="1"> Banana </strong>Rock Candy makes the perfect treat that doubles as a gorgeous display. Use in your next wedding, birthday party, shower, or corporate event for a sight that'll impress all your guests - and a flavour that's sure to shock their tastebuds!</p>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><br data-mce-fragment="1"></h4>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Make any event absolutely stunning with our<span data-mce-fragment="1"> </span><a href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" title="Rock Candy on a Stick Selection | Candy District" data-mce-fragment="1" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" target="_blank">wide assortment of Rock Candy on a Stick</a><span data-mce-fragment="1"> </span>colours and flavours!<br data-mce-fragment="1">
+</h4>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<h3 data-mce-fragment="1">22g | 1 stick</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934581772466</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.09</s:price>
+      <s:sku>01-1002055</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934581084338</id>
+    <published>2021-08-05T14:04:54-04:00</published>
+    <updated>2021-08-05T14:04:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/rock-candy-on-a-stick-white-sugar"/>
+    <title>Rock Candy on a Stick - White Sugar</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Espeez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/espeez_rock_stick_candy_white_sugar_22g_candy_district_4e8bcfc5-5476-44a5-b3d0-27ea8de743c4.jpg?v=1628183789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Espeez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Crystalized Candy For Any Occasion</h2>
+<p data-mce-fragment="1">     For the most<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">delicious flavours</strong><span data-mce-fragment="1"> </span>and<strong data-mce-fragment="1"><span data-mce-fragment="1"> </span>vibrant colours</strong> for<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Rock Candy on a Stick</strong>, look no further than<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Espeez</strong>. Simply made with sugar and water, the sticks' crystals slowly blossom to become tasty treats and beautiful displays. </p>
+<p data-mce-fragment="1">     Translucent and sparkling like diamonds with a natural sugar flavour,<strong data-mce-fragment="1"> White Sugar </strong>Rock Candy makes the perfect treat that doubles as a gorgeous display. Use in your next wedding, birthday party, shower, or corporate event for a sight that'll impress all your guests - and a flavour that's sure to shock their tastebuds!</p>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><br data-mce-fragment="1"></h4>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Make any event absolutely stunning with our<span data-mce-fragment="1"> </span><a href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" title="Rock Candy on a Stick Selection | Candy District" data-mce-fragment="1" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" target="_blank">wide assortment of Rock Candy on a Stick</a><span data-mce-fragment="1"> </span>colours and flavours!<br data-mce-fragment="1">
+</h4>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<h3 data-mce-fragment="1">22g | 1 stick</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934581084338</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.09</s:price>
+      <s:sku>01-1002054</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934568108210</id>
+    <published>2021-08-05T14:04:53-04:00</published>
+    <updated>2021-08-05T14:04:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/rock-candy-on-a-stick-watermelon"/>
+    <title>Rock Candy on a Stick - Watermelon</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Espeez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/espeez_rock_stick_candy_watermelon_22g_candy_district.jpg?v=1628182586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Espeez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Crystalized Candy For Any Occasion</h2>
+<p data-mce-fragment="1">     For the most<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">delicious flavours</strong><span data-mce-fragment="1"> </span>and<strong data-mce-fragment="1"><span data-mce-fragment="1"> </span>vibrant colours</strong> for<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Rock Candy on a Stick</strong>, look no further than<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Espeez</strong>. Simply made with sugar and water, the sticks' crystals slowly blossom to become tasty treats and beautiful displays. </p>
+<p data-mce-fragment="1">     Pale green like the inside of a freshly cut lime, and flavour only comparable to the juicy melon itself,<strong data-mce-fragment="1"> Watermelon </strong>Rock Candy makes the perfect treat that doubles as a gorgeous display. Use in your next wedding, birthday party, shower, or corporate event for a sight that'll impress all your guests - and a flavour that's sure to shock their tastebuds!</p>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><br data-mce-fragment="1"></h4>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Make any event absolutely stunning with our<span data-mce-fragment="1"> </span><a href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" title="Rock Candy on a Stick Selection | Candy District" data-mce-fragment="1" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" target="_blank">wide assortment of Rock Candy on a Stick</a><span data-mce-fragment="1"> </span>colours and flavours!<br data-mce-fragment="1">
+</h4>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<h3 data-mce-fragment="1">22g | 1 stick</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934568108210</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.09</s:price>
+      <s:sku>01-1002053</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+</feed>

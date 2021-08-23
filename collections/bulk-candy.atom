@@ -1,0 +1,1487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.candydistrict.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.candydistrict.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.candydistrict.com/collections/bulk-candy.atom"/>
+  <title>Candy District</title>
+  <updated>2021-08-19T12:39:31-04:00</updated>
+  <author>
+    <name>Candy District</name>
+  </author>
+  <entry>
+    <id>https://www.candydistrict.com/products/6965060436146</id>
+    <published>2021-08-19T12:39:31-04:00</published>
+    <updated>2021-08-19T12:39:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/minion-gummies-50ct"/>
+    <title>Minion Gummies - 50ct</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Regal Confections</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/regal_illumination_presents_minions_gummies_50_count_250g_candy_district.jpg?v=1629391207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Regal Confections<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Tasty and Goofy Treat to Share</h2>
+<p>     What's more fun than a gummy treat that's shaped just like one of the loveable <strong>Minions</strong> from <em><strong>Despicable Me</strong></em>? The only thing we can think of is <strong>50 of them</strong>! </p>
+<p><strong>     </strong>Each gummy Minion is<strong> individually wrapped</strong> making this bag an easy and affordable option to hand out to trick-or-treaters on Halloween. They also make great piñata stuffers or snacks for a fantastic party!</p>
+<h3>250g | 1 bulk bag contains 50 individually wrapped pieces</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Bulk Gummy Candy</s:tag>
+    <s:tag>Bulk Sour Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halloween Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6965060436146</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>04-4000740</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6965034287282</id>
+    <published>2021-08-19T12:16:20-04:00</published>
+    <updated>2021-08-19T12:16:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/popeye-candy-sticks-24ct"/>
+    <title>Popeye Candy Sticks - 24ct</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Regal Confections</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/regal_popeye_candy_sticks_bulk_bag_24_count_60g_candy_district.jpg?v=1629389812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Regal Confections<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Nostalgic 50s Sweets to Share!</h2>
+<p>     <strong>Popeye Candy Sticks</strong> are the perfect treat to share with all the kids on Halloween, they bring back so many fond trick-or-treating memories! This <strong>24 count bulk bag</strong> makes it easy to fill a bowl full of the retro classic candy to pass around or leave out for a fun party. </p>
+<h3>60g | 1 bulk bag</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Era_1950s</s:tag>
+    <s:tag>Halloween Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6965034287282</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>04-4000737</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6884545921202</id>
+    <published>2021-07-14T11:04:52-04:00</published>
+    <updated>2021-07-14T11:04:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ccc-wiggly-gummi-worms-2kg"/>
+    <title>CCC Wiggly Gummi Worms - 2kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/canada_candy_company_wiggly_gummi_worms_2.5kg_candy_district.jpg?v=1626274896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">One of the Most Classic Gummy Treats of them All!<br>
+</h2>
+<p>     You may have had gummy worms plenty times before, but you haven't had them quite like these! Canada Candy Co.'s gummy worms are next to none, with their delicious recipe that's designed for more sharing equaling more smiles. With 3 super sweet flavour combos: <strong>Cherry-Lemon</strong>, <strong>Blue Raspberry-Orange</strong>, and <strong>Pineapple-Lime</strong>. These worms will have you hook, line, and sinker!</p>
+<p>     This bulk candy is perfect for any event: weddings, baby showers, corporate events, candy buffets, or birthdays. Get together and share the sweetness of candy!</p>
+<p>     The Canada Candy Company which was established in 2017 is highly dedicated to making quality bulk candy. All of their products are certified Kosher and Halal, and made in a peanut-free and gluten-free facility, ensuring everybody is able to enjoy the deliciousness of candy. All of their candy is made in Canada, so you can feel good about supporting a proudly Canadian business with each order. You won't be able to go back after trying their delectable sweets!</p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>(1 bulk bag) 2kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Colour_Orange</s:tag>
+    <s:tag>Colour_Yellow</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6884545921202</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6882782642354</id>
+    <published>2021-07-14T10:38:59-04:00</published>
+    <updated>2021-07-14T10:38:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ccc-sour-mini-cherry-bombs-2-5kg"/>
+    <title>CCC Sour Mini Cherry Bombs - 2.5kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/canada_candy_company_mini_sour_cherry_bombs_2.5kg_candy_district_1.jpg?v=1626209677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">Ignite Your Taste Buds!</h2>
+<p>    <span data-mce-fragment="1">One bite of these and you'll know exactly how they got their name; it'll be as if an explosion of juicy and sour cherry got set off in your mouth! These Mini Sour Cherry Bombs are tiny, but they're still just as bound to burst as their larger counterpart. Don't underestimate this firecracker of a treat!</span></p>
+<p>     This bulk candy is perfect for any event: weddings, baby showers, corporate events, candy buffets, or birthdays. Get together and share the sweetness of candy!</p>
+<p>     The Canada Candy Company which was established in 2017 is highly dedicated to making quality bulk candy. All of their products are certified Kosher and Halal, and made in a peanut-free and gluten-free facility, ensuring everybody is able to enjoy the deliciousness of candy. All of their candy is made in Canada, so you can feel good about supporting a proudly Canadian business with each order. You won't be able to go back after trying their delectable sweets!</p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Vegan Friendly</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>(1 bulk bag) 2.5kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Colour_Red</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6882782642354</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000181</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6882754724018</id>
+    <published>2021-07-14T10:38:25-04:00</published>
+    <updated>2021-07-14T10:38:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ccc-sour-jacked-up-juice-berries-2-5kg"/>
+    <title>CCC Sour Jacked Up Juice Berries - 2.5kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/canada_candy_co_sour_jacked_up_juice_berries_2.5kg_candy_district.jpg?v=1626207570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">Don't Miss Out on These Scrumptious Sour Berries!</h2>
+<p>     Prepare to be amazed by the succulent taste of these sensational gummies, a sweet and sour combo that's sure to knock your socks off! A juicy flavour just like fresh berries off the vine, these Juice Berries are definitely going to kick your tastebuds into overdrive. </p>
+<p>     This bulk candy is perfect for any event: weddings, baby showers, corporate events, candy buffets, or birthdays. Get together and share the sweetness of candy!</p>
+<p>     The Canada Candy Company which was established in 2017 is highly dedicated to making quality bulk candy. All of their products are certified Kosher and Halal, and made in a peanut-free and gluten-free facility, ensuring everybody is able to enjoy the deliciousness of candy. All of their candy is made in Canada, so you can feel good about supporting a proudly Canadian business with each order. You won't be able to go back after trying their delectable sweets!</p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>(1 bulk bag) 2.5kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Colour_Assorted</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6882754724018</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000723</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6882771108018</id>
+    <published>2021-07-14T10:38:07-04:00</published>
+    <updated>2021-07-14T10:38:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ccc-sour-mini-blue-raspberries-2-5kg"/>
+    <title>CCC Sour Mini Blue Raspberries - 2.5kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/canada_candy_company_mini_sour_blue_raspberries_2.5kg_candy_district_1.jpg?v=1626208996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">The Only Tiny Thing About These Berries Are Their Size!</h2>
+<p>     Shockingly sour with the addition of delicious succulent blue raspberry, these mini berries definitely aren't tiny when it comes to flavour! If the beautiful, bright blue wasn't appetizing enough, the glimmer from the sour sugar is bound to make your mouth water. Don't feel bad about digging in, they're mini after all!</p>
+<p>     This bulk candy is perfect for any event: weddings, baby showers, corporate events, candy buffets, or birthdays. Get together and share the sweetness of candy!</p>
+<p>     The Canada Candy Company which was established in 2017 is highly dedicated to making quality bulk candy. All of their products are certified Kosher and Halal, and made in a peanut-free and gluten-free facility, ensuring everybody is able to enjoy the deliciousness of candy. All of their candy is made in Canada, so you can feel good about supporting a proudly Canadian business with each order. You won't be able to go back after trying their delectable sweets!</p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Vegan Friendly</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>(1 bulk bag) 2.5kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Colour_Blue</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6882771108018</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000177</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6882734899378</id>
+    <published>2021-07-14T10:37:45-04:00</published>
+    <updated>2021-07-14T10:37:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ccc-sour-gummi-grizzly-bears-2-5kg"/>
+    <title>CCC Sour Gummi Grizzly Bears - 2.5kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/canada_candy_company_sour_gummi_grizzly_bears_2.5kg_candy_district.jpg?v=1626207249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">A Tart Twist on the Original Bear</h2>
+<p>     These bears are dangerous... dangerously delicious that is! Take a trip on the sour side with this tart twist on the classic gummy treat and feel the sour sugar melt on your tongue, followed by the juicy, fruity flavours of the gummy itself. What a delightful sweet!</p>
+<p>     This bulk candy is perfect for any event: weddings, baby showers, corporate events, candy buffets, or birthdays. Get together and share the sweetness of candy!</p>
+<p>     The Canada Candy Company which was established in 2017 is highly dedicated to making quality bulk candy. All of their products are certified Kosher and Halal, and made in a peanut-free and gluten-free facility, ensuring everybody is able to enjoy the deliciousness of candy. All of their candy is made in Canada, so you can feel good about supporting a proudly Canadian business with each order. You won't be able to go back after trying their delectable sweets!</p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>(1 bulk bag) 2.5kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Colour_Assorted</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6882734899378</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000180</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6882724806834</id>
+    <published>2021-07-14T10:37:10-04:00</published>
+    <updated>2021-07-14T10:37:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ccc-sour-fizzy-cola-bottles-2-5kg"/>
+    <title>CCC Sour Fizzy Cola Bottles - 2.5kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/canada-candy-company-sour-fizzy-cola-bottles-2.5kg-candy-district.jpg?v=1626206466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">Dangerously Delicious Sour Cola Bottles<br>
+</h2>
+<p>    Taste the refreshing flavour of sweet cola with a bit of sour mixed in, these Sour Fizzy Cola Bottle gummies are bound to quell that craving for a cold soda. It'll be as if you were sipping on a Coke, all you're missing is that satisfying crack and fizzle of the aluminum can being opened!</p>
+<p>     This bulk candy is perfect for any event: weddings, baby showers, corporate events, candy buffets, or birthdays. Get together and share the sweetness of candy!</p>
+<p>     The Canada Candy Company which was established in 2017 is highly dedicated to making quality bulk candy. All of their products are certified Kosher and Halal, and made in a peanut-free and gluten-free facility, ensuring everybody is able to enjoy the deliciousness of candy. All of their candy is made in Canada, so you can feel good about supporting a proudly Canadian business with each order. You won't be able to go back after trying their delectable sweets!</p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>(1 bulk bag) 2.5kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6882724806834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000179</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6882705834162</id>
+    <published>2021-07-14T10:36:50-04:00</published>
+    <updated>2021-07-14T10:36:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ccc-sour-cherry-bombs-2-5kg"/>
+    <title>CCC Sour Cherry Bombs - 2.5kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/canada_candy_company_sour_cherry_bombs_2.5kg_candy_district.jpg?v=1626205893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">Proceed with Caution, They're Loaded (with Flavour)!</h2>
+<p>    One bite of these and you'll know exactly how they got their name; it'll be as if an explosion of juicy and sour cherry got set off in your mouth! A gummy treat that's (quite literally) bursting with flavour, hold onto your hat because these delicious sweets will blow you away. Be careful, they're highly flammable!</p>
+<p>     This bulk candy is perfect for any event: weddings, baby showers, corporate events, candy buffets, or birthdays. Get together and share the sweetness of candy!</p>
+<p>     The Canada Candy Company which was established in 2017 is highly dedicated to making quality bulk candy. All of their products are certified Kosher and Halal, and made in a peanut-free and gluten-free facility, ensuring everybody is able to enjoy the deliciousness of candy. All of their candy is made in Canada, so you can feel good about supporting a proudly Canadian business with each order. You won't be able to go back after trying their delectable sweets!</p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Vegan Friendly</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>(1 bulk bag) 2.5kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Colour_Red</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6882705834162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000582</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6882693382322</id>
+    <published>2021-07-14T10:36:28-04:00</published>
+    <updated>2021-07-14T10:36:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ccc-sour-bud-bites-2-5kg"/>
+    <title>CCC Sour Bud Bites - 2.5kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/canada_candy_co_sour_bud_bites_2.5kg_candy_district.jpg?v=1626204594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">Your Tongue Needs Buddies Too!</h2>
+<p>     Super sweet <em>and</em> super sour, a delicious combination that makes it hard not to gobble these little guys up! Sour Bud Bites are made with a variety of bright and fun colours, so they're pleasing for the eye as much as they're pleasing for your tastebuds. Perfect as a display, or just a late night snack for when the munchies kick in!</p>
+<p>     This bulk candy is perfect for any event: weddings, baby showers, corporate events, candy buffets, or birthdays. Get together and share the sweetness of candy!</p>
+<p>     The Canada Candy Company which was established in 2017 is highly dedicated to making quality bulk candy. All of their products are certified Kosher and Halal, and made in a peanut-free and gluten-free facility, ensuring everybody is able to enjoy the deliciousness of candy. All of their candy is made in Canada, so you can feel good about supporting a proudly Canadian business with each order. You won't be able to go back after trying their delectable sweets!</p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Vegan Friendly</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>(1 bulk bag) 2.5kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Colour_Red</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6882693382322</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000581</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6882661204146</id>
+    <published>2021-07-14T10:35:02-04:00</published>
+    <updated>2021-07-14T10:35:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ccc-savage-sour-strawberries-2-5kg"/>
+    <title>CCC Savage Sour Strawberries - 2.5kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/canada-candy-company-savage-sour-strawberries-2.5kg-candy-district.jpg?v=1626203937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">Sour? Strawberry? Sign Me Up!</h2>
+<p>     Be prepared to pucker up with these savagely Sour Strawberries! One bite is all you need to experience the quality, juicy gummy that's carefully crafted by our favourite Canadian company. So much fierce flavour, you'll be dreaming of Savage Sour Strawberries for days!</p>
+<p>     This bulk candy is perfect for any event: weddings, baby showers, corporate events, candy buffets, or birthdays. Get together and share the sweetness of candy!</p>
+<p>     The Canada Candy Company which was established in 2017 is highly dedicated to making quality bulk candy. All of their products are certified Kosher and Halal, and made in a peanut-free and gluten-free facility, ensuring everybody is able to enjoy the deliciousness of candy. All of their candy is made in Canada, so you can feel good about supporting a proudly Canadian business with each order. You won't be able to go back after trying their delectable sweets!</p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Vegan Friendly</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>(1 bulk bag) 2.5kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Colour_Red</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6882661204146</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000178</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6882625454258</id>
+    <published>2021-07-14T10:34:38-04:00</published>
+    <updated>2021-07-14T10:34:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ccc-ruby-red-berries-2-5kg"/>
+    <title>CCC Ruby Red Berries - 2.5kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/canada_candy_co_ruby_red_berries_2.5kg_candy_district.jpg?v=1626202602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">These Berries Pack a Firm, Sweet, and Chewy Punch!</h2>
+<p>     Ruby Red Berries are juicy and addicting! Made with all natural flavours and colours, treat yourself the right way. You won't believe the intense flavour and chew, their yumminess knows no bounds!</p>
+<p>     This bulk candy is perfect for any event: weddings, baby showers, corporate events, candy buffets, or birthdays. Get together and share the sweetness of candy!</p>
+<p>     The Canada Candy Company which was established in 2017 is highly dedicated to making quality bulk candy. All of their products are certified Kosher and Halal, and made in a peanut-free and gluten-free facility, ensuring everybody is able to enjoy the deliciousness of candy. All of their candy is made in Canada, so you can feel good about supporting a proudly Canadian business with each order. You won't be able to go back after trying their delectable sweets!</p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Vegan Friendly</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>(1 bulk bag) 2.5kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Colour_Red</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6882625454258</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000735</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6884496343218</id>
+    <published>2021-07-14T10:33:10-04:00</published>
+    <updated>2021-07-14T10:33:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ccc-muddled-spearmint-leaves-2-5kg"/>
+    <title>CCC Muddled Spearmint Leaves - 2kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/canada_candy_company_muddled_spearmint_leaves_2kg_candy_district.jpg?v=1626270305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">Fresh and Frosty</h2>
+<p>     Both refreshing and sweet, these delicious gummies with an addicting minty flavour will have you feeling light and airy. These 100% naturally flavoured treats are a breath of fresh air that leave a tangy, brisk flavour lingering on your tongue. Take a trip on top of Cloud 9 with delightful Muddled Spearmint Leaves candy!</p>
+<p>     This bulk candy is perfect for any event: weddings, baby showers, corporate events, candy buffets, or birthdays. Get together and share the sweetness of candy!</p>
+<p>     The Canada Candy Company which was established in 2017 is highly dedicated to making quality bulk candy. All of their products are certified Kosher and Halal, and made in a peanut-free and gluten-free facility, ensuring everybody is able to enjoy the deliciousness of candy. All of their candy is made in Canada, so you can feel good about supporting a proudly Canadian business with each order. You won't be able to go back after trying their delectable sweets!</p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Vegan Friendly</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>(1 bulk bag) 2kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Colour_Green</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6884496343218</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000605</s:sku>
+      <s:grams>2100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6882640789682</id>
+    <published>2021-07-14T10:32:26-04:00</published>
+    <updated>2021-07-14T10:32:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ccc-mini-ruby-red-berries-2-5kg"/>
+    <title>CCC Mini Ruby Red Berries - 2.5kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/canada_candy_co_mini_ruby_red_berries_2.5kg_candy_district_1.jpg?v=1626203392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">Mini Berries with Huge Flavour!</h2>
+<p>     Delicious bright red berries you'll love to savour, they may look tiny but they pack a serious punch! Made with all natural colours and flavours, you won't ever have to feel bad about treating yourself with this juicy snack!</p>
+<p>     This bulk candy is perfect for any event: weddings, baby showers, corporate events, candy buffets, or birthdays. Get together and share the sweetness of candy!</p>
+<p>     The Canada Candy Company which was established in 2017 is highly dedicated to making quality bulk candy. All of their products are certified Kosher and Halal, and made in a peanut-free and gluten-free facility, ensuring everybody is able to enjoy the deliciousness of candy. All of their candy is made in Canada, so you can feel good about supporting a proudly Canadian business with each order. You won't be able to go back after trying their delectable sweets!</p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Vegan Friendly</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>(1 bulk bag) 2.5kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Colour_Red</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6882640789682</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6882580562098</id>
+    <published>2021-07-14T10:31:57-04:00</published>
+    <updated>2021-07-14T10:31:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ccc-licorice-buddies-2kg"/>
+    <title>CCC Licorice Buddies - 2kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/canada_candy_co_licorice_buddies_2kg_candy_district.jpg?v=1626201661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">Delectable Black Licorice</h2>
+<p>     The perfect treat for any fan of soft, chewy black licorice! This superb confectionary is shaped like little men, so sweet and cute, you won't be able to get enough! </p>
+<p>     This bulk candy is perfect for any event: weddings, baby showers, corporate events, candy buffets, or birthdays. Get together and share the sweetness of candy!</p>
+<p>     The Canada Candy Company which was established in 2017 is highly dedicated to making quality bulk candy. All of their products are certified Kosher and Halal, and made in a peanut-free and gluten-free facility, ensuring everybody is able to enjoy the deliciousness of candy. All of their candy is made in Canada, so you can feel good about supporting a proudly Canadian business with each order. You won't be able to go back after trying their delectable sweets!</p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Vegan Friendly</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>(1 bulk bag) 2kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Colour_Black</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6882580562098</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000414</s:sku>
+      <s:grams>2100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6884525408434</id>
+    <published>2021-07-14T10:30:13-04:00</published>
+    <updated>2021-07-14T10:30:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ccc-sweet-peach-slices-2-5kg"/>
+    <title>CCC Sweet Peach Slices - 2.5kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/canada_candy_company_sweet_peach_slices_2.5kg_candy_district.jpg?v=1626272955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">All Peach, No Fuzz<br>
+</h2>
+<p>     Not to be mistaken for <a href="https://www.candydistrict.com/products/ccc-sweet-peach-rings-2kg?_pos=3&amp;_sid=e81a890b5&amp;_ss=r" title="CCC Sweet Peach Rings | Candy District">Sweet Peach Rings</a>, these sweet and savoury treats will take your tastebuds on a trip to a whole orchard full of flavour. An addicting taste and chew, you won't believe the peach you've been missing out on! Now to find James and see if he can make these giant too...</p>
+<p>     This bulk candy is perfect for any event: weddings, baby showers, corporate events, candy buffets, or birthdays. Get together and share the sweetness of candy!</p>
+<p>     The Canada Candy Company which was established in 2017 is highly dedicated to making quality bulk candy. All of their products are certified Kosher and Halal, and made in a peanut-free and gluten-free facility, ensuring everybody is able to enjoy the deliciousness of candy. All of their candy is made in Canada, so you can feel good about supporting a proudly Canadian business with each order. You won't be able to go back after trying their delectable sweets!</p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Vegan Friendly</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>(1 bulk bag) 2.5kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Colour_Orange</s:tag>
+    <s:tag>Colour_Yellow</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6884525408434</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000183</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6884515610802</id>
+    <published>2021-07-14T10:09:12-04:00</published>
+    <updated>2021-07-14T10:09:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ccc-sweet-peach-rings-2kg"/>
+    <title>CCC Sweet Peach Rings - 2kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/canada_candy_company_sweet_peach_rings_2kg_candy_district_1.jpg?v=1626271732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">A Fan Favourite!</h2>
+<p>    A gummy ring so juicy you won't believe it's not a real peach, but don't take our word for it, take a bite! Canada Candy Company makes the most delicious gummies in the country, and their take on this classic sweet is no exception. Let the combo of tangy and sweet take over your senses.</p>
+<p>     This bulk candy is perfect for any event: weddings, baby showers, corporate events, candy buffets, or birthdays. Get together and share the sweetness of candy!</p>
+<p>     The Canada Candy Company which was established in 2017 is highly dedicated to making quality bulk candy. All of their products are certified Kosher and Halal, and made in a peanut-free and gluten-free facility, ensuring everybody is able to enjoy the deliciousness of candy. All of their candy is made in Canada, so you can feel good about supporting a proudly Canadian business with each order. You won't be able to go back after trying their delectable sweets!</p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>(1 bulk bag) 2kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Colour_Orange</s:tag>
+    <s:tag>Colour_Yellow</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6884515610802</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000182</s:sku>
+      <s:grams>2100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6882565947570</id>
+    <published>2021-07-14T09:53:37-04:00</published>
+    <updated>2021-07-14T09:53:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ccc-jumbo-sour-soothers-2kg"/>
+    <title>CCC Jumbo Sour Soothers - 2.5kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/canada_candy_company_jumbo_sour_suckers_2.5kg_candy_district_1.jpg?v=1626270784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">Jumbo in Size and Taste!</h2>
+<p>     These sour favourites are now bigger - which means better! For anyone who would rather eat by the handful, these massive keys will satisfy your candy cravings. You better pucker up, buttercup!</p>
+<p>     This bulk candy is perfect for any event: weddings, baby showers, corporate events, candy buffets, or birthdays. Get together and share the sweetness of candy!</p>
+<p>     The Canada Candy Company which was established in 2017 is highly dedicated to making quality bulk candy. All of their products are certified Kosher and Halal, and made in a peanut-free and gluten-free facility, ensuring everybody is able to enjoy the deliciousness of candy. All of their candy is made in Canada, so you can feel good about supporting a proudly Canadian business with each order. You won't be able to go back after trying their delectable sweets!</p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>(1 bulk bag) 2.5kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6882565947570</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000358</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6882791948466</id>
+    <published>2021-07-14T09:25:28-04:00</published>
+    <updated>2021-07-14T09:25:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ccc-sour-wild-watermelon-slices-2-5kg"/>
+    <title>CCC Sour Wild Watermelon Slices - 2.5kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/canada_candy_company_sour_wild_watermelon_slices_2.5kg_candy_district.jpg?v=1626269049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">Grab a Seat at this Picnic!</h2>
+<p>     A treat that'll remind you of a hot summer day, these Sour Wild Watermelon Slices are almost as juicy as the real thing! Sour and scrumptious, the tangy sensation on your tongue will mix with the sweet to make for the perfect tango of flavours. Any fan of watermelon will go <em></em>wild for these delicious gummies!</p>
+<p>     This bulk candy is perfect for any event: weddings, baby showers, corporate events, candy buffets, or birthdays. Get together and share the sweetness of candy!</p>
+<p>     The Canada Candy Company which was established in 2017 is highly dedicated to making quality bulk candy. All of their products are certified Kosher and Halal, and made in a peanut-free and gluten-free facility, ensuring everybody is able to enjoy the deliciousness of candy. All of their candy is made in Canada, so you can feel good about supporting a proudly Canadian business with each order. You won't be able to go back after trying their delectable sweets!</p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Vegan Friendly</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>(1 bulk bag) 2.5kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Colour_Pink</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6882791948466</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000604</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6882536849586</id>
+    <published>2021-07-13T13:59:46-04:00</published>
+    <updated>2021-07-13T13:59:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ccc-jumbo-assorted-gummi-grizzly-bears-2kg"/>
+    <title>CCC Jumbo Assorted Gummi Grizzly Bears - 2.5kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/canada_candy_co_jumbo_gummi_grizzly_bears_2kg_candy_district.jpg?v=1626198944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">You Better Bite Into These Enormous Bears Before They Bite You!</h2>
+<p>     The classic gummy treat with a (big) twist! Each of these giant bears comes with 2 flavours in one, meaning you get double the flavour in each and every bite. These mega-sized bears are sure to quell even the most hefty cravings!</p>
+<p>     This bulk candy is perfect for any event: weddings, baby showers, corporate events, candy buffets, or birthdays. Get together and share the sweetness of candy!</p>
+<p>     The Canada Candy Company which was established in 2017 is highly dedicated to making quality bulk candy. All of their products are certified Kosher and Halal, and made in a peanut-free and gluten-free facility, ensuring everybody is able to enjoy the deliciousness of candy. All of their candy is made in Canada, so you can feel good about supporting a proudly Canadian business with each order. You won't be able to go back after trying their delectable sweets!</p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>(1 bulk bag) 2.5kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Colours_Assorted</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6882536849586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000356</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6882518335666</id>
+    <published>2021-07-13T13:34:57-04:00</published>
+    <updated>2021-07-13T13:34:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ccc-ju-jubes-2kg"/>
+    <title>CCC Ju Jubes - 2.5kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/canada_candy_co_ju_jubes_2.5kg_candy_district.jpg?v=1626199450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">The Famous Firm, Chewy Goodness!<br>
+</h2>
+<p>     A stupendously chewy treat, the recipe for Jujubes can be found dated back to as far as 1709! These ultra fruity confections are pleasure to chew and taste, with a texture like no other and various delicious fruity flavours in every bag. </p>
+<p>     This bulk candy is perfect for any event: weddings, baby showers, corporate events, candy buffets, or birthdays. Get together and share the sweetness of candy!</p>
+<p>     The Canada Candy Company which was established in 2017 is highly dedicated to making quality bulk candy. All of their products are certified Kosher and Halal, and made in a peanut-free and gluten-free facility, ensuring everybody is able to enjoy the deliciousness of candy. All of their candy is made in Canada, so you can feel good about supporting a proudly Canadian business with each order. You won't be able to go back after trying their delectable sweets!</p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Vegan Friendly</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>(1 bulk bag) 2.5kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Colours_Assorted</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6882518335666</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000355</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6882470592690</id>
+    <published>2021-07-13T13:16:34-04:00</published>
+    <updated>2021-07-13T13:16:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ccc-jacked-up-juice-berries-2-5kg"/>
+    <title>CCC Jacked Up Juice Berries - 2.5kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/canada-candy-co-jacked-up-juice-berries-bulk-gummies-2.5-kg-candy-district.jpg?v=1626195365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">We've Jacked Up the Flavour with These Juice Berries</h2>
+<p>     Squishy berry gummies you won't be able to put down once you start chewing. The mouthwatering flavour of fresh berries will overwhelm your tastebuds even after the first bite! A satisfying juiciness that'll have these in your top 10 faves for sure!</p>
+<p>     This bulk candy is perfect for any event: weddings, baby showers, corporate events, candy buffets, or birthdays. Get together and share the sweetness of candy!</p>
+<p>     The Canada Candy Company which was established in 2017 is highly dedicated to making quality bulk candy. All of their products are certified Kosher and Halal, and made in a peanut-free and gluten-free facility, ensuring everybody is able to enjoy the deliciousness of candy. All of their candy is made in Canada, so you can feel good about supporting a proudly Canadian business with each order. You won't be able to go back after trying their delectable sweets!</p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>(1 bulk bag) 2.5kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6882470592690</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000730</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6882405023922</id>
+    <published>2021-07-13T12:51:51-04:00</published>
+    <updated>2021-07-13T12:51:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ccc-fizzy-cola-bottles-2-5kg"/>
+    <title>CCC Fizzy Cola Bottles - 2.5kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/canada_candy_co_fizzy_cola_bottles_2.5kg_candy_district.jpg?v=1626192409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Take a Sip of This!</h2>
+<p>     Quench your thirst with these deliciously sweet cola bottle gummies! A juicy flavour reminiscent of your favourite soda, you wouldn't believe you didn't just crack open a cold one. The only thing missing is the crisp, satisfying sound of the aluminum can opening!</p>
+<p>     This bulk candy is perfect for any event: weddings, baby showers, corporate events, candy buffets, or birthdays. Get together and share the sweetness of candy!</p>
+<p>     The Canada Candy Company which was established in 2017 is highly dedicated to making quality bulk candy. All of their products are certified Kosher and Halal, and made in a peanut-free and gluten-free facility, ensuring everybody is able to enjoy the deliciousness of candy. All of their candy is made in Canada, so you can feel good about supporting a proudly Canadian business with each order. You won't be able to go back after trying their delectable sweets!</p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>(1 bulk bag) 2.5kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6882405023922</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000213</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6882421080242</id>
+    <published>2021-07-13T12:50:41-04:00</published>
+    <updated>2021-07-13T12:50:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ccc-insane-sour-soothers-2kg"/>
+    <title>CCC Insane Sour Soothers - 2kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/canada_candy_co_insane_sour_soothers_2kg_candy_district.jpg?v=1626192581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">Tons of Lip-Puckering Goodness in Each Bite!</h2>
+<p>     The super popular, super sour treat that has two fruity flavours in each piece! How do you enjoy these sweets? Slowly suck all the sugar coating off them, savouring the taste before you bite into the chewy gummy? Or just go straight for the kill and gulp it down in one bite? No matter how you eat this yummy treat, it's sure to bring joy wherever you bring them!</p>
+<p>     This bulk candy is perfect for any event: weddings, baby showers, corporate events, candy buffets, or birthdays. Get together and share the sweetness of candy!</p>
+<p>     The Canada Candy Company which was established in 2017 is highly dedicated to making quality bulk candy. All of their products are certified Kosher and Halal, and made in a peanut-free and gluten-free facility, ensuring everybody is able to enjoy the deliciousness of candy. All of their candy is made in Canada, so you can feel good about supporting a proudly Canadian business with each order. You won't be able to go back after trying their delectable sweets!</p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>(1 bulk bag) 2kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6882421080242</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000350</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6882386411698</id>
+    <published>2021-07-13T11:52:11-04:00</published>
+    <updated>2021-07-13T11:52:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ccc-english-gums-2-5kg"/>
+    <title>CCC English Wine Gums - 2.5kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/canada_candy_co_english_wine_gums_2.5kg_candy_district.jpg?v=1626191389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Little Taste of Britain to Satisfy Your Craving</h2>
+<p>     English Wine Gums are a firm, chewy gummy that have been a classic treat since the early 1900s. The Canada Candy Company take on the wine gum is full of fruity flavours that are sure to be delightful to everyone. Don't worry these, won't contain any wine!</p>
+<p>     This bulk candy is perfect for any event: weddings, baby showers, corporate events, candy buffets, or birthdays. Get together and share the sweetness of candy!</p>
+<p>     The Canada Candy Company which was established in 2017 is highly dedicated to making quality bulk candy. All of their products are certified Kosher and Halal, and made in a peanut-free and gluten-free facility, ensuring everybody is able to enjoy the deliciousness of candy. All of their candy is made in Canada, so you can feel good about supporting a proudly Canadian business with each order. You won't be able to go back after trying their delectable sweets!</p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>(1 bulk bag) 2.5kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Colour_Assorted</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6882386411698</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000176</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+</feed>

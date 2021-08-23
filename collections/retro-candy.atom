@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.candydistrict.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.candydistrict.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.candydistrict.com/collections/retro-candy.atom"/>
+  <title>Candy District</title>
+  <updated>2021-08-20T14:13:19-04:00</updated>
+  <author>
+    <name>Candy District</name>
+  </author>
+  <entry>
+    <id>https://www.candydistrict.com/products/6967566860466</id>
+    <published>2021-08-20T14:13:19-04:00</published>
+    <updated>2021-08-20T14:13:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/andy-capps-battered-onion-rings-3oz"/>
+    <title>Andy Capp&apos;s Beer Battered Onion Rings - 2oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>ConAgra Foods Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/conagra_foods_inc_andy_capps_beer_battered_onion_rings_2oz_candy_district.jpg?v=1629482851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ConAgra Foods Inc.<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Taste the Oven Baked Crunch!</h2>
+<p>     If you're looking for a yummy<strong> corn and oat snack</strong> with a <strong>satisfying crunch</strong> and <strong>bold flavour</strong>, look no further! <strong>Andy Capp's</strong> has a delicious line of snacks with <strong>0g of trans fat</strong> that are <strong>oven-baked not fried</strong>, giving you munchies you can feel good about.</p>
+<p>     These <strong>Beer Battered Onion Rings </strong>are a <strong>thick and tasty snack</strong> without any of the overpowering flavour of an onion seasoning. A great taste that gets even greater when you share with friends and family!</p>
+<h3>2oz / 56.7g | 1 bag</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Snacks</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6967566860466</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>03-3000136</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6967553622194</id>
+    <published>2021-08-20T14:01:28-04:00</published>
+    <updated>2021-08-20T14:01:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/andy-capps-ranch-fries-3oz"/>
+    <title>Andy Capp&apos;s Ranch Fries - 3oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>ConAgra Foods Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/conagra_foods_inc_andy_capps_ranch_fries_3oz_candy_district.jpg?v=1629482469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ConAgra Foods Inc.<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Taste the Oven Baked Crunch!</h2>
+<p>     If you're looking for a yummy<strong> potato and corn snack</strong> with a <strong>satisfying crunch</strong> and <strong>bold flavour</strong>, look no further! <strong>Andy Capp's</strong> has a delicious line of snacks with <strong>0g of trans fat</strong> that are <strong>oven-baked not fried</strong>, giving you munchies you can feel good about.</p>
+<p>     These <strong>Ranch Fries</strong> have a <strong>seriously strong ranch seasoning</strong> you won't be able to get enough of. A great taste that gets even greater when you share with friends and family!</p>
+<h3>3oz / 85g | 1 bag</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Snacks</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6967553622194</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>03-3000139</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6967548412082</id>
+    <published>2021-08-20T13:53:02-04:00</published>
+    <updated>2021-08-20T13:53:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/andy-capps-hot-fries-3oz"/>
+    <title>Andy Capp&apos;s Hot Fries - 3oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>ConAgra Foods Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/conagra_foods_inc_andy_capps_hot_fries_3oz_candy_district.jpg?v=1629481977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ConAgra Foods Inc.<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Taste the Oven Baked Crunch!</h2>
+<p>     If you're looking for a yummy<strong data-mce-fragment="1"> potato and corn snack</strong> with a <strong data-mce-fragment="1">satisfying crunch</strong> and <strong data-mce-fragment="1">bold flavour</strong>, look no further! <strong data-mce-fragment="1">Andy Capp's</strong> has a delicious line of snacks with <strong data-mce-fragment="1">0g of trans fat</strong> that are <strong data-mce-fragment="1">oven-baked not fried</strong>, giving you munchies you can feel good about.<br></p>
+<p>     These <strong>Hot Fries</strong> are sure to give your tastebuds a fantastic <strong>burst of spicy goodness</strong> in every bite. A great taste that gets even greater when you share with friends and family!</p>
+<h3>3oz / 85g | 1 bag</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Snacks</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6967548412082</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>03-3000138</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6967535403186</id>
+    <published>2021-08-20T13:49:15-04:00</published>
+    <updated>2021-08-20T13:49:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/andy-capps-cheddar-fries-3oz"/>
+    <title>Andy Capp&apos;s Cheddar Fries - 3oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>ConAgra Foods Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/conagra_foods_inc_andy_capps_cheddar_fries_3oz_candy_district.jpg?v=1629481698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ConAgra Foods Inc.<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Taste the Oven Baked Crunch!</h2>
+<p>     If you're looking for a yummy<strong data-mce-fragment="1"> potato and corn snack</strong> with a <strong data-mce-fragment="1">satisfying crunch</strong> and <strong data-mce-fragment="1">bold flavour</strong>, look no further! <strong data-mce-fragment="1">Andy Capp's</strong> has a delicious line of snacks with <strong data-mce-fragment="1">0g of trans fat</strong> that are <strong data-mce-fragment="1">oven-baked not fried</strong>, giving you munchies you can feel good about.<br></p>
+<p>     These <strong>Cheddar Fries</strong> are seasoned with a<strong> delectably tasty and cheesy</strong> recipe. A great taste that gets even greater when you share with friends and family!</p>
+<h3>3oz / 85g | 1 bag</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Snacks</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6967535403186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>03-3000137</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6967532093618</id>
+    <published>2021-08-20T13:39:42-04:00</published>
+    <updated>2021-08-20T13:39:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/andy-capps-bbq-fries-3oz"/>
+    <title>Andy Capp&apos;s BBQ Fries - 3oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>ConAgra Foods Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/conagra_foods_inc_andy_capps_bbq_fries_3oz_candy_district.jpg?v=1629481239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ConAgra Foods Inc.<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Taste the Oven Baked Crunch!</h2>
+<p>     If you're looking for a yummy<strong data-mce-fragment="1"> potato and corn snack</strong> with a <strong data-mce-fragment="1">satisfying crunch</strong> and <strong data-mce-fragment="1">bold flavour</strong>, look no further! <strong data-mce-fragment="1">Andy Capp's</strong> has a delicious line of snacks with <strong data-mce-fragment="1">0g of trans fat</strong> that are <strong data-mce-fragment="1">oven-baked not fried</strong>, giving you munchies you can feel good about.<br></p>
+<p>     These <strong>BBQ Fries</strong> are seasoned with a <strong>sweet and savoury flavour</strong> that's just like Dad's mouth-watering steaks. A great taste that gets even greater when you share with friends and family!</p>
+<h3>3oz / 85g | 1 bag</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Snacks</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6967532093618</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>03-3000135</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6965034287282</id>
+    <published>2021-08-19T12:16:20-04:00</published>
+    <updated>2021-08-19T12:16:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/popeye-candy-sticks-24ct"/>
+    <title>Popeye Candy Sticks - 24ct</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Regal Confections</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/regal_popeye_candy_sticks_bulk_bag_24_count_60g_candy_district.jpg?v=1629389812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Regal Confections<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Nostalgic 50s Sweets to Share!</h2>
+<p>     <strong>Popeye Candy Sticks</strong> are the perfect treat to share with all the kids on Halloween, they bring back so many fond trick-or-treating memories! This <strong>24 count bulk bag</strong> makes it easy to fill a bowl full of the retro classic candy to pass around or leave out for a fun party. </p>
+<h3>60g | 1 bulk bag</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Era_1950s</s:tag>
+    <s:tag>Halloween Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6965034287282</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>04-4000737</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6964987789490</id>
+    <published>2021-08-19T11:37:01-04:00</published>
+    <updated>2021-08-19T11:37:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/brachs-candy-corn-11oz"/>
+    <title>Brach&apos;s Candy Corn - 11oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/brachs_classic_candy_corn_11oz_candy_district.jpg?v=1629387421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">The Classic Festive Candy!</h2>
+<p>     A timeless treat, these pieces of <strong>Brach's Classic Candy Corn</strong> are as yummy as the<strong> real honey</strong> that's used to make them! Get ready for Halloween by stocking up on this nostalgic candy that makes every autumn a little bit sweeter.</p>
+<h3>11oz / 312g | 1 bulk bag </h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_1900s</s:tag>
+    <s:tag>Halloween Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6964987789490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>01-1003028</s:sku>
+      <s:grams>311</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6963616219314</id>
+    <published>2021-08-18T16:51:33-04:00</published>
+    <updated>2021-08-18T16:51:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/millions-vimto-remix-35g"/>
+    <title>Millions Vimto Remix - 35g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Millions</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/millions_vimto_remix_35g_candy_district.jpg?v=1629319912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Millions<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1">A Delicious Collab Between Millions and Vimto</h2>
+<p>     These little drops are<strong> intensely juicy</strong> and full of flavour, <strong>Millions</strong> and <strong>Vimto</strong> did quite the bang-up job! Get the <strong>real fruit juice</strong> flavour of <strong>Mango</strong>, <strong>Strawberry</strong>, and <strong>Pineapple</strong> in every bite. </p>
+<p>     Make sure to share the <strong>Remix</strong> experience! Any fan of tropical fruity flavours needs to try these delicious sweets.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Natural Colour</strong></li>
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Contains Real Fruit Juice</strong></li>
+</ul>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">35g | 1 pouch</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6963616219314</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1003014</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6963385958578</id>
+    <published>2021-08-18T15:24:38-04:00</published>
+    <updated>2021-08-18T15:24:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/trolli-twisted-sour-brite-crawlers-4oz"/>
+    <title>Trolli Twisted Sour Brite Crawlers - 4oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/ferrara_candy_co_trolli_twisted_sour_brite_crawlers_4oz_candy_district.jpg?v=1629314739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Innovative Deliciousness!</h2>
+<p>     <strong>Trolli</strong>, the almighty inventor of the gummy worm, has blessed us with yet another delicious gummy concoction! New<strong> Twisted Sour Brite Crawlers</strong> are bite-sized twists with a <strong>tasty, chewy outside</strong> and a <strong>yummy berry filling</strong>. Each bag has an assortment of <strong>Blue Raspberry</strong>, <strong>Strawberry</strong>, and <strong>Green</strong> <strong>Apple</strong> flavours. </p>
+<p>     These are sure to hit that sweet spot, whether you just wanna munch on them while watching Netflix or share them with friends!</p>
+<h5 style="text-align: center;" data-mce-style="text-align: center;"><span>See <a href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*" title="Trolli Gummies | Candy District" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+trolli*" target="_blank">the rest of our delicious Trolli gummies</a>, there's a flavour for everyone!</span></h5>
+<h3>4oz | 1 peg bag</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6963385958578</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1002985</s:sku>
+      <s:grams>114</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6960482156722</id>
+    <published>2021-08-17T14:33:10-04:00</published>
+    <updated>2021-08-17T14:33:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/red-vines-candy-corn-licorice-4oz"/>
+    <title>Red Vines Candy Corn Licorice - 4oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>American Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/american_licorice_red_vines_twists_candy_corn_flavor_4oz_candy_district.jpg?v=1629225181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">A Delicious Festive Sweet</h2>
+<p>     A fun treat any licorice fan would go crazy over! These delightful <strong>Red Vines</strong> <strong>Twists</strong> are flavoured to taste just like <strong>Candy Corn</strong> - an amazing fall-inspired flavour that's warm and nostalgic. Even the packaging is ready for the season!</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong data-mce-fragment="1">No Preservatives</strong></li>
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Fat-Free</strong></li>
+</ul>
+<h3 data-mce-fragment="1"><strong data-mce-fragment="1">4oz | 1 sleeve</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Halloween Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Licorice</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6960482156722</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1003025</s:sku>
+      <s:grams>114</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6939061616818</id>
+    <published>2021-08-06T14:45:12-04:00</published>
+    <updated>2021-08-06T14:45:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/rocky-road-sea-salt-1-8oz"/>
+    <title>Rocky Road Sea Salt - 1.8oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Annabelle Candy Co. Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/annabelles_rocky_road_sea_salt_bar_1.8oz_candy_district1.jpg?v=1628275149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Annabelle Candy Co. Inc.<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">The Original Marshmallow in Chocolate - Now Salted!</h2>
+<p>     One bite into this fluffy and crunchy delight, and you won't want another marshmallow treat! <strong>Annabelle's Rocky Road Sea Salt</strong> has a<strong> soft marshmallow center</strong>,<strong></strong> enveloped by<strong> rich dark chocolate</strong>, and topped with <strong>bits of cashews</strong> and flakes of <strong>sea salt</strong>. Indulge yourself with a little treat; although they're so delicious, it's hard to stop at just one!</p>
+<p> </p>
+<h3>1.8oz | 1 bar</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Era_1950s</s:tag>
+    <s:tag>Marshmallow</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Marshmallow</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6939061616818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2001181</s:sku>
+      <s:grams>52</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934712352946</id>
+    <published>2021-08-06T14:30:28-04:00</published>
+    <updated>2021-08-06T14:30:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/rocky-road-smores-1-8oz"/>
+    <title>Rocky Road S&apos;mores - 1.8oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Annabelle Candy Co. Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/annabelles_rocky_road_smores_bar_1.8oz_candy_district.jpg?v=1628193255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Annabelle Candy Co. Inc.<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">The Original Marshmallow in Chocolate - S'mores Edition!</h2>
+<p>     One bite into this fluffy and crunchy delight, and you won't want another marshmallow treat! <strong>Annabelle's Rocky Road S'mores</strong> has a<strong> soft marshmallow center </strong>stuffed with<strong> Real Graham Cracker</strong>, then enveloped by<strong> smooth, rich milk chocolate</strong> with <strong>bits of cashews</strong> sprinkled within. Indulge yourself with a little treat; although they're so delicious, it's hard to stop at just one!</p>
+<p> </p>
+<h3>1.8oz | 1 bar</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Era_1950s</s:tag>
+    <s:tag>Marshmallow</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Marshmallow</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934712352946</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2001182</s:sku>
+      <s:grams>52</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934691709106</id>
+    <published>2021-08-05T15:47:10-04:00</published>
+    <updated>2021-08-05T15:47:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/rocky-road-mint-1-82oz"/>
+    <title>Rocky Road Mint - 1.82oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Annabelle Candy Co. Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/annabelles_rocky_road_mint_bar_1.82oz_candy_district.jpg?v=1628192725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Annabelle Candy Co. Inc.<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">The Original Marshmallow in Chocolate - Plus Mint!</h2>
+<p>     One bite into this fluffy and crunchy delight, and you won't want another marshmallow treat! <strong>Annabelle's Rocky Road Mint</strong> has a<strong> soft marshmallow center</strong> enveloped by<strong> rich dark chocolate</strong> with <strong>bits of cashews</strong> sprinkled within. Indulge yourself with a little treat; although they're so delicious, it's hard to stop at just one!</p>
+<p> </p>
+<h3>1.82oz | 1 bar</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Era_1950s</s:tag>
+    <s:tag>Marshmallow</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Marshmallow</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934691709106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2001180</s:sku>
+      <s:grams>52</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934691217586</id>
+    <published>2021-08-05T15:35:12-04:00</published>
+    <updated>2021-08-05T15:35:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/rocky-road-bar-1-8oz"/>
+    <title>Rocky Road Bar - 1.8oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Annabelle Candy Co. Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/annabelles_rocky_road_bar_1.8oz_candy_district.jpg?v=1628192139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Annabelle Candy Co. Inc.<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">The Original Marshmallow in Chocolate</h2>
+<p>     One bite into this fluffy and crunchy delight, and you won't want another marshmallow treat! <strong>Annabelle's Rocky Road</strong> has a<strong> soft marshmallow center</strong> enveloped by<strong> smooth, rich milk chocolate</strong> with <strong>bits of cashews</strong> sprinkled within. Indulge yourself with a little treat; although they're so delicious, it's hard to stop at just one!</p>
+<p> </p>
+<h3>1.8oz | 1 bar</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Era_1950s</s:tag>
+    <s:tag>Marshmallow</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Marshmallow</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934691217586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2001179</s:sku>
+      <s:grams>52</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934585147570</id>
+    <published>2021-08-05T14:04:55-04:00</published>
+    <updated>2021-08-05T14:04:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/rock-candy-on-a-stick-blue-raspberry"/>
+    <title>Rock Candy on a Stick - Blue Raspberry</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Espeez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/espeez_rock_stick_candy_blue_raspberry_22g_candy_district.jpg?v=1628184452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Espeez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Crystalized Candy For Any Occasion</h2>
+<p data-mce-fragment="1">     For the most<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">delicious flavours</strong><span data-mce-fragment="1"> </span>and<strong data-mce-fragment="1"><span data-mce-fragment="1"> </span>vibrant colours</strong> for<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Rock Candy on a Stick</strong>, look no further than<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Espeez</strong>. Simply made with sugar and water, the sticks' crystals slowly blossom to become tasty treats and beautiful displays. </p>
+<p data-mce-fragment="1">     Deep blue like a vast ocean and full of juicy berry flavour,<strong data-mce-fragment="1"> Blue Raspberry </strong>Rock Candy makes the perfect treat that doubles as a gorgeous display. Use in your next wedding, birthday party, shower, or corporate event for a sight that'll impress all your guests - and a flavour that's sure to shock their tastebuds!</p>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><br data-mce-fragment="1"></h4>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Make any event absolutely stunning with our<span data-mce-fragment="1"> </span><a href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" title="Rock Candy on a Stick Selection | Candy District" data-mce-fragment="1" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" target="_blank">wide assortment of Rock Candy on a Stick</a><span data-mce-fragment="1"> </span>colours and flavours!<br data-mce-fragment="1">
+</h4>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<h3 data-mce-fragment="1">22g | 1 stick</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934585147570</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.09</s:price>
+      <s:sku>01-1002043</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934581772466</id>
+    <published>2021-08-05T14:04:54-04:00</published>
+    <updated>2021-08-05T14:04:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/rock-candy-on-a-stick-banana"/>
+    <title>Rock Candy on a Stick - Banana</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Espeez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/espeez_rock_stick_candy_banana_22g_candy_district.jpg?v=1628183985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Espeez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Crystalized Candy For Any Occasion</h2>
+<p data-mce-fragment="1">     For the most<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">delicious flavours</strong><span data-mce-fragment="1"> </span>and<strong data-mce-fragment="1"><span data-mce-fragment="1"> </span>vibrant colours</strong> for<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Rock Candy on a Stick</strong>, look no further than<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Espeez</strong>. Simply made with sugar and water, the sticks' crystals slowly blossom to become tasty treats and beautiful displays. </p>
+<p data-mce-fragment="1">     Bright yellow like a freshly bloomed tulip and flavour just like the delicious tropical fruit,<strong data-mce-fragment="1"> Banana </strong>Rock Candy makes the perfect treat that doubles as a gorgeous display. Use in your next wedding, birthday party, shower, or corporate event for a sight that'll impress all your guests - and a flavour that's sure to shock their tastebuds!</p>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><br data-mce-fragment="1"></h4>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Make any event absolutely stunning with our<span data-mce-fragment="1"> </span><a href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" title="Rock Candy on a Stick Selection | Candy District" data-mce-fragment="1" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" target="_blank">wide assortment of Rock Candy on a Stick</a><span data-mce-fragment="1"> </span>colours and flavours!<br data-mce-fragment="1">
+</h4>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<h3 data-mce-fragment="1">22g | 1 stick</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934581772466</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.09</s:price>
+      <s:sku>01-1002055</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934581084338</id>
+    <published>2021-08-05T14:04:54-04:00</published>
+    <updated>2021-08-05T14:04:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/rock-candy-on-a-stick-white-sugar"/>
+    <title>Rock Candy on a Stick - White Sugar</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Espeez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/espeez_rock_stick_candy_white_sugar_22g_candy_district_4e8bcfc5-5476-44a5-b3d0-27ea8de743c4.jpg?v=1628183789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Espeez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Crystalized Candy For Any Occasion</h2>
+<p data-mce-fragment="1">     For the most<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">delicious flavours</strong><span data-mce-fragment="1"> </span>and<strong data-mce-fragment="1"><span data-mce-fragment="1"> </span>vibrant colours</strong> for<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Rock Candy on a Stick</strong>, look no further than<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Espeez</strong>. Simply made with sugar and water, the sticks' crystals slowly blossom to become tasty treats and beautiful displays. </p>
+<p data-mce-fragment="1">     Translucent and sparkling like diamonds with a natural sugar flavour,<strong data-mce-fragment="1"> White Sugar </strong>Rock Candy makes the perfect treat that doubles as a gorgeous display. Use in your next wedding, birthday party, shower, or corporate event for a sight that'll impress all your guests - and a flavour that's sure to shock their tastebuds!</p>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><br data-mce-fragment="1"></h4>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Make any event absolutely stunning with our<span data-mce-fragment="1"> </span><a href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" title="Rock Candy on a Stick Selection | Candy District" data-mce-fragment="1" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" target="_blank">wide assortment of Rock Candy on a Stick</a><span data-mce-fragment="1"> </span>colours and flavours!<br data-mce-fragment="1">
+</h4>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<h3 data-mce-fragment="1">22g | 1 stick</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934581084338</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.09</s:price>
+      <s:sku>01-1002054</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934568108210</id>
+    <published>2021-08-05T14:04:53-04:00</published>
+    <updated>2021-08-05T14:04:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/rock-candy-on-a-stick-watermelon"/>
+    <title>Rock Candy on a Stick - Watermelon</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Espeez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/espeez_rock_stick_candy_watermelon_22g_candy_district.jpg?v=1628182586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Espeez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Crystalized Candy For Any Occasion</h2>
+<p data-mce-fragment="1">     For the most<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">delicious flavours</strong><span data-mce-fragment="1"> </span>and<strong data-mce-fragment="1"><span data-mce-fragment="1"> </span>vibrant colours</strong> for<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Rock Candy on a Stick</strong>, look no further than<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Espeez</strong>. Simply made with sugar and water, the sticks' crystals slowly blossom to become tasty treats and beautiful displays. </p>
+<p data-mce-fragment="1">     Pale green like the inside of a freshly cut lime, and flavour only comparable to the juicy melon itself,<strong data-mce-fragment="1"> Watermelon </strong>Rock Candy makes the perfect treat that doubles as a gorgeous display. Use in your next wedding, birthday party, shower, or corporate event for a sight that'll impress all your guests - and a flavour that's sure to shock their tastebuds!</p>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><br data-mce-fragment="1"></h4>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Make any event absolutely stunning with our<span data-mce-fragment="1"> </span><a href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" title="Rock Candy on a Stick Selection | Candy District" data-mce-fragment="1" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" target="_blank">wide assortment of Rock Candy on a Stick</a><span data-mce-fragment="1"> </span>colours and flavours!<br data-mce-fragment="1">
+</h4>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<h3 data-mce-fragment="1">22g | 1 stick</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934568108210</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.09</s:price>
+      <s:sku>01-1002053</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934561783986</id>
+    <published>2021-08-05T14:04:53-04:00</published>
+    <updated>2021-08-05T14:04:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/rock-candy-on-a-stick-strawberry"/>
+    <title>Rock Candy on a Stick - Strawberry</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Espeez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/espeez_rock_stick_candy_strawberry_22g_candy_district.jpg?v=1628182083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Espeez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Crystalized Candy For Any Occasion</h2>
+<p data-mce-fragment="1">     For the most<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">delicious flavours</strong><span data-mce-fragment="1"> </span>and<strong data-mce-fragment="1"><span data-mce-fragment="1"> </span>vibrant colours</strong> for<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Rock Candy on a Stick</strong>, look no further than<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Espeez</strong>. Simply made with sugar and water, the sticks' crystals slowly blossom to become tasty treats and beautiful displays. </p>
+<p data-mce-fragment="1">     Bright red like a freshly bloomed rose and sweet taste that could only come from the freshest, juiciest berries,<strong data-mce-fragment="1"> Strawberry </strong>Rock Candy makes the perfect treat that doubles as a gorgeous display. Use in your next wedding, birthday party, shower, or corporate event for a sight that'll impress all your guests - and a flavour that's sure to shock their tastebuds!</p>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><br data-mce-fragment="1"></h4>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Make any event absolutely stunning with our<span data-mce-fragment="1"> </span><a href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" title="Rock Candy on a Stick Selection | Candy District" data-mce-fragment="1" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" target="_blank">wide assortment of Rock Candy on a Stick</a><span data-mce-fragment="1"> </span>colours and flavours!<br data-mce-fragment="1">
+</h4>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<h3 data-mce-fragment="1">22g | 1 stick</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934561783986</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.09</s:price>
+      <s:sku>01-1002052</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934554312882</id>
+    <published>2021-08-05T14:04:52-04:00</published>
+    <updated>2021-08-05T14:04:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/rock-candy-on-a-stick-root-beer"/>
+    <title>Rock Candy on a Stick - Root Beer</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Espeez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/espeez_rock_stick_candy_root_beer_22g_candy_district.jpg?v=1628181655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Espeez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Crystalized Candy For Any Occasion</h2>
+<p data-mce-fragment="1">     For the most<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">delicious flavours</strong><span data-mce-fragment="1"> </span>and<strong data-mce-fragment="1"><span data-mce-fragment="1"> </span>vibrant colours</strong> for<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Rock Candy on a Stick</strong>, look no further than<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Espeez</strong>. Simply made with sugar and water, the sticks' crystals slowly blossom to become tasty treats and beautiful displays. </p>
+<p data-mce-fragment="1">     With a warm hue of crystallized caramel and flavour like a tall glass of the refreshing and sweet soda,<strong data-mce-fragment="1"> Root Beer </strong>Rock Candy makes the perfect treat that doubles as a gorgeous display. Use in your next wedding, birthday party, shower, or corporate event for a sight that'll impress all your guests - and a flavour that's sure to shock their tastebuds!</p>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><br data-mce-fragment="1"></h4>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Make any event absolutely stunning with our<span data-mce-fragment="1"> </span><a href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" title="Rock Candy on a Stick Selection | Candy District" data-mce-fragment="1" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" target="_blank">wide assortment of Rock Candy on a Stick</a><span data-mce-fragment="1"> </span>colours and flavours!<br data-mce-fragment="1">
+</h4>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<h3 data-mce-fragment="1">22g | 1 stick</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934554312882</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.09</s:price>
+      <s:sku>01-1002051</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934524657842</id>
+    <published>2021-08-05T14:04:52-04:00</published>
+    <updated>2021-08-05T14:04:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/rock-candy-on-a-stick-orange"/>
+    <title>Rock Candy on a Stick - Orange</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Espeez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/espeez_rock_stick_candy_orange_22g_candy_district.jpg?v=1628181525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Espeez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Crystalized Candy For Any Occasion</h2>
+<p data-mce-fragment="1">     For the most<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">delicious flavours</strong><span data-mce-fragment="1"> </span>and<strong data-mce-fragment="1"><span data-mce-fragment="1"> </span>vibrant colours</strong> for<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Rock Candy on a Stick</strong>, look no further than<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Espeez</strong>. Simply made with sugar and water, the sticks' crystals slowly blossom to become tasty treats and beautiful displays. </p>
+<p data-mce-fragment="1">     A bright orange akin to the rising sun and flavour only comparable to fresh, juicy citrus,<strong data-mce-fragment="1"> Orange </strong>Rock Candy makes the perfect treat that doubles as a gorgeous display. Use in your next wedding, birthday party, shower, or corporate event for a sight that'll impress all your guests - and a flavour that's sure to shock their tastebuds!</p>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><br data-mce-fragment="1"></h4>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Make any event absolutely stunning with our<span data-mce-fragment="1"> </span><a href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" title="Rock Candy on a Stick Selection | Candy District" data-mce-fragment="1" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" target="_blank">wide assortment of Rock Candy on a Stick</a><span data-mce-fragment="1"> </span>colours and flavours!<br data-mce-fragment="1">
+</h4>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<h3 data-mce-fragment="1">22g | 1 stick</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934524657842</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.09</s:price>
+      <s:sku>01-1002050</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934517514418</id>
+    <published>2021-08-05T14:04:51-04:00</published>
+    <updated>2021-08-05T14:04:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/rock-candy-on-a-stick-lavender"/>
+    <title>Rock Candy on a Stick - Lavender</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Espeez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/espeez_rock_stick_candy_lavender_22g_candy_district.jpg?v=1628179337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Espeez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Crystalized Candy For Any Occasion</h2>
+<p data-mce-fragment="1">     For the most<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">delicious flavours</strong><span data-mce-fragment="1"> </span>and<strong data-mce-fragment="1"><span data-mce-fragment="1"> </span>vibrant colours</strong> for<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Rock Candy on a Stick</strong>, look no further than<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Espeez</strong>. Simply made with sugar and water, the sticks' crystals slowly blossom to become tasty treats and beautiful displays. </p>
+<p data-mce-fragment="1">     A purple alluring like a vast field of fresh lavender plants, with a tutti frutti flavour that's wonderfully sweet,<strong data-mce-fragment="1"> Lavender </strong>Rock Candy makes the perfect treat that doubles as a gorgeous display. Use in your next wedding, birthday party, shower, or corporate event for a sight that'll impress all your guests - and a flavour that's sure to shock their tastebuds!</p>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><br data-mce-fragment="1"></h4>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Make any event absolutely stunning with our<span data-mce-fragment="1"> </span><a href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" title="Rock Candy on a Stick Selection | Candy District" data-mce-fragment="1" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" target="_blank">wide assortment of Rock Candy on a Stick</a><span data-mce-fragment="1"> </span>colours and flavours!<br data-mce-fragment="1">
+</h4>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<h3 data-mce-fragment="1">22g | 1 stick</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934517514418</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.09</s:price>
+      <s:sku>01-1002049</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934513418418</id>
+    <published>2021-08-05T14:04:51-04:00</published>
+    <updated>2021-08-05T14:04:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/rock-candy-on-a-stick-green-apple"/>
+    <title>Rock Candy on a Stick - Green Apple</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Espeez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/espeez_rock_stick_candy_green_apple_22g_candy_district.jpg?v=1628178468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Espeez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Crystalized Candy For Any Occasion</h2>
+<p data-mce-fragment="1">     For the most<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">delicious flavours</strong><span data-mce-fragment="1"> </span>and<strong data-mce-fragment="1"><span data-mce-fragment="1"> </span>vibrant colours</strong> for<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Rock Candy on a Stick</strong>, look no further than<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Espeez</strong>. Simply made with sugar and water, the sticks' crystals slowly blossom to become tasty treats and beautiful displays. </p>
+<p data-mce-fragment="1">     A green comparable to a rich, luscious forest and juiciness that could only come from the freshest apples,<strong data-mce-fragment="1"> Green Apple </strong>Rock Candy makes the perfect treat that doubles as a gorgeous display. Use in your next wedding, birthday party, shower, or corporate event for a sight that'll impress all your guests - and a flavour that's sure to shock their tastebuds!</p>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><br data-mce-fragment="1"></h4>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Make any event absolutely stunning with our<span data-mce-fragment="1"> </span><a href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" title="Rock Candy on a Stick Selection | Candy District" data-mce-fragment="1" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" target="_blank">wide assortment of Rock Candy on a Stick</a><span data-mce-fragment="1"> </span>colours and flavours!<br data-mce-fragment="1">
+</h4>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<h3 data-mce-fragment="1">22g | 1 stick</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934513418418</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.09</s:price>
+      <s:sku>01-1002047</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934507487410</id>
+    <published>2021-08-05T14:04:50-04:00</published>
+    <updated>2021-08-05T14:04:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/rock-candy-on-a-stick-grape"/>
+    <title>Rock Candy on a Stick - Grape</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Espeez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/espeez_rock_stick_candy_grape_22g_candy_district.jpg?v=1628177919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Espeez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Crystalized Candy For Any Occasion</h2>
+<p data-mce-fragment="1">     For the most<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">delicious flavours</strong><span data-mce-fragment="1"> </span>and<strong data-mce-fragment="1"><span data-mce-fragment="1"> </span>vibrant colours</strong> for<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Rock Candy on a Stick</strong>, look no further than<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Espeez</strong>. Simply made with sugar and water, the sticks' crystals slowly blossom to become tasty treats and beautiful displays. </p>
+<p data-mce-fragment="1">     A deep purple that's both mesmerizing and full of juicy fruit flavour,<strong data-mce-fragment="1"> Grape</strong><span data-mce-fragment="1"> </span>Rock Candy makes the perfect treat that doubles as a gorgeous display. Use in your next wedding, birthday party, shower, or corporate event for a sight that'll impress all your guests - and a flavour that's sure to shock their tastebuds!</p>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><br data-mce-fragment="1"></h4>
+<h4 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Make any event absolutely stunning with our<span data-mce-fragment="1"> </span><a href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" title="Rock Candy on a Stick Selection | Candy District" data-mce-fragment="1" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" target="_blank">wide assortment of Rock Candy on a Stick</a><span data-mce-fragment="1"> </span>colours and flavours!<br data-mce-fragment="1">
+</h4>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<h3 data-mce-fragment="1">22g | 1 stick</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934507487410</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.09</s:price>
+      <s:sku>01-1002046</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934503194802</id>
+    <published>2021-08-05T14:04:50-04:00</published>
+    <updated>2021-08-05T14:04:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/rock-candy-on-a-stick-cotton-candy"/>
+    <title>Rock Candy on a Stick - Cotton Candy</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Espeez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/espeez_rock_stick_candy_cotton_candy_22g_candy_district.jpg?v=1628177419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Espeez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1" style="text-align: center;" data-mce-style="text-align: center;">Crystalized Candy For Any Occasion</h2>
+<p data-mce-fragment="1">     For the most<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">delicious flavours</strong><span data-mce-fragment="1"> </span>and<strong data-mce-fragment="1"><span data-mce-fragment="1"> </span>vibrant colours</strong> for<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Rock Candy on a Stick</strong>, look no further than<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Espeez</strong>. Simply made with sugar and water, the sticks' crystals slowly blossom to become tasty treats and beautiful displays. </p>
+<p data-mce-fragment="1">     A blue as pristine as ocean water in the Bahamas and a flavour that'll bring back memories of bustling carnivals,<strong data-mce-fragment="1"> Cotton Candy</strong><span data-mce-fragment="1"> </span>Rock Candy makes the perfect treat that doubles as a gorgeous display. Use in your next wedding, birthday party, shower, or corporate event for a sight that'll impress all your guests - and a flavour that's sure to shock their tastebuds!</p>
+<h4 data-mce-fragment="1" style="text-align: center;" data-mce-style="text-align: center;"><br data-mce-fragment="1"></h4>
+<h4 data-mce-fragment="1" style="text-align: center;" data-mce-style="text-align: center;">Make any event absolutely stunning with our<span data-mce-fragment="1"> </span><a data-mce-fragment="1" title="Rock Candy on a Stick Selection | Candy District" href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*" target="_blank" data-mce-href="https://www.candydistrict.com/search?type=product&amp;q=NOT+tag%3A__gift+AND+espeez+rock*">wide assortment of Rock Candy on a Stick</a><span data-mce-fragment="1"> </span>colours and flavours!<br data-mce-fragment="1">
+</h4>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<h3 data-mce-fragment="1">22g | 1 stick</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934503194802</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.09</s:price>
+      <s:sku>01-1002045</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+</feed>

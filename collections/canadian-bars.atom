@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.candydistrict.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.candydistrict.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.candydistrict.com/collections/canadian-bars.atom"/>
+  <title>Candy District</title>
+  <updated>2021-01-31T22:24:06-05:00</updated>
+  <author>
+    <name>Candy District</name>
+  </author>
+  <entry>
+    <id>https://www.candydistrict.com/products/6227289178290</id>
+    <published>2021-01-31T22:24:06-05:00</published>
+    <updated>2021-01-31T22:24:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/oh-henry-level-up-bar-42-g"/>
+    <title>Oh Henry! Level Up Bar - 42 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/oh-henry-level-up-canadian-candy-bars-candy-district-online-candy-store-canada.jpg?v=1612149838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">New Canadian Candy Bar!</h2>
+<p><strong>42 g</strong></p>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6227289178290</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>02-2001031</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6152401911986</id>
+    <published>2020-12-27T09:23:04-05:00</published>
+    <updated>2020-12-27T09:23:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/aero-white-bubble-bars-24-count"/>
+    <title>AERO White Bubble Bars - 42g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestlé</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/aero-white-bubble-bars-24-count-candy-district-online-candy-shop.jpg?v=1609079256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestlé<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Canadian Chocolate Bars</h2>
+<div style="text-align: center;"><span>For that appealing taste of creamy white chocolate and light, airy bubbles, there's only one bar that will do, the Aero White Bubble Bars!</span></div>
+<div style="text-align: center;">A one of a kind chocolate bar that is sinfully delicious! The inside is sweetly filled with irresistible white chocolate and of course bubbles, and all wrapped up with a rich coating of milk chocolate!</div>
+<div style="text-align: center;">This succulent chocolate bar is a melt in your mouth experience that offers you both white and milk chocolate! </div>
+<div style="text-align: center;">Discover the sweet bliss with the Aero White Bubble Bars!</div>
+<p><strong>42g Bars </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Nestle Canada</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6152401911986</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">1.69</s:price>
+      <s:sku>02-2000119</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6152389951666</id>
+    <published>2020-12-27T09:09:23-05:00</published>
+    <updated>2020-12-27T09:09:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/cadbury-dairy-milk-oreo-bars-38-g-12-count"/>
+    <title>Cadbury Dairy Milk Oreo Bar - 38g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/cadbury-dairy-milk-oreo-bars-38-g-12-count-candy-district-online-candy-shop.jpg?v=1618623819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Canadian Cadbury Chocolate Bars</h2>
+<div class="gs">
+<div class="">
+<div id=":16s" class="ii gt">
+<div id=":16r" class="a3s aXjCH">
+<div dir="ltr" style="text-align: center;">
+<div>You may have just found your new favourite Cadbury Chocolate Bar!</div>
+<div>An indulgent bar of Cadbury Milk Chocolate that is filled inside with creamy, luscious vanilla creme, along with mouthwatering bits of crunchy oreo cookie!</div>
+<div>Each bite just gets better as the creamy and crunchy textures meet together and melt harmoniously in your mouth.</div>
+<div>Taste this brilliant and delicious bliss with Cadbury Dairy Milk Oreo Bars!</div>
+<span style="font-size: 1.4em;"> </span><br>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p style="text-align: center;"><strong>Try all the <a href="https://www.candydistrict.com/collections/dairy-milk" title="Cadbury Dairy Milk Chocolate Bars" target="_blank">Cadbury Dairy Milk Chocolate Bars</a></strong></p>
+<p><strong>38 g Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cadbury</s:tag>
+    <s:tag>Cadbury Canada</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Dairy Milk</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6152389951666</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>02-2000266</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6152360329394</id>
+    <published>2020-12-27T08:27:28-05:00</published>
+    <updated>2020-12-27T08:27:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/nestle-kit-kat-green-tea-35-g"/>
+    <title>Nestle Kit Kat Green Tea - 35 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nestle-kit-kat-green-tea-35-g-candy-district-online-candy-shop.jpg?v=1609075930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Nestle Kit Kat Green Tea Canadian Bars</h2>
+<div style="text-align: center;">A Canadian Chocolate Bar that is filled with those famous crispy wafers, and green tea!</div>
+<div style="text-align: center;">The Nestle Kit Kat Green Tea Chocolate Bar consists of crisp and light wafers that are covered in a  Matcha Green Tea coating. Made with all-natural flavours and no artificial colours for an authentic taste.</div>
+<div style="text-align: center;"><strong>Give yourself the delicious break you deserve with Nestle Kit Kat Green Tea!</strong></div>
+<p><strong>35 g Bar</strong></p>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>Nestle Canada</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6152360329394</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>02-2000717</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6152112996530</id>
+    <published>2020-12-27T01:15:17-05:00</published>
+    <updated>2020-12-27T01:15:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/nestle-after-eight"/>
+    <title>Nestle After Eight - 40 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nestle-after-eight-bars-candy-district-online-candy-shop.jpg?v=1609050004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Nestle After Eight Canadian Bars</h2>
+<div style="text-align: center;"><span>You don't really have to wait until after eight to enjoy this Canadian Candy! Anytime is the right time to indulge in the Nestle After Eight Bar!</span></div>
+<div style="text-align: center;">Boasting dark chocolate that holds inside the most perfect minty filling. Each bite is refreshing and altogether exquisite!</div>
+<div style="text-align: center;">Share a bite with your sweetheart, or enjoy it for yourself! The time is always right for After Eight!</div>
+<p><strong>40 g Bars</strong></p>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>Nestle Canada</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6152112996530</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>02-2000130</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6152071938226</id>
+    <published>2020-12-27T00:14:22-05:00</published>
+    <updated>2020-12-27T00:14:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/nestle-turtles-50-g"/>
+    <title>Nestle Turtles - 50 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nestle-turtles-canadian-candy-bars-candy-district-online-candy-shop.jpg?v=1609046043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Nestle Turtles Canadian Candy Bars</h2>
+<div style="text-align: center;">They may be slow, but my goodness they sure disappear fast! </div>
+<div style="text-align: center;">Nestle Turtles are a Classic Canadian confection!  These utterly and completely delicious bites are filled with creamy, golden caramel,  and crunchy pecans while being lovingly smothered in rich, delectable milk chocolate!</div>
+<div style="text-align: center;">A favourite old fashioned chocolate that always has a place at the table! Loved since 1949 and still to this very day!</div>
+<div style="text-align: center;"><strong>Treat yourself to the sweet unforgettable bliss of Nestle Turtles!</strong></div>
+<p><strong>50 g Pack</strong></p>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>Nestle Canada</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6152071938226</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>02-2001311</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6151662043314</id>
+    <published>2020-12-26T14:19:52-05:00</published>
+    <updated>2020-12-26T14:19:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/cadbury-dairy-milk-crispy-rice-bar-90-g"/>
+    <title>Cadbury Dairy Milk Crispy Rice Bar - 90 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/cadbury-dairy-milk-crispy-rice-chocolate-bars-90-g-candy-district-online-candy-shop.jpg?v=1609010757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Canadian Cadbury Chocolate Bars</h2>
+<div class="gs">
+<div class="">
+<div id=":1de" class="ii gt">
+<div id=":1dd" class="a3s aXjCH">
+<h3 dir="ltr" style="text-align: center;" data-mce-style="text-align: center;">Milk Chocolate with Crispy Puffed Rice </h3>
+<p style="text-align: center;" data-mce-style="text-align: center;"><span>Infused with bits of crunchy, puffed rice, this Cadbury Chocolate Bar is sure to satisfy your chocolate craving!</span></p>
+<div style="text-align: center;" data-mce-style="text-align: center;">The Cadbury Dairy Milk Crispy Rice Bar is chalked full of creamy milk chocolate yumminess that is perfectly balanced with that crispy rice. Every bite is a mouthful of happiness!</div>
+<p style="text-align: center;" data-mce-style="text-align: center;">Feed those chocolate-loving tastebuds with the delight of Cadbury Dairy Milk Crispy Rice Chocolate Bar!</p>
+</div>
+</div>
+</div>
+</div>
+<h3 style="text-align: center;" data-mce-style="text-align: center;"><strong>Try all the <a href="https://www.candydistrict.com/collections/dairy-milk" title="Dairy Milk Chocolate Bars" target="_blank">Dairy Milk Chocolate Bars</a></strong></h3>
+<p><strong>90 g Chocolate Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>Cadbury</s:tag>
+    <s:tag>Cadbury Canada</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Dairy Milk</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6151662043314</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000244</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6099837419698</id>
+    <published>2020-11-25T19:20:24-05:00</published>
+    <updated>2020-11-25T19:20:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/cadbury-dairy-milk-pretzel-peanut-butter-bars-100-g"/>
+    <title>Cadbury Dairy Milk Pretzel &amp; Peanut Butter Bar - 100 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/cadbury-dairy-milk-pretzel-peanut-butter-bars-100-g-candy-district-online-candy-shop-canada.jpg?v=1606350342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Canadian Cadbury Chocolate Bar</h2>
+<h3 data-analytics-type="productPage-productName" data-analytics-value="Cadbury Dairy Milk Almond Milk Chocolate" style="text-align: center;" tabindex="0" itemprop="name">Cadbury Dairy Milk Pretzel &amp; Peanut Butter Chocolate Bar</h3>
+<div style="text-align: center;">The Cadbury Dairy Milk Pretzel and Peanut Butter Chocolate Bar is a triple hit! You get that rich Cadbury Milk Chocolate, along with bits of crunchy, slightly salty pretzel pieces and divine, creamy chips of peanut butter. </div>
+<div style="text-align: center;">This chocolate bar is sure to induce a delicious, joyful taste with each and every bite!</div>
+<div class="gs">
+<div class="">
+<div id=":1df" class="ii gt">
+<div id=":1dg" class="a3s aXjCH">
+<div class="yj6qo"></div>
+</div>
+</div>
+</div>
+</div>
+<div style="text-align: center;">Cadbury Dairy Milk Pretzel &amp; Peanut Butter Chocolate Bars are made at the Chocolate Factory on Gladstone Ave. in downtown Toronto.</div>
+<div style="text-align: center;"><span>Cadbury Chocolates are famous for being one of the best quality Chocolate Bars. And yes, Canada does make the best Cadbury Dairy Milk Chocolate Bars! These Canadian Chocolate Bars are in demand around the world.</span></div>
+<div style="text-align: center;"><span></span></div>
+<p style="text-align: center;"><strong>Try all the <a href="https://www.candydistrict.com/collections/dairy-milk" title="Cadbury Dairy Milk Chocolate Bars" target="_blank">Cadbury Dairy Milk Chocolate Bars</a></strong></p>
+<p><strong>100g Bar</strong></p>
+<h1></h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cadbury</s:tag>
+    <s:tag>Cadbury Canada</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Dairy Milk</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6099837419698</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000429</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6099815661746</id>
+    <published>2020-11-25T19:18:23-05:00</published>
+    <updated>2020-11-25T19:18:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/cadbury-dairy-milk-peanut-butter-cookie-bars-100-g"/>
+    <title>Cadbury Dairy Milk Peanut Butter Cookie Bar - 100 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/cadbury-dairy-milk-peanut-butter-cookie-bars-100-g-candy-district-online-candy-shop-canada.jpg?v=1606349815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Canadian Cadbury Chocolate Bar</h2>
+<h3 tabindex="0" style="text-align: center;" data-analytics-value="Cadbury Dairy Milk Almond Milk Chocolate" data-analytics-type="productPage-productName" itemprop="name">Cadbury Dairy Milk Peanut Butter Cookie Chocolate Bar</h3>
+<div class="gs">
+<div class="">
+<div class="ii gt" id=":1xr">
+<div class="a3s aiL" id=":1xq">
+<div dir="ltr">Cadbury Dairy Milk Peanut Butter Cookie Bar is a double whammy taste of sweet bliss! This Cadbury Chocolate bar, along with its milk chocolate goodness is filled with crunchy, yummy bits of peanut butter cookie and nutty-tasting peanut butter chips! 
+<div style="text-align: center;">Every bite becomes more irresistible than the last and before you know it, this bar will sadly be gone!!! Be sure to have extras on hand, you will require more! The Cadbury Dairy Milk Peanut Butter Cookie Bar is a pure delicious indulgence!</div>
+</div>
+</div>
+</div>
+<div class="hi"><br></div>
+</div>
+</div>
+<div class="gs">
+<div class="">
+<div class="ii gt" id=":1df">
+<div class="a3s aXjCH" id=":1dg">
+<div class="yj6qo"></div>
+</div>
+</div>
+</div>
+</div>
+<div style="text-align: center;">Cadbury Dairy Milk Peanut Butter Cookie Chocolate Bars are made at the Chocolate Factory on Gladstone Ave. in downtown Toronto.</div>
+<div style="text-align: center;"><span>Cadbury Chocolates are famous for being one of the best quality Chocolate Bars. And yes, Canada does make the best Cadbury Dairy Milk Chocolate Bars! These Canadian Chocolate Bars are in demand around the world.</span></div>
+<div style="text-align: center;"><span></span></div>
+<p style="text-align: center;"><strong>Try all the <a title="Cadbury Dairy Milk Chocolate Bars" href="https://www.candydistrict.com/collections/dairy-milk" target="_blank">Cadbury Dairy Milk Chocolate Bars</a></strong></p>
+<p><strong>100g Bar</strong></p>
+<h1></h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cadbury</s:tag>
+    <s:tag>Cadbury Canada</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Dairy Milk</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6099815661746</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000272</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5997164953778</id>
+    <published>2020-10-27T23:14:00-04:00</published>
+    <updated>2020-10-27T23:14:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hersheys-with-reeses-pieces-115-g"/>
+    <title>Hershey&apos;s with Reese&apos;s Pieces - 115 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hersheys-milk-chocolate-stuffed-with-reeses-pieces-candy-peanuts-bars-candy-district-online-candy-store-canada.jpg?v=1603855021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Two Iconic Candy Brands!</h2>
+<p>If you’re craving a combination of Hershey’s Milk Chocolate and Reese’s Pieces, look no further. We have the perfect treat for you in Hershey’s with Reese’s Pieces. This innovative 2-in-1 bar from Hershey’s brings you the best of smooth and crunchy textures, together with delectable chocolate and peanut-butter flavours.</p>
+<p>This chocolate bar is filled to the brim with Mini Reese’s Pieces candy and chopped peanuts, for a fantastic crunch. You’ll love this candy bar for a pick-me-up snack during those long afternoons. Hershey’s with Reese’s Pieces chocolate bar combines all the best of creamy milk chocolate and crunchy peanut-butter pieces.</p>
+<p><strong>115 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5997164953778</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>02-2000621</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5997159645362</id>
+    <published>2020-10-27T23:06:33-04:00</published>
+    <updated>2020-10-27T23:06:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hersheys-with-skor-pieces-90-g"/>
+    <title>Hershey&apos;s with Skor Pieces - 90 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hersheys-milk-chocolate-almond-stuffed-with-skor-candy-bar-candy-district-online-candy-store-canada.jpg?v=1603854396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<h2 class="css-1c6krh5 e1yn5b3f6" data-automation="product-title" style="text-align: center;">HERSHEY’S Milk Chocolate</h2>
+<h3 class="css-1c6krh5 e1yn5b3f6" data-automation="product-title" style="text-align: center;">Almond Stuffed with SKOR bar</h3>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<p>Gorgeously smooth classic Hershey’s chocolate mixed with the taste of crunchy Skor bars is what you’ll experience with Hershey’s with Skor Pieces. Skor toffee bits and chopped almonds await within the best of Hershey’s milk chocolate.</p>
+<p>Hershey’s has been making chocolate since 1894, so you know you’re in for a decadent experience. Skor pieces are famous for their crunchy butter toffee coated in milk chocolate, and you’ll find this flavour and experience in abundance in Hershey’s with Skor Pieces.</p>
+<p>Looking for a treat but can’t decide whether you want a classic milk chocolate bar or the distinctive taste of Skor? This chocolate bar combines both classic flavours into one tempting bar.</p>
+</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3" data-mce-fragment="1"></div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3" data-mce-fragment="1"><strong>90 g</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5997159645362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>02-2000622</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5497364807835</id>
+    <published>2020-08-13T22:05:48-04:00</published>
+    <updated>2020-08-13T22:05:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hersheys-cookies-n-creme-candy-bars-43-g"/>
+    <title>Hershey&apos;s Cookies &apos;N&apos; Creme Candy Bars - 43g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hersheys-cookies-n-creme-candy-bars-36-count-candy-district-candy-store-toronto.jpg?v=1597370748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Canadian Candy Bars</span></h2>
+<p>A box of smooth, dreamy deliciousness. And don't forget about the sweet crunch of chocolate cookie crumble. Yum! Cookies and ice cream fans rejoice. Hershey's Cookies 'N' Crème Candy Bars bring you your favourite flavours in spades!</p>
+<p>Stock up on your sweet treats stash and get this luscious treat for the whole family. A Canadian-made confection, Hershey's Cookies 'N' Crème Candy bar is an indulgence you can be proud of. Make sure you hide this generous box of 36 bars as soon as you get it. It won't last long if there are candy lovers around! It's time to stock up on chocolate bars the whole family will love.</p>
+<p><strong>43 g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5497364807835</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>02-2000407</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5485119832219</id>
+    <published>2020-08-11T14:08:51-04:00</published>
+    <updated>2020-08-11T14:08:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/nestle-kit-kat-70-dark-chocolate-wafer-bar-41-g"/>
+    <title>Nestle Kit Kat 70% Dark Chocolate Wafer Bar - 41 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestlé</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nestle-kit-kat-70-dark-chocolate-wafer-bar-41-g-candy-district-online-candy-store-toronto.jpg?v=1597169469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestlé<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Canadian Chocolate Bars</h2>
+<p>It's time for a break – a delightfully rich dark chocolate break. With 70% Dark Chocolate coating the traditional Kit Kat wafers we all know and love, Nestle Kit Kat 70% Dark Chocolate Wafer Bar is the heavenly chocolate bar you've been craving.</p>
+<p>Order one 41 g bar or go all out and get the box of 24. With the generous bulk box, you and the whole family will be all set for a while. Why not get your chocolate stash all stocked up? You deserve it.</p>
+<p>So order and get set to devour all this chocolate goodness in short order.</p>
+<p><strong>41 g Bar</strong></p>
+<div class="module-title">
+<div class="module-title"><strong></strong></div>
+<div class="module-title">
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false"></div>
+</div>
+</div>
+</div>
+<span></span>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Nestle Canada</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5485119832219</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>02-2000677</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5041363550343</id>
+    <published>2020-05-12T10:41:57-04:00</published>
+    <updated>2020-05-12T10:41:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hersheys-cookies-n-mint-candy-bars-24-count-box"/>
+    <title>Hershey&apos;s Cookies &apos;n&apos; Mint Candy Bars - 39g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hersheys-cookies-n-mint-candy-bars-24ct-candydistrict-online-candy-store-canada.jpg?v=1589294865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="rh_post_layout_metabig">
+<div class="title_single_area">
+<div class="mobititlefix">
+<div class="mobileresize meta post-meta-big">
+<h2 style="text-align: center;">Hershey’s Ice Cream Chocolate Bars</h2>
+<h3 style="text-align: center;">Limited Edition</h3>
+</div>
+</div>
+</div>
+</div>
+<p><span>Delight yourself with the limited-time Hershey's Cookies N Mint ice cream inspired candy bars. It's a creamy and mess-free ice cream experience in a convenient candy bar!</span></p>
+<p><span>• 39g bars of HERSHEY'S Cookies N Mint Candy Bars.<br>• Cool. Creamy. Refreshingly Minty.<br>• The bar breaks into pieces that look like ice cream cones</span></p>
+<p><strong>Made in Canada</strong></p>
+<p><strong>39 g Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5041363550343</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1000942</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5041294770311</id>
+    <published>2020-05-12T10:24:37-04:00</published>
+    <updated>2020-05-12T10:24:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hersheys-strawberries-n-creme-candy-bars-24-count-box"/>
+    <title>Hershey&apos;s Strawberries &apos;n&apos; Creme Candy Bars - 38g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hersheys-strawberry-n-creme-candy-bars-24ct-candydistrict-online-candy-store-canada.jpg?v=1589294305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="rh_post_layout_metabig">
+<div class="title_single_area">
+<div class="mobititlefix">
+<div class="mobileresize meta post-meta-big">
+<h2 style="text-align: center;">Hershey’s Ice Cream Chocolate Bars</h2>
+<h3 style="text-align: center;">Limited Edition</h3>
+</div>
+</div>
+</div>
+</div>
+<p><span>Delight yourself with the limited-time Hershey's Strawberries N Creme ice cream inspired candy bars. It's a creamy and mess-free ice cream experience in a convenient candy bar!</span></p>
+<p><span>• 39g bars of HERSHEY'S Strawberries N Creme Candy Bars.<br>• Cool. Creamy. Strawberry flavour.<br>• The bar breaks into pieces that look like ice cream cones</span></p>
+<p><strong>Made in Canada</strong></p>
+<p><strong>39 g Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5041294770311</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1000945</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5041224810631</id>
+    <published>2020-05-12T10:01:20-04:00</published>
+    <updated>2020-05-12T10:01:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hersheys-birthday-cake-candy-bars-24-count-box"/>
+    <title>Hershey&apos;s Birthday Cake Candy Bar - 39g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hersheys-birthday-cake-candy-bars-24-count-box-candydistrict-online-candy-store-canada.jpg?v=1589292573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="rh_post_layout_metabig">
+<div class="title_single_area">
+<div class="mobititlefix">
+<div class="mobileresize meta post-meta-big">
+<h2 style="text-align: center;">Hershey’s Ice Cream Chocolate Bars</h2>
+<h3 style="text-align: center;">Limited Edition</h3>
+</div>
+</div>
+</div>
+</div>
+<p><span>Delight yourself with the limited-time Hershey's Birthday Cake ice cream inspired candy bar. It's a creamy and mess-free ice cream experience in a convenient candy bar!</span></p>
+<p><span>• One box of 24-39g bars of HERSHEY'S Birthday Cake Candy Bars.<br>• Cool. Creamy. Sprinkly Delight.<br>• The bar breaks into pieces that look like ice cream cones</span></p>
+<p><strong>Made in Canada</strong></p>
+<p><strong>39 g Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5041224810631</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1000941</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/4972317048967</id>
+    <published>2020-04-30T14:31:58-04:00</published>
+    <updated>2020-04-30T14:31:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/nestle-kit-kat-chunky-caramel-wafer-bars-24-ct"/>
+    <title>Nestle Kit Kat Chunky Caramel Wafer Bar - 55 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nestle-kitkat-chunky-caramel-wafer-canadian-candy-bar-candydistrict-online-candy-store.jpg?v=1588302965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>New Kit Kat Wafer Bars</span></h2>
+<h3 style="text-align: center;"><span>Made in Canada</span></h3>
+<p><span>Take a BIG bite into the deliciously NEW, KIT KAT CHUNKY Caramel Wafer Bar (55 g), a BIG, classically crispy KIT KAT wafer layered with decadent flowing caramel covered in a thick milk-chocolatey coating. After all, BIG cravings deserve BIG decadent flavour. Made with 100% sustainably sourced cocoa, all-natural flavours, and no artificial colours, this is the ultimate KITKAT® treat with the added delight of delicious caramel. HAVE A BREAK HAVE A KIT KAT</span><sup>®</sup><span>.</span></p>
+<p><strong>55 g Bar</strong></p>
+<h2 class="product-tab-title">
+<span class="product-title">KIT KAT CHUNKY Caramel Wafer Bar</span><span> </span><span class="tab-label">Features and Benefits</span>
+</h2>
+<ul class="field-features-and-benefits">
+<li>
+<p>Crispy wafer with a layer of caramel in a thick milk chocolatey coating</p>
+</li>
+<li>
+<p>Prepared in Canada &amp; made with natural flavours &amp; no artificial colours</p>
+</li>
+<li>
+<p>100% Sustainably Sourced Cocoa certified by UTZ, as part of the NESTLÉ<sup>®</sup><span> </span>COCOA PLAN<sup>®</sup></p>
+</li>
+<li>
+<p>NESTLÉ Canada has raised more than $10.2 million in support of KIDS HELP PHONE<sup>®</sup></p>
+</li>
+<li>
+<p>HAVE A BREAK HAVE A KIT KAT<sup>®</sup></p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>Nestle Canada</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>UTZ Certified</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/4972317048967</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>02-2000689</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/4946473156743</id>
+    <published>2020-04-26T21:52:15-04:00</published>
+    <updated>2020-04-26T21:52:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/nestle-kit-kat-caramel-crisp-bars-120-g"/>
+    <title>Nestle Kit Kat Caramel Crisp Bars - 120 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nestle-kit-kat-caramel-crisp-canadian-chocolate-bars-candydistrict-online-candy-store.jpg?v=1587952656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>New Canadian Kit Kat Bar</span></h2>
+<p><span>Break off a piece of the indulgent KITKAT Caramel Crisp Wafer Bar (120 g). Inside each bar is a shareable treat with 10 rows of irresistible crisp caramel pieces on a classic KIT KAT wafer, enrobed in a smooth milk chocolatey coating. A chocolate lover’s delight, this decadent combination is the perfect, special addition to your well-deserved break.</span></p>
+<h3 class="product-tab-title"><span class="product-title">KIT KAT Caramel Crisp Wafer Bars</span></h3>
+<ul class="field-features-and-benefits">
+<li>
+<p>Irresistible caramel pieces on a classically crisp KIT KAT wafer, covered in a milk chocolatey coating</p>
+</li>
+<li>
+<p>100% Sustainably Sourced Cocoa certified by UTZ, as part of the NESTLÉ<sup>®</sup><span> </span>COCOA PLAN<sup>®</sup></p>
+</li>
+<li>
+<p>10 rows of irresistible KIT KAT wafers, perfect for adding something special to your break</p>
+</li>
+<li>
+<p>200 calories per 4 pieces (40 g)</p>
+</li>
+</ul>
+<p><strong>120 g</strong></p>
+<p style="text-align: center;"><strong>HAVE A BREAK, HAVE A KITKAT</strong></p>
+<h3 style="text-align: center;"><strong>Freshest Candy at the Sweetest Prices!</strong></h3>
+<h4 style="text-align: center;"><strong>Shipped Fast across Canada and the USA!</strong></h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Nestle Canada</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>UTZ Certified</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/4946473156743</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000684</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/703745294381</id>
+    <published>2017-04-16T20:28:16-04:00</published>
+    <updated>2017-04-16T20:28:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reese-sticks-42-g"/>
+    <title>Reese Sticks - 42 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/reese-sticks-wafer-bars-hersheys-canada-canadian-chocolate-bars.png?v=1535992306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Reese Sticks Wafer Bars</span></h2>
+<p><span>Reese Sticks have the creamy taste of Reese peanut butter with crispy melt-away wafers covered in delicious milk chocolate. It's an original!</span></p>
+<p><strong>42 g </strong></p>
+<div class="module-title"><strong>INGREDIENTS:</strong></div>
+<p>MILK CHOCOLATE (SUGAR, COCOA BUTTER, MILK INGREDIENTS, UNSWEETENED CHOCOLATE, LACTOSE, SOY LECITHIN, POLYGLYCEROL POLYRICINOLEATE), PEANUTS, SUGAR, WHEAT FLOUR, DEXTROSE, COCOA BUTTER, HYDROGENATED PALM KERNEL OIL, HYDROGENATED PALM OIL, PALM KERNEL OIL, MODIFIED PALM OIL AND MODIFIED VEGETABLE OIL (SHEA, SUNFLOWER AND/OR SAFFLOWER), MODIFIED MILK INGREDIENTS, UNSWEETENED CHOCOLATE, SALT, MODIFIED PALM KERNEL OIL, CORN STARCH, SOY LECITHIN, SODIUM BICARBONATE, TBHQ, ARTIFICIAL FLAVOUR.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/703745294381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>02-2001116</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/9014046081</id>
+    <published>2017-03-15T21:39:00-04:00</published>
+    <updated>2017-03-15T21:39:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/nestle-rolo-chocolate-caramel-rolls"/>
+    <title>Nestle Rolo Chocolate Caramel Rolls - 52 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestlé</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nestle-rolo-canadian-chocolate-bar-candydistrict.com-online-candy-store-canada.png?v=1618763339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestlé<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Rolo Chocolate Caramel Candy</h2>
+<p>Rolo is an old time candy that everyone wants to share but they know they can't! The most delicious caramel and chocolate candy pieces and a favourite of all the Nestle Chocolate Bars. A truly classic Canadian Candy!</p>
+<p><strong>52 g Roll </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/9014046081</id>
+      <title>1 Roll</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>02-2001019</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/705030520877</id>
+    <published>2017-03-15T21:23:00-04:00</published>
+    <updated>2017-03-15T21:23:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/kit-kat-white-chocolate-41g"/>
+    <title>Nestle Kit Kat White Chocolate Bars - 41g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestlé</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/kit-kat-white-chocolate-41g-candy-district-online-candy-store-toronto.jpg?v=1597168494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestlé<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Canadian Chocolate Bars</h2>
+<p>Kit Kat White Chocolate</p>
+<ul>
+<li>Made in Canada</li>
+</ul>
+<p><strong>41 g Bar</strong></p>
+<div class="module-title">
+<strong>INGREDIENTS:</strong> SUGAR, MODIFIED MILK INGREDIENTS, COCOA BUTTER, WHEAT FLOUR, PALM, PALM KERNEL, COCONUT AND VEGETABLE OILS, COCOA MASS, SOY AND SUNFLOWER LECITHINS, YEAST, SODIUM BICARBONATE, CALCIUM SULPHATE, SALT, PROTEASE, XYLANASE, NATURAL FLAVOURS.</div>
+<div class="module-title">
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false">
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></p>
+</div>
+</div>
+</div>
+</div>
+<span></span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>Nestle Canada</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/705030520877</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>02-2000747</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/9013964865</id>
+    <published>2017-03-15T21:23:00-04:00</published>
+    <updated>2017-03-15T21:23:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/kit-kat-45g"/>
+    <title>Nestle Kit Kat Bars - 45g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestlé</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nestle-kit-kat-canadian-chocolate-bar-candydistrict.com-online-candy-store-canada.png?v=1573914919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestlé<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Canadian Chocolate Bars</h2>
+<h3 style="text-align: center;">Kit Kat Canada</h3>
+<p>Kit Kat is one of our favourite Nestle Chocolate Bars! Delicious crisp wafer with the perfect ratio of smooth milk chocolate. Time to take a break!</p>
+<ul class="field-features-and-benefits">
+<li>Four delicious fingers of signature KIT KAT wafer enrobed in a smooth milk chocolate coating</li>
+<li>Nestle purchases 100% Sustainably Sourced Cocoa certified by UTZ, as part of the NESTLÉ COCOA PLAN. They work with UTZ and farmers to improve the quality of their products and strengthen their communities</li>
+<li>Proudly prepared in Canada, KIT KAT has been made with natural flavours since 2011</li>
+<li>Nestle proudly supports Kids Help Phone! NESTLÉ Canada has raised more than $10.2 million in support of Kids Help Phone over the last 28 years</li>
+</ul>
+<p><strong>45 g Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Nestle Canada</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/9013964865</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>02-2000676</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/8994986945</id>
+    <published>2017-03-11T21:18:00-05:00</published>
+    <updated>2017-03-11T21:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/cadbury-fruit-nut-dark"/>
+    <title>Cadbury Fruit &amp; Nut Dark - 100g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/cadbury-dairy-milk-fruit-nut-dark-milk-chocolate-bars-canadian-candydistrict-online-candy-store-kitchener-waterloo.jpg?v=1577210066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Canadian Cadbury Chocolate Bars</h2>
+<div style="text-align: center;">Cadbury Fruit &amp; Nut Dark Chocolate Bars are made at the Chocolate Factory on Gladstone Ave. in downtown Toronto.</div>
+<div style="text-align: center;">Cadbury Chocolates are famous for being one of the world's best chocolate. And yes, Canada does make the best Cadbury Chocolate Bars! </div>
+<p><strong>100g Chocolate Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cadbury</s:tag>
+    <s:tag>Cadbury Canada</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Dairy Milk</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/8994986945</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000311</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/8994977601</id>
+    <published>2017-03-11T21:09:00-05:00</published>
+    <updated>2017-03-11T21:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/cadbury-premium-dark"/>
+    <title>Cadbury Premium Dark - 100g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/cadbury-premium-dark-canadian-chocolate-bars-candy-district-online-candy-store-toronto.jpg?v=1577336194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Canadian Cadbury Chocolate Bars</h2>
+<p><span>Indulge in the exquisite taste of bold dark chocolate with the Cadbury Premium Dark Chocolate Bar.</span></p>
+<div>This bar is not adorned with anything else but the exceptional taste of dark chocolate. It's simple yet sophisticated, you'll experience the true and impeccable taste of what dark chocolate is meant to be!</div>
+<div>The Cadbury Premium Dark is made right here in Toronto, Canada and has been a favourite choice since 1831! Delve into the classics with the irresistible bold taste of Cadbury Premium Dark!</div>
+<p>Cadbury Chocolates are famous for being one of the world's best chocolate. And yes, Canada does make the best Cadbury Chocolate Bars! Try all the Flavours!</p>
+<p><strong>100g Chocolate Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cadbury</s:tag>
+    <s:tag>Cadbury Canada</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Dairy Milk</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/8994977601</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000356</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/8994954369</id>
+    <published>2017-03-11T20:37:00-05:00</published>
+    <updated>2017-03-11T20:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/cadbury-dairy-milk-toffee"/>
+    <title>Cadbury Dairy Milk Toffee - 100 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/cadbury-dairy-milk-toffee-milk-chocolate-bars-canadian-candydistrict-online-candy-store-kitchener-waterloo.jpg?v=1577209097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Canadian Cadbury Chocolate Bar</h2>
+<div class="gs">
+<div class="">
+<div id=":16s" class="ii gt">
+<div id=":16r" class="a3s aXjCH">
+<div dir="ltr" style="text-align: center;">Cadbury Milk Chocolate embedded with tiny bits of buttery Toffee makes this Canadian Chocolate Bar pure bliss! The Cadbury Dairy Milk Chocolate is the sweet stuff that chocolate dreams are made of and with the added, slight crunchiness of the Toffee. it makes for a simple, incredibly irresistible Chocolate Bar!</div>
+<div class="yj6qo"></div>
+</div>
+</div>
+</div>
+</div>
+<div style="text-align: center;">Cadbury Dairy Milk Toffee Chocolate Bars are made at the Chocolate Factory on Gladstone Ave. in downtown Toronto.</div>
+<div style="text-align: center;">Cadbury Chocolates are famous for being one of the world's best chocolate. And yes, Canada does make the best Cadbury Dairy Milk Chocolate Bars! </div>
+<p style="text-align: center;"><strong>Try all the <a href="https://www.candydistrict.com/collections/dairy-milk" title="Cadbury Dairy Milk Chocolate Bars" target="_blank">Cadbury Dairy Milk Chocolate Bars</a></strong></p>
+<p><strong>100g Chocolate Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cadbury</s:tag>
+    <s:tag>Cadbury Canada</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Dairy Milk</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/8994954369</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000281</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+</feed>

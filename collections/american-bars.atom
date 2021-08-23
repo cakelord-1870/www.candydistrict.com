@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.candydistrict.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.candydistrict.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.candydistrict.com/collections/american-bars.atom"/>
+  <title>Candy District</title>
+  <updated>2021-07-30T15:43:38-04:00</updated>
+  <author>
+    <name>Candy District</name>
+  </author>
+  <entry>
+    <id>https://www.candydistrict.com/products/6914030076082</id>
+    <published>2021-07-30T15:43:38-04:00</published>
+    <updated>2021-07-30T15:43:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/whozeewhatzit-48g"/>
+    <title>Whozeewhatzit - 48g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hersheys_whozeewhatzit_48g_candy_district.jpg?v=1627674193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Bar So Good, They Didn't Know What to Call It!</h2>
+<p>     This is the chocolate bar that appears in your dreams, peanut butter lovers. A layer of <strong>creamy peanut butter</strong> on a bed of <strong>crispy chocolatey bits</strong>, all enveloped in a <strong>rich and smooth milk chocolate</strong> - it's absolutely hard to resist!</p>
+<p>     Fun Fact: This bar was named the <strong>Whozeewhatzit</strong> by Hershey candy super-fan Lisa M. Kudos to Lisa for an unforgettable name!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6914030076082</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2001356</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6237645373618</id>
+    <published>2021-02-04T21:58:15-05:00</published>
+    <updated>2021-02-04T21:58:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/twix-white-cookie-bars"/>
+    <title>Twix White Cookie Bars - 45.9g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/twix-white-cookie-bars-candy-district-online-candy-store-canada.jpg?v=1612493863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" class="a-size-large a-spacing-none" data-mce-fragment="1"><span class="a-size-large product-title-word-break" id="productTitle" data-mce-fragment="1"><span data-mce-fragment="1"> </span>White Chocolate Caramel Cookie Bars</span></h2>
+<p><span class="a-size-large product-title-word-break" data-mce-fragment="1"><span>A fun and delicious twist on the original, made with white chocolate! The Twix White Cookie Bar is made in Germany and includes that perfect crunch of a shortbread cookie, laced with golden caramel and then all covered in a layer of white chocolate!</span></span></p>
+<div>Each bite is delectable, with an equal balance of crunchiness and sweet creaminess! You just can't beat this dreamy Twix texture!</div>
+<div>Experience some dreamy-tasting white chocolate bliss with the Twix White Chocolate Cookie Bars!</div>
+<ul>
+<li><span class="a-size-large product-title-word-break" data-mce-fragment="1">Made in Germany</span></li>
+<li><span class="a-size-large product-title-word-break" data-mce-fragment="1">Kosher</span></li>
+</ul>
+<p><strong><span class="a-size-large product-title-word-break" data-mce-fragment="1">45.9 g Bars | 20 Count Box</span></strong></p>
+<h3 style="text-align: center;"><strong><span class="a-size-large product-title-word-break" data-mce-fragment="1">The Freshest Candy Bars Shipped Fast!</span></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Mars</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6237645373618</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.89</s:price>
+      <s:sku>02-2001322</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6158320468146</id>
+    <published>2020-12-31T09:57:19-05:00</published>
+    <updated>2020-12-31T09:57:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/m-m-s-white-chocolate-peanut-candies-1-36-oz"/>
+    <title>M&amp;M’s White Chocolate Peanut Candies - 1.36 oz.</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/m-m-s-white-chocolate-peanut-candies-1-36-oz-candy-district-online-candy-shop.jpg?v=1618717280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span class="im">M&amp;M's Milk Chocolate Candies Melt in your mouth...</span></h2>
+<p> </p>
+<p><strong>1.36 oz Bag</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>M&amp;M</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6158320468146</id>
+      <title>1 Bag</title>
+      <s:price currency="CAD">1.69</s:price>
+      <s:sku>02-2000849</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6158305460402</id>
+    <published>2020-12-31T09:44:32-05:00</published>
+    <updated>2020-12-31T09:44:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/m-m-s-white-chocolate-candies-1-5-oz"/>
+    <title>M&amp;M’s White Chocolate Candies - 1.5 oz.</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/m-m-s-white-chocolate-candies-1-5-oz-candy-district-online-candy-shop.jpg?v=1618717235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span class="im">M&amp;M's Milk Chocolate Candies Melt in your mouth...</span></h2>
+<p> </p>
+<p><strong>1.5 oz Bag</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>M&amp;M</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6158305460402</id>
+      <title>1 Bag</title>
+      <s:price currency="CAD">1.69</s:price>
+      <s:sku>02-2000846</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6158294286514</id>
+    <published>2020-12-31T09:33:37-05:00</published>
+    <updated>2020-12-31T09:33:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/m-m-s-caramel-chocolate-candies-1-41-oz"/>
+    <title>M&amp;M’s Caramel Chocolate Candies - 1.41 oz.</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/m-m-s-caramel-chocolate-candies-1-41-oz-candy-district-online-candy-shop.jpg?v=1609425475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span class="im">M&amp;M's Milk Chocolate Candies Melt in your mouth...</span></h2>
+<p> </p>
+<p><strong>1.41 oz Bag</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>M&amp;M</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6158294286514</id>
+      <title>1 Bag</title>
+      <s:price currency="CAD">1.69</s:price>
+      <s:sku>02-2000798</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6120287142066</id>
+    <published>2020-12-07T19:32:22-05:00</published>
+    <updated>2020-12-07T19:32:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/snickers-peanut-brownie-squares-candy-bar-68-g"/>
+    <title>Snickers Peanut Brownie Squares Candy Bar - 68 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/snickers-peanut-brownie-squares-candy-bar-68-g-candy-district-online-candy-shop-canada.jpg?v=1607387325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Snickers Peanut Brownie Share Size</h2>
+<div>Have a taste of sweet bliss, with the dreamy Snickers Peanut Brownie Squares Candy Bar! </div>
+<div>Your teeth will joyfully sink into a layer of golden, gooey caramel and a chewy middle with a peanut infused brownie, covered in milk chocolate! Does it get any better?</div>
+<div>Indulge yourself with the sinful decadence of the Snickers Peanut Brownie Squares Candy Bar!</div>
+<div class="yj6qo"><br></div>
+<p><span>68 g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Exotic Snacks</s:tag>
+    <s:tag>Mars</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6120287142066</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2001243</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6120026046642</id>
+    <published>2020-12-07T14:43:34-05:00</published>
+    <updated>2020-12-07T14:43:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/payday-candy-bar-king-size-96-g"/>
+    <title>PayDay Candy Bar King Size - 96 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/payday-candy-bar-king-size-96-g-candy-district-online-candy-shop-canada.jpg?v=1607370783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">PayDay Peanut Caramel Candy Bar</h2>
+<h3 style="text-align: center;"><span>American Candy</span></h3>
+<div class="gs">
+<div class="">
+<div class="ii gt" id=":16d">
+<div class="a3s aiL" id=":12e">
+<div dir="ltr">
+<div>Give your tastebuds the PayDay they deserve with the mouthwatering PayDay King Size Candy Bar!</div>
+<div>This candy bar may be old fashioned, but wow! It just hits the spot every time! Filled with thick and nougat-like caramel,  then completely covered in a generous helping of roasted, crunchy peanuts that are lightly salted. These two flavours make some serious magic together!</div>
+<div>Since 1932, the PayDay candy bar has been feeding our sweet and salty cravings. For a unique and delicious candy bar, only PayDay will do!</div>
+</div>
+<div class="adL"><br></div>
+</div>
+</div>
+</div>
+</div>
+<p><strong>96 g Candy Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6120026046642</id>
+      <title>96 g Bar</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2001052</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6104872845490</id>
+    <published>2020-11-28T01:36:00-05:00</published>
+    <updated>2020-11-28T01:36:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/kit-kat-duos-mocha-chocolate-42-g"/>
+    <title>Kit Kat Duos Mocha + Chocolate - 42 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/kit-kat-duos-mocha-chocolate-42-g-candy-district-online-candy-shop-canada.jpg?v=1606545514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Limited Edition Kit Kat Bars</span></h2>
+<p> <span>This is one break you just can't afford to miss! </span></p>
+<div>The Kit Kat Duos Mocha Chocolate is a limited edition, must have NOW chocolate bar!</div>
+<div>Made to completely fall in love with, seriously! This classic chocolate bar is an irresistible combination of crispy wafers, smooth mocha creme, tasty coffee bits and of course, it's all beautifully surrounded by delicious chocolate.</div>
+<div>Give yourself the sweetest break ever with the delectable Kit Kat Duos Mocha Chocolate!</div>
+<p><strong>42 g</strong><br></p>
+<h3 style="text-align: center;"><span>Stock up on this Limited Edition Candy Bar.</span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6104872845490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2000711</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6100077740210</id>
+    <published>2020-11-25T21:10:05-05:00</published>
+    <updated>2020-11-25T21:10:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reeses-big-cup-with-pretzels-16-count"/>
+    <title>Reese&apos;s Big Cup with Pretzels - 1.3 oz.</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/reeses-big-cup-with-pretzels-16-count-candy-district-online-candy-shop-canada.jpg?v=1606356981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" class="product_name" data-mce-style="text-align: center;" itemprop="name">New Reese's Big Cup with Pretzels</h2>
+<p><span>There's only one cure for that BIG candy craving!  Now you can really get it good, with the Reese's Big Cup With Pretzels! </span></p>
+<div>Extra BIG cups with the welcome addition of salted, crunchy pretzel pieces. An intensified version of that sweet and salty combination we've come to know and love with Reese's!</div>
+<div>Do you know what they say? Go BIG or go home with these delicious and delectable  Big Cup With Pretzel Reese's Cups</div>
+<ul>
+<li><span style="color: #000000;" data-mce-style="color: #000000;">Made in the USA</span></li>
+<li><span style="color: #000000;" data-mce-style="color: #000000;">Kosher Certified Dairy</span></li>
+</ul>
+<p><strong>1.3 oz Pack</strong></p>
+<h3 style="text-align: center;" data-mce-style="text-align: center;"><strong><span>Sweetest Selection of the Freshest Candy Shipped Fast!</span></strong></h3>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6100077740210</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.89</s:price>
+      <s:sku>02-2001075</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5598785241243</id>
+    <published>2020-09-13T01:06:10-04:00</published>
+    <updated>2020-09-13T01:06:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hersheys-miniatures-chocolate-assortment-candy-5-3-oz"/>
+    <title>Hershey&apos;s Miniatures Chocolate Assortment Candy - 5.3 oz.</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hersheys-miniatures-chocolate-assortment-candy-5.3-oz-candy-district-online-candy-store-canada.jpg?v=1599973571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span data-mce-fragment="1">Hershey's Classic Mini Bars</span></h2>
+<p><span data-mce-fragment="1">A very sweet assortment of Hershey's classic chocolate treats including </span><span data-mce-fragment="1">Hershey's Milk Chocolate Bars, Hershey's Special Dark,  Mr. Goodbars, and Krackel Bars. </span></p>
+<ul>
+<li><span data-mce-fragment="1">Individually Wrapped</span></li>
+<li><span data-mce-fragment="1">Kosher</span></li>
+</ul>
+<p><strong>5.3 oz</strong></p>
+<p><strong>Ingredients: </strong></p>
+<p>Sugar, chocolate, cocoa butter, milk peanuts, nonfat milk, crisped rice, contains 2% or less of: milk fat, lactose, cocoa processed with alkali, soya lecithin and PGPR, like emulsifiers, salt, malt and vanillin, an artificial flavouring.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to produce labelling or contact manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5598785241243</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.29</s:price>
+      <s:sku>02-2000609</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5519738110107</id>
+    <published>2020-08-20T14:29:57-04:00</published>
+    <updated>2020-08-20T14:29:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/payday-chocolatey-candy-bars-1-85-oz"/>
+    <title>PayDay Chocolatey Candy Bars - 1.85 oz.</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/payday-chocolatey-candy-bars-1-85-oz-candy-district-candy-store-toronto.jpg?v=1597948578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">New from Hershey's</h2>
+<h3 class="product_name" style="text-align: center;" itemprop="name">PayDay Chocolatey Covered Peanut and Caramel Candy Bars</h3>
+<p><span>Ready, set…crunch! This PAYDAY may have a flashy new exterior, but it's the same powerful peanut and caramel under the hood. Together they make a classic candy combination, engineered for maximum crunchy, salty, chocolatey sweetness. See for yourself with PAYDAY Chocolatey Peanut Caramel Bar.</span></p>
+<p><strong>1.85 oz Candy Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5519738110107</id>
+      <title>1 Candy Bar</title>
+      <s:price currency="CAD">1.89</s:price>
+      <s:sku>02-2001051</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5484830490779</id>
+    <published>2020-08-11T13:38:57-04:00</published>
+    <updated>2020-08-11T13:38:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reeses-big-cup-peanut-butter-cups-king-size-79-g"/>
+    <title>Reese&apos;s Big Cup Peanut Butter Cups King Size - 79 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/reeses-big-cup-peanut-butter-cups-king-size-79-g-candy-district-online-candy-store-canada.jpg?v=1597168046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">Reeses Peanut Butter Lover's Cup</h2>
+<div class="gs">
+<div class="">
+<div id=":om" class="ii gt">
+<div id=":q0" class="a3s aXjCH">
+<div dir="ltr">Your dream is here peanut Butter lovers, the wait is over! The Peanut Butter cups of epic proportions, or should we say, the Peanut Butter cups of the century!!! Reese's Big Cup Peanut Butter Cup King Size has all the makings of the original, but bigger and that means extra delicious! This Big Cup King Size is certainly deluxe, overflowing with an extra helping of Peanut Butter surrounded in a milk chocolate cup. It's a sweet win for candy lovers everywhere!</div>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li><span style="color: #000000;">Made in the USA</span></li>
+<li><span style="color: #000000;">Kosher Certified Dairy﻿</span></li>
+</ul>
+<p><strong>79 g Pack</strong></p>
+<h3 style="text-align: center;"><strong><span>Sweetest Selection of the Freshest Candy Shipped Fast!</span></strong></h3>
+<p><strong><span>Ingredients:</span></strong></p>
+<p>Milk chocolate (sugar, cocoa butter, chocolate, nonfat milk, milk fat, lactose, soy lecithin, PGPR, emulsifier, peanuts, sugar, dextrose, salt, TBHQ (preservative).</p>
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false">
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5484830490779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2001113</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5484652101787</id>
+    <published>2020-08-11T13:12:16-04:00</published>
+    <updated>2020-08-11T13:12:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reeses-crunchy-cookie-big-cup-king-size-2-68-oz"/>
+    <title>Reese&apos;s Crunchy Cookie Big Cup King Size - 2.68 oz.</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/reeses-crunchy-cookie-big-cup-king-size-2-68-oz-candy-district-online-candy-store.jpg?v=1618792247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">Reese's Stuffed with Crunchy Cookie<span> </span>
+</h2>
+<div class="gs">
+<div class="">
+<div id=":1by" class="ii gt">
+<div id=":r4" class="a3s aXjCH">
+<div dir="ltr">
+<div>A delectable trio, crunchy, creamy and delicious! Crunchy bits of cookie pieces come together with the perfect pairing of peanut butter and chocolate! The Reese's Crunchy Cookie Big Cup King Size is an unforgettable indulgence, every delicious bite is nothing short of luscious! Those crispy cookies with the creamy peanut butter and chocolate make this, a candy lover's dream!</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li><span style="color: #000000;">Made in the USA</span></li>
+<li><span style="color: #000000;">Kosher Certified Dairy﻿</span></li>
+</ul>
+<p><strong>2.68 oz Pack</strong></p>
+<h3 style="text-align: center;"><strong><span>Sweetest Selection of the Freshest Candy Shipped Fast!</span></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5484652101787</id>
+      <title>1 King Size Bar</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2001081</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5484336840859</id>
+    <published>2020-08-11T11:48:50-04:00</published>
+    <updated>2020-08-11T11:48:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reeses-take-5-candy-bar-1-5-oz"/>
+    <title>Reese&apos;s Take 5 Candy Bar - 1.5 oz.</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/reeses-take-5-candy-bar-1.5-oz-candy-district-online-candy-store.jpg?v=1618793199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">Something sweet and salty from Reeses.</h2>
+<p>Reese's Take 5 Candy Bars lets you indulge<span> in the salty and sweet flavours of layered pretzels, peanut butter, caramel and peanuts all covered in rich milk chocolate.  </span></p>
+<ul>
+<li><span style="color: #000000;">Made in the USA</span></li>
+<li><span style="color: #000000;">Kosher Certified Dairy</span></li>
+</ul>
+<p><strong>1.5 oz Candy Bar</strong></p>
+<h3 style="text-align: center;"><strong>Sweetest Selection of the Freshest Candy Shipped Fast!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5484336840859</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.89</s:price>
+      <s:sku>02-2001118</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5482566189211</id>
+    <published>2020-08-10T23:56:40-04:00</published>
+    <updated>2020-08-10T23:56:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reeses-take-5-king-size-candy-bar-2-25-oz"/>
+    <title>Reese&apos;s Take 5 King Size Candy Bar - 2.25 oz</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/reeses-take-5-king-size-candy-bar-2-25-oz-candy-district-online-candy-store.jpg?v=1618799949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">Something big from Reeses.</h2>
+<p>Reese's Take 5 King Size Candy Bars lets you indulge<span> in the salty and sweet flavours of layered pretzels, peanut butter, caramel and peanuts all covered in rich milk chocolate.  </span></p>
+<ul>
+<li><span style="color: #000000;">Made in the USA</span></li>
+<li><span style="color: #000000;">Kosher Certified Dairy</span></li>
+</ul>
+<p><strong>2.25 oz Candy Bar</strong></p>
+<h3 style="text-align: center;"><strong>Sweetest Selection of the Freshest Candy Shipped Fast!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5482566189211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5468736356507</id>
+    <published>2020-08-06T08:11:29-04:00</published>
+    <updated>2020-08-06T08:11:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hersheys-gold-peanuts-pretzels-in-caramelized-creme-1-4-oz"/>
+    <title>Hershey&apos;s Gold Peanuts &amp; Pretzels in Caramelized Creme - 1.4 oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hersheys-gold-peanuts-pretzels-in-caramelized-creme-1-4-oz-candy-district-online-candy-store-toronto.jpg?v=1618686719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Caramelized creme meets with peanuts and pretzels in this crunchy creme bar. Experience the delicious blend of salty, sweet, and creamy for yourself.</span></p>
+<p><strong>1.4 oz. Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5468736356507</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">1.89</s:price>
+      <s:sku>02-2000571</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5468510912667</id>
+    <published>2020-08-06T07:09:26-04:00</published>
+    <updated>2020-08-06T07:09:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/kit-kat-apple-pie-bar-42-g"/>
+    <title>Kit Kat Apple Pie Bar - 42 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/kit-kat-apple-pie-candy-bars-hersheys-candy-district-online-candy-store-toronto.jpg?v=1596712540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Limited Edition Kit Kat Bars</span></h2>
+<p>This limited-edition treat is only around for a short me, so get your hands on it now. Stock up so you don't run out. The smooth chocolate of Kit Kat? Check. The sweet, comforting flavour of apple pie? Check. It's the perfect indulgence for a rainy afternoon.</p>
+<p>Enjoy memories of the homemade apple pie you rushed home from school to enjoy as a kid. Kit Kat Apple Pie bar features delectable wafers enveloped in white crème with apple pie flavour. Craving the comforting delight of homemade apple pie? It's time to enjoy this tempting treat. No baking required. Order right away so you don't miss out.</p>
+<p><strong>42 g</strong><br></p>
+<h3 style="text-align: center;"><span>Stock up on this Limited Edition Candy Bar.</span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5468510912667</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2000678</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5458400706715</id>
+    <published>2020-08-03T15:28:41-04:00</published>
+    <updated>2020-08-03T15:28:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hershey-s-white-creme-with-whole-almonds"/>
+    <title>Hershey’s White Creme With Whole Almonds - 41 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hershey-s-white-creme-with-whole-almonds-candy-district-online-candy-store.jpg?v=1596483008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Limited Edition Candy Bars</span></h2>
+<p>Smooth and luscious white crème accompanied by crunchy whole almonds. Hershey's White Crème with Whole Almonds offers this scrumptiously irresistible combination. Imagine the dreaminess of white chocolate on a dreary afternoon. Delightfully rich, Hershey's White crème with Whole Almonds is the ultimate comfort food.</p>
+<p>Whatever your preference, whether you love the melting texture of chocolate in your mouth or the satisfying crunchiness of almonds, you'll find everything you need in this unique confection. You'll enjoy the scrumptious crunch of almonds in every single bite of this yummy chocolate bar.</p>
+<p>An iconic company, Hershey's is the chocolate authority. It's been making sweet, creamy delights since 1894.</p>
+<p><strong>41 g</strong></p>
+<h3 style="text-align: center;"><span>Stock up on these Limited Edition Candy Bars!</span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5458400706715</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.89</s:price>
+      <s:sku>02-2000620</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5458378948763</id>
+    <published>2020-08-03T15:12:57-04:00</published>
+    <updated>2020-08-03T15:12:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/kit-kat-birthday-cake-bar-42-g"/>
+    <title>Kit Kat Birthday Cake Bar - 42 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/kit-kat-birthday-cake-bar-42-g-candy-district-online-candy-store.jpg?v=1596482013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Limited Edition Kit Kat Bars</span></h2>
+<p><span>Finally, a delicious treat that will make taking a break a piece of cake. New Kit Kat</span><span> Birthday Cake – crisp wafers in birthday cake flavoured white crème with sprinkles. You’ll want to keep a few in your pantry and a few more at your workplace because you can always break for birthday cake. But, get ready, because Kit Kat</span><span> Birthday Cake flavoured candy will be available for a limited time only.</span></p>
+<p><strong>42 g</strong></p>
+<h3 style="text-align: center;"><span>Stock up on this Limited Edition Candy Bar.</span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5458378948763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2000679</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/470677249</id>
+    <published>2019-11-02T08:00:51-04:00</published>
+    <updated>2019-11-02T08:00:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/heath-bar"/>
+    <title>Heath Bars - 1.4 oz.</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/heath-toffee-candy-bars-candy-district-online-candy-store-toronto.jpg?v=1618686125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"> <span>Heath Toffee Candy Bars</span>
+</h2>
+<p><span>     The Heath bar is made of a <strong>crunchy toffee center</strong> and a <strong>fine layer of smooth milk chocolate</strong>. This is a thin hard bar that is sure to satisfy </span>you with every sweet and crunchy bite you take.</p>
+<h4 style="text-align: center;">Some Heath History:</h4>
+<div>     The story of this old-fashioned chocolate bar started in 1913 when L.S Heath, a teacher, decided to purchase an already existing confectionery</div>
+<div>shop in Illinois. It is believed that Mr. Heath bought this store as an opportunity for his two oldest sons, Bayard and Everett Heath. The two brothers decided to open a combination of a candy store and an ice cream parlour with a small manufacturing operation.<br><br>
+</div>
+<div></div>
+<div>     The business was a huge success, and the brothers started to expand their confection part of the business. Along the way, they acquired a delicious toffee recipe and began to market it locally as "<strong>Heath English Toffee</strong>." They proclaimed that this toffee was "<strong>America's Finest</strong>."<br><br>
+</div>
+<div>     In 1931, the toffee became a chocolate-covered treasure. Little did they know of the enormous accomplishment it would become.<br><br>
+</div>
+<div></div>
+<div>     The <strong>Heath</strong> bar grew in popularity nationally, even during the time of the Depression. The U.S. Army placed an order of $175,000 for the bars because <strong>Heath</strong> bars have a very long shelf life, and they included them into the soldier's rations throughout World War II. <br><br>
+</div>
+<div></div>
+<div>     During the 1960s, the enormous popularity and success of the <strong>Heath</strong> Bar led to the infighting of the whole Heath family. One grandson Richard Heath was actually expelled from the business in 1969. He eventually wrote a book about the tragic events in 1995, called <strong>"Bittersweet: The Story Of The Heath Candy Company</strong>."<br><br>
+</div>
+<div>     In 1989, the breakup of the Heath Family Company caused the business to be sold to a Finnish company - Leaf, Inc (which was later acquired by Hershey in 1996). Despite all of the tumultuous turmoil of the Heath Company and the family, the <strong>Heath</strong> bar remains a well sought after, popular chocolate bar to this day!<br><br>
+</div>
+<div></div>
+<h3><strong>1.4 oz | 1 bar<br></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1910s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Era_1910s</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/470677249</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.89</s:price>
+      <s:sku>02-2000542</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1838679031853</id>
+    <published>2019-05-26T10:50:54-04:00</published>
+    <updated>2019-05-26T10:50:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hersheys-milk-chocolate-reeses-pieces-candy-bars-1-55-oz"/>
+    <title>Hershey&apos;s Milk Chocolate &amp; Reese&apos;s Pieces Candy Bars - 1.55 oz.</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hersheys-milk-chocolate-reeses-pieces-candy-bars-candy-district-online-candy-store-toronto.jpg?v=1558882597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">2 Epic Retro Candy Brands in 1</h2>
+<div class="gs">
+<div class="">
+<div id=":qz" class="ii gt">
+<div id=":o2" class="a3s aXjCH">
+<div dir="ltr">It must have been sweet candy fate that brought these two together, they really do make a perfect pair! A Hershey's milk chocolate bar, that is completely stuffed full of Reese's Pieces Candy. Every bite is full of delicious texture, creamy rich chocolate with a slight peanut butter candy tasting crunch. The Hershey's Milk Chocolate &amp; Reese's Pieces Candy Bars are simply, a match made in Candy heaven!</div>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li><span style="color: #000000;">Made in the USA</span></li>
+<li><span style="color: #000000;">Kosher Certified Dairy﻿</span></li>
+</ul>
+<p><strong>1.55 oz Candy Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1838679031853</id>
+      <title>1 Candy Bar</title>
+      <s:price currency="CAD">1.89</s:price>
+      <s:sku>02-2000603</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1838669463597</id>
+    <published>2019-05-26T10:34:58-04:00</published>
+    <updated>2019-05-26T10:34:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reesess-outrageous-candy-bar-1-48-oz"/>
+    <title>Reeses&apos;s Outrageous Candy Bar - 1.48 oz.</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/reeses-outtrageous-candy-bars-candy-district-online-candy-store.jpg?v=1596891615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">Stuffed with Reeses Pieces Candy</h2>
+<div class="gs">
+<div class="">
+<div id=":r9" class="ii gt">
+<div id=":og" class="a3s aXjCH">
+<div dir="ltr">It's always good to be original and outrageous, especially if you can pull it off as good as Reese's does! The Reese's Outrageous Candy Bar is packed full of delectable caramel, creamy, rich milk chocolate and Reese's Pieces Candy. This Candy Bar is totally and deliciously Outrageous! There is so much delectable taste to derive from the Reese's Outrageous, indulge yourself, don't settle for boring!</div>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li><span style="color: #000000;">Made in the USA</span></li>
+<li><span style="color: #000000;">Kosher Certified Dairy</span></li>
+</ul>
+<p><strong>1.48 oz Candy Bar</strong></p>
+<h3 style="text-align: center;"><strong>Sweetest Selection of the Freshest Candy Shipped Fast!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1838669463597</id>
+      <title>1 Candy Bar</title>
+      <s:price currency="CAD">1.89</s:price>
+      <s:sku>02-2001096</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1838660845613</id>
+    <published>2019-05-26T10:17:34-04:00</published>
+    <updated>2019-05-26T10:17:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reeses-big-cup-peanut-butter-cup-1-4-oz"/>
+    <title>Reese&apos;s Big Cup Peanut Butter Cup - 1.4 oz.</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/reeses-big-cup-peanut-butter-cups-american-candy-bars-candy-district-online-candy-store-toronto.jpg?v=1618791776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">Peanut Butter Lover's Cup</h2>
+<div class="gs">
+<div class="">
+<div id=":om" class="ii gt">
+<div id=":q0" class="a3s aXjCH">
+<div dir="ltr">Your dream is here peanut Butter lovers, the wait is over! The Peanut Butter cup of epic proportions, or should we say, the Peanut Butter cup of the century!!! Reese's Big Cup Peanut Butter Cup has all the makings of the original, but bigger and that means extra delicious! This Big Cup is certainly deluxe, overflowing with an extra helping of Peanut Butter surrounded in a milk chocolate cup. It's a sweet win for candy lovers everywhere!</div>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li><span style="color: #000000;">Made in the USA</span></li>
+<li><span style="color: #000000;">Kosher Certified Dairy﻿</span></li>
+</ul>
+<p><strong>1.4 oz Pack</strong></p>
+<h3 style="text-align: center;"><strong><span>Sweetest Selection of the Freshest Candy Shipped Fast!</span></strong></h3>
+<p><strong><span>Ingredients:</span></strong></p>
+<p>Milk chocolate (sugar, cocoa butter, chocolate, nonfat milk, milk fat, lactose, soy lecithin, PGPR, emulsifier, peanuts, sugar, dextrose, salt, TBHQ (preservative).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1838660845613</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.89</s:price>
+      <s:sku>02-2001073</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1838516731949</id>
+    <published>2019-05-26T05:28:55-04:00</published>
+    <updated>2019-05-26T05:28:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reeses-crunchy-cookie-cup-1-4-oz"/>
+    <title>Reese&apos;s Crunchy Cookie Cup - 1.4 oz.</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/reeses-crunchy-cookie-cups-american-candy-bars-candy-district-online-candy-store-toronto.jpg?v=1558864419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">Reese's Stuffed with Crunchy Cookie<span> </span>
+</h2>
+<div class="gs">
+<div class="">
+<div id=":1by" class="ii gt">
+<div id=":r4" class="a3s aXjCH">
+<div dir="ltr">
+<div>A delectable trio, crunchy, creamy and delicious! Crunchy bits of cookie pieces come together with the perfect pairing of peanut butter and chocolate! The Reese's Crunchy Cookie Cup is an unforgettable indulgence, every delicious bite is nothing short of luscious! Those crispy cookies with the creamy peanut butter and chocolate make this, a candy lover's dream!</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li><span style="color: #000000;">Made in the USA</span></li>
+<li><span style="color: #000000;">Kosher Certified Dairy﻿</span></li>
+</ul>
+<p><strong>1.4 oz Pack</strong></p>
+<h3 style="text-align: center;"><strong><span>Sweetest Selection of the Freshest Candy Shipped Fast!</span></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1838516731949</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.89</s:price>
+      <s:sku>02-2001080</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5985470657</id>
+    <published>2018-09-23T14:15:25-04:00</published>
+    <updated>2018-09-23T14:15:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/big-hunk-candy-bar"/>
+    <title>Annabelle&apos;s Big Hunk Candy Bar - 2 oz.</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Annabelle Candy Co. Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/big-hunk-candy-bar.png?v=1490474338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Annabelle Candy Co. Inc.<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><span>﻿﻿Retro Candy Bar Since the 1950s</span></h2>
+<p><span>An American Candy Bar made with roasted peanuts that are covered in a yummy honey nougat. Since Big Hunks are among the chewiest of candy bars, it can become challenging to be able to bite a piece off. Many people say they freeze them and then break or shatter them into smaller bite-size pieces. Or take the wrapper off, let them harden then proceed to break them. Either way, these Retro Candy Bars are delicious. The chewy nougat makes them long-lasting and so easy to savour! Who does not want to savour a Big Hunk!  </span></p>
+<p><span>Elvis must have been singing about these when he sang "Hunka </span>Hunka Burning Love" because Big Hunks are hunks of love!</p>
+<p><strong>2 oz Candy Bar</strong></p>
+<p><strong>American Candy</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Annabelle</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5985470657</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2000163</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+</feed>

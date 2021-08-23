@@ -1,0 +1,1276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.candydistrict.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.candydistrict.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.candydistrict.com/collections/canadian-candy.atom"/>
+  <title>Candy District</title>
+  <updated>2021-08-19T12:39:31-04:00</updated>
+  <author>
+    <name>Candy District</name>
+  </author>
+  <entry>
+    <id>https://www.candydistrict.com/products/6965060436146</id>
+    <published>2021-08-19T12:39:31-04:00</published>
+    <updated>2021-08-19T12:39:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/minion-gummies-50ct"/>
+    <title>Minion Gummies - 50ct</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Regal Confections</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/regal_illumination_presents_minions_gummies_50_count_250g_candy_district.jpg?v=1629391207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Regal Confections<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Tasty and Goofy Treat to Share</h2>
+<p>     What's more fun than a gummy treat that's shaped just like one of the loveable <strong>Minions</strong> from <em><strong>Despicable Me</strong></em>? The only thing we can think of is <strong>50 of them</strong>! </p>
+<p><strong>     </strong>Each gummy Minion is<strong> individually wrapped</strong> making this bag an easy and affordable option to hand out to trick-or-treaters on Halloween. They also make great piñata stuffers or snacks for a fantastic party!</p>
+<h3>250g | 1 bulk bag contains 50 individually wrapped pieces</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Bulk Gummy Candy</s:tag>
+    <s:tag>Bulk Sour Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halloween Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6965060436146</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>04-4000740</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6965034287282</id>
+    <published>2021-08-19T12:16:20-04:00</published>
+    <updated>2021-08-19T12:16:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/popeye-candy-sticks-24ct"/>
+    <title>Popeye Candy Sticks - 24ct</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Regal Confections</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/regal_popeye_candy_sticks_bulk_bag_24_count_60g_candy_district.jpg?v=1629389812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Regal Confections<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Nostalgic 50s Sweets to Share!</h2>
+<p>     <strong>Popeye Candy Sticks</strong> are the perfect treat to share with all the kids on Halloween, they bring back so many fond trick-or-treating memories! This <strong>24 count bulk bag</strong> makes it easy to fill a bowl full of the retro classic candy to pass around or leave out for a fun party. </p>
+<h3>60g | 1 bulk bag</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Era_1950s</s:tag>
+    <s:tag>Halloween Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6965034287282</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>04-4000737</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6960487661746</id>
+    <published>2021-08-17T14:53:52-04:00</published>
+    <updated>2021-08-17T14:53:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/cadbury-dairy-milk-mini-eggs-bars-100g"/>
+    <title>Cadbury Dairy Milk Mini Eggs Bars - 100g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/cadbury_dairy_milk_mini_eggs_chocolate_bar_100g_candy_district.jpg?v=1629225448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Dairy Milk x Mini Eggs</h2>
+<p>     <strong>Mini Eggs</strong> are not just for Easter, any true Canadian knows this. They're great for munching, baking, gifting, and now they're all nice and cozy inside their new nest -  a <strong>Cadbury Milk Chocolate</strong> bar!</p>
+<p>     Each piece of<strong> rich, smooth, and creamy milk chocolate</strong> is packed with delicious <strong>Mini Eggs</strong>. Let the chocolate melt and have all the eggs gather on your tongue or just chow down, however you decide to enjoy these bars, they're the perfect solution for your sweet tooth!</p>
+<p>     This is the hottest collab of the decade, so don't miss out on all the delicious yumminess!</p>
+<h2 style="text-align: center;"></h2>
+<div class="gs">
+<div class="">
+<div id=":1de" class="ii gt">
+<div id=":1dd" class="a3s aXjCH"></div>
+</div>
+</div>
+</div>
+<h5 style="text-align: center;" data-mce-style="text-align: center;"><strong>Try all the <a href="https://www.candydistrict.com/collections/dairy-milk" title="Dairy Milk Chocolate Bars" target="_blank">Dairy Milk Chocolate Bars</a></strong></h5>
+<p><strong>100g | 1 bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Cadbury</s:tag>
+    <s:tag>Cadbury Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Dairy Milk</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6960487661746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2001467</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6044672917682</id>
+    <published>2021-04-16T19:17:50-04:00</published>
+    <updated>2021-04-16T19:17:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/bubblicious-original-bubble-gum"/>
+    <title>Bubblicious Original Bubble Gum</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/bubblicious-original-bubble-gum-candy-district-online-candy-store-canada.jpg?v=1604270884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Bubblicious Bubblegum</h2>
+<p style="text-align: center;">Blow big bubbles with Bubblicious Original Bubble Gum</p>
+<p style="text-align: left;"><strong>5 Piece Pack </strong></p>
+<h2 style="text-align: center;"></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6044672917682</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">1.49</s:price>
+      <s:sku>01-1000345</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6620553478322</id>
+    <published>2021-04-04T11:22:00-04:00</published>
+    <updated>2021-04-04T11:22:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/mccormicks-aloha-gummy-candy-1kg"/>
+    <title>McCormicks Aloha Gummy Candy - 1kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>McCormicks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/mccormicks-aloha-gummy-candies-1kg-candy-district-online-candy-store-canada.jpg?v=1617549524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>McCormicks<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"> Summer Inspired Bulk Candy</h2>
+<p>Say Aloha to these delicious summer candies in the fun shapes of <span data-mce-fragment="1">Pineapple, Flamingo and Hibiscus Flowers. McCormicks Aloha Gummy Candies are bursting with the delicious flavours we've always expected from McCormicks Candy.</span></p>
+<p style="text-align: center;"><strong> Stock up the pantry with this huge bulk candy bag. </strong></p>
+<p style="text-align: center;"><strong>You deserve it!</strong></p>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"><span>The Freshest Bulk Candy Shipped Fast!</span></h3>
+<h2 style="text-align: center;"></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Bulk Gummy Candy</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6620553478322</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>04-4000424</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6620538175666</id>
+    <published>2021-04-04T11:15:59-04:00</published>
+    <updated>2021-04-04T11:15:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/mccormicks-desert-gummy-candy-1kg"/>
+    <title>McCormicks Desert Gummy Candy - 1kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>McCormicks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/mccormicks-desert-gummy-candies-1kg-candy-district-online-candy-store-canada.jpg?v=1617549343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>McCormicks<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"> Desert Inspired Bulk Candy</h2>
+<p><span>We didn't know that lizard and cactus tasted so sweet. McCormicks Desert Gummy Candies are bursting with delicious fruit flavours that will delight your tastebuds. </span><span>Stock up the pantry with this huge bulk candy bag. You deserve it!</span></p>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"><span>The Freshest Bulk Candy Shipped Fast!</span></h3>
+<h2 style="text-align: center;"></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Bulk Gummy Candy</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6620538175666</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>04-4000427</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6620480569522</id>
+    <published>2021-04-04T10:36:25-04:00</published>
+    <updated>2021-04-04T10:36:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/mccormicks-sour-sharks-gummy-candy-1kg"/>
+    <title>McCormicks Sour Sharks Gummy Candy - 1kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>McCormicks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/mccormicks-sour-sharks-gummy-candies-1kg-candy-district-online-candy-store-canada.jpg?v=1617547090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>McCormicks<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"> Sour Sharks Bulk Candy</h2>
+<p><span>McCormicks Sour Sharks Gummy Candies are not mean. But, they are not sweet. They're just the right amount of sour to please your tastebuds and make your face pucker. </span><span>Stock up the pantry with this huge bulk candy bag. You deserve it!</span></p>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"><span>The Freshest Bulk Candy Shipped Fast!</span></h3>
+<h2 style="text-align: center;"></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Bulk Gummy Candy</s:tag>
+    <s:tag>Bulk Sour Candy</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6620480569522</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>04-4000447</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6620469461170</id>
+    <published>2021-04-04T10:30:35-04:00</published>
+    <updated>2021-04-04T10:30:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/mccormicks-unicorns-gummy-candy-1kg"/>
+    <title>McCormicks Unicorns Gummy Candy - 1kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>McCormicks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/mccormicks-unicorns-gummy-candies-1kg-candy-district-online-candy-store-canada.jpg?v=1617546626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>McCormicks<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Unicorn Themed Bulk Candy</h2>
+<p><span>McCormicks Unicorn Gummy Candies are real. They really do exist. And they come in the dreamy colours of Pink, Purple, Blue and Yellow. Did we mention how delicious they are? Stock up the pantry with this huge bulk candy bag. You deserve it!</span></p>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"><span>The Freshest Bulk Candy Shipped Fast!</span></h3>
+<h2 style="text-align: center;"></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Bulk Gummy Candy</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6620469461170</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>04-4000453</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6620465463474</id>
+    <published>2021-04-04T10:22:33-04:00</published>
+    <updated>2021-04-04T10:22:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/mccormicks-ocean-gummy-candy-1kg"/>
+    <title>McCormicks Ocean Gummy Candy - 1kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>McCormicks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/mccormicks-ocean-gummy-candies-1kg-candy-district-online-candy-store-canada.jpg?v=1617546143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>McCormicks<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Ocean Themed Bulk Candy</h2>
+<p><span>McCormicks Ocean Gummy Candy contains a delicious variety of Octopus, Crab, Seahorse, Fish and Turtle shaped candies bursting with fruit flavours.</span></p>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"><span>The Freshest Bulk Candy Shipped Fast!</span></h3>
+<h2 style="text-align: center;"></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Bulk Gummy Candy</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6620465463474</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>04-4000441-1</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6227289178290</id>
+    <published>2021-01-31T22:24:06-05:00</published>
+    <updated>2021-01-31T22:24:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/oh-henry-level-up-bar-42-g"/>
+    <title>Oh Henry! Level Up Bar - 42 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/oh-henry-level-up-canadian-candy-bars-candy-district-online-candy-store-canada.jpg?v=1612149838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">New Canadian Candy Bar!</h2>
+<p><strong>42 g</strong></p>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6227289178290</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>02-2001031</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6187537367218</id>
+    <published>2021-01-15T08:43:15-05:00</published>
+    <updated>2021-01-15T08:43:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/coffee-crisp-double-double-wafer-bar-50-g"/>
+    <title>Coffee Crisp Double Double Wafer Bar - 50 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nestle-coffee-crisp-double-double-wafer-bars-candy-district-online-candy-store-canada.jpg?v=1610718144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Ultimate Canadian Candy Bar</h2>
+<div style="text-align: center;">Have your coffee crisp, with this iconic Canadian Candy Bar! The Coffee Crisp Double Double Wafer Bar will seriously make all your coffee and chocolate dreams come true!</div>
+<div style="text-align: center;">Layers of light and thin wafers that hold between them a delicious and delicate coffee creme, that is wrapped in a luscious, yet thin layer of a supreme tasting chocolatey coating! </div>
+<div style="text-align: center;">Made with all-natural flavours so you can really feel good about consuming your coffee in a chocolate bar form! How awesome is that?</div>
+<div style="text-align: center;"><strong>Have a taste of a legendary Canadian Candy bar with the Coffee Crisp Double Double Wafer Bar!</strong></div>
+<ul class="field-features-and-benefits">
+<li>
+</li>
+</ul>
+<p><strong>50 g | 24 Count Box</strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Canadian Candy Bars Shipped Fast!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6187537367218</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>02-2001005</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6182018875570</id>
+    <published>2021-01-13T18:56:40-05:00</published>
+    <updated>2021-01-13T18:56:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/lindt-lindor-70-dark-chocolate-bar-100g"/>
+    <title>Lindt Lindor 70% Dark Chocolate Bar - 100g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Lindt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/lindt-lindor-70-dark-chocolate-bar-100g-candy-district-online-candy-store-toronto.jpg?v=1610582175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lindt<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">70% Dark Chocolate Bar</h2>
+<div style="text-align: center;"><span>An exquisite dark chocolate bar filled with the sophistication of rich and bold dark chocolate!</span></div>
+<div style="text-align: center;">The Lindt Lindor 70% dark Chocolate bar is a shell of 70% dark chocolate that is filled with a creamy and smooth filling that will delicately melt on your tongue.</div>
+<div style="text-align: center;">Lindt Lindor is a Master Swiss Chocolatier that's been creating delectable magic since 1845.</div>
+<div style="text-align: center;"><strong>Taste the magic, with the Lindt Lindor 70% dark Chocolate bar!</strong></div>
+<ol></ol>
+<p><strong>100 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1890s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>European Chocolate</s:tag>
+    <s:tag>Lindt</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6182018875570</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku/>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6161844175026</id>
+    <published>2021-01-03T12:42:48-05:00</published>
+    <updated>2021-01-03T12:42:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/allan-caribbean-fish-candy-1-08-kg"/>
+    <title>Allan Caribbean Fish Candy - 1.08 kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Allan Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/allan-caribbean-fish-bulk-candy-1-08-kg-candy-district-online-candy-store.jpg?v=1609696628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allan Candy<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Allan Caribbean Fish Bulk Candy</h2>
+<ul></ul>
+<p><strong>200 Count | 1.08 kg</strong></p>
+<h3 style="text-align: center;"><strong>Canadian Candy Shipped Fast</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Allan</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Bulk Gummy Candy</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>orange</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6161844175026</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>04-4000114</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6160065396914</id>
+    <published>2021-01-01T15:46:38-05:00</published>
+    <updated>2021-01-01T15:46:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/oh-henry-with-reese-peanut-butter-180-g"/>
+    <title>Oh Henry! with Reese Peanut Butter - 180 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/oh-henry-with-reese-peanut-butter-180-g-candy-district-online-candy-store.jpg?v=1609534714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="css-1c6krh5 e1yn5b3f6" data-automation="product-title">OH HENRY! Bite-Sized Pieces with REESE Peanut Butter</h2>
+<div style="text-align: center;"><span>See what happens when greatness collides, with the delectable taste of Oh Henry! with Reese Peanut Butter!</span></div>
+<div style="text-align: center;">These delicious bite-size pieces are filled with golden caramel, generously sized, crunchy peanuts, and Reese peanut Butter while perfectly encased in a coating of rich chocolate!</div>
+<div style="text-align: center;">Keep those tastebuds super satisfied, with the impressive taste of these two greats, Oh Henry! with Reese Peanut Butter!</div>
+<ul></ul>
+<p><strong>180 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6160065396914</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku/>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6159980298418</id>
+    <published>2021-01-01T13:41:56-05:00</published>
+    <updated>2021-01-01T13:41:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reeses-thins-peanut-butter-cups-white-chocolate-165-g"/>
+    <title>Reese&apos;s Thins Peanut Butter Cups White Chocolate - 165 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/reeses-thins-white-chocolate-peanut-butter-cups-165g-candy-district-online-candy-shop.jpg?v=1609526941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Thin White Chocolate Peanut Butter Cups</h2>
+<div class="adM"><br></div>
+<div style="text-align: center;">For a unique twist on a classic, Reese's Thins Peanut Butter White Chocolate offers an appealing creamy and rich flavour!</div>
+<div style="text-align: center;">These cups may be thin, but have colossal flavour! Made of superb tasting white creme and peanut butter you'll find yourself lost in a moment, while sweetly savouring the exceptional taste!</div>
+<div style="text-align: center;">Delve into this intense white chocolate bliss, with the delicious taste of Reese's Thins Peanut Butter White Chocolate!</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<ul>
+<li>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"><span style="color: #ef1b1b;"></span></div>
+</li>
+</ul>
+</div>
+<ul>
+<li>Individually Wrapped</li>
+<li>Kosher</li>
+<li>Hershey's Canada</li>
+</ul>
+<p><strong>165 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6159980298418</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku/>
+      <s:grams>180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6159974334642</id>
+    <published>2021-01-01T13:34:14-05:00</published>
+    <updated>2021-01-01T13:34:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reeses-thins-peanut-butter-cups-milk-chocolate-165-g"/>
+    <title>Reese&apos;s Thins Peanut Butter Cups Milk Chocolate - 165 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/reeses-thins-milk-chocolate-peanut-butter-cups-candy-district-online-candy-shop.jpg?v=1609526281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Thin Milk Chocolate Peanut Butter Cups</h2>
+<div style="text-align: center;">These treats most certainly will vanish into thin air! </div>
+<div style="text-align: center;">The Reese's Thins Milk Chocolate Peanut Butter Cups, although are 40% smaller than the usual, are superbly delicious!</div>
+<div style="text-align: center;">Thin size Milk Chocolate cups that are filled with the legendary taste of Reese's peanut butter filling!</div>
+<div style="text-align: center;">Be sure to have extra on hand before they really do vanish! Taste the exquisiteness of these "thin" gems with the Reese's Thins Milk Chocolate Peanut Butter Cups!</div>
+<ul>
+<li>Individually Wrapped</li>
+<li>Kosher</li>
+<li>Hershey's Canada</li>
+</ul>
+<p><strong>165 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6159974334642</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku/>
+      <s:grams>180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6159960015026</id>
+    <published>2021-01-01T13:18:34-05:00</published>
+    <updated>2021-01-01T13:18:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reeses-thins-dark-peanut-butter-cups-165-g"/>
+    <title>Reese&apos;s Thins Dark Peanut Butter Cups - 165 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/reeses-thins-dark-peanut-butter-cups-165-g-candy-district-online-candy-shop.jpg?v=1609525585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Thin Dark Chocolate Peanut Butter Cups</h2>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<div style="text-align: center;"><strong>Yes, they are 40% thinner but the taste is certainly BIG! </strong></div>
+<div style="text-align: center;">The Reese's Thins Dark Chocolate Peanut Butter Cups are a petite-sized dark chocolate cup that is deliciously filled with the famous taste of Reese's Peanut Butter!</div>
+<div style="text-align: center;">Find out why these "Thins" are so fabulous, with the exquisite taste of Reese's Thins Dark Chocolate Peanut Butter Cups!</div>
+</div>
+<ul>
+<li><strong>Individually Wrapped</strong></li>
+<li><strong>Kosher</strong></li>
+<li><strong>Made by Hershey's Canada</strong></li>
+</ul>
+<p><strong>165 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6159960015026</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku/>
+      <s:grams>180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6153793274034</id>
+    <published>2020-12-28T21:08:04-05:00</published>
+    <updated>2020-12-28T21:08:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reese-white-minis-200g"/>
+    <title>Reese White Minis - 200g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/reese-white-minis-peanut-butter-cups-200g-candy-district-online-candy-shop.jpg?v=1609189062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">White Mini Peanut Butter Cups</h2>
+<div style="text-align: center;">The Reese's White Mini Peanut Butter Cups are what white chocolate dreams are made of! </div>
+<div style="text-align: center;">A twist on the classic, these miniature morsels of deliciousness are mini cups coated in silky white chocolate and filled with Reese's signature peanut butter filling.</div>
+<div style="text-align: center;">A white chocolate treat that is destined for your mouth! You won't want to miss this unique treat, taste the White chocolate love with the Reese White Mini Peanut Butter Cups!</div>
+<ul>
+<li>Canadian Candy</li>
+<li>Kosher</li>
+</ul>
+<p><strong>200 g</strong></p>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6153793274034</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>02-2001071</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6152417640626</id>
+    <published>2020-12-27T09:36:30-05:00</published>
+    <updated>2020-12-27T09:36:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/kinder-bueno-43-g-20-count"/>
+    <title>Kinder Bueno - 43 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Kinder Chocolate</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/kinder-bueno-43-g-20-count-candy-district-online-candy-shop.jpg?v=1609080036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kinder Chocolate<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Kinder Bueno</h2>
+<div style="text-align: center;">Discover the impeccable and delicious taste of Kinder Bueno!</div>
+<div style="text-align: center;">An unbelievably delectable package of two bars, ideal for sharing!</div>
+<div style="text-align: center;">Consisting of perfectly light and crispy wafers, that are sandwiched with a milk chocolate and hazelnut filling. All wrapped in a layer of luscious chocolate!</div>
+<div style="text-align: center;">Share the love, with the deluxe taste of these chocolate-covered wafer bars of Kinder Bueno!</div>
+<div class="yj6qo"><br></div>
+<p><strong>43 g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Eggs</s:tag>
+    <s:tag>Kinder Chocolates</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6152417640626</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>02-2000175</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6152401911986</id>
+    <published>2020-12-27T09:23:04-05:00</published>
+    <updated>2020-12-27T09:23:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/aero-white-bubble-bars-24-count"/>
+    <title>AERO White Bubble Bars - 42g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestlé</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/aero-white-bubble-bars-24-count-candy-district-online-candy-shop.jpg?v=1609079256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestlé<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Canadian Chocolate Bars</h2>
+<div style="text-align: center;"><span>For that appealing taste of creamy white chocolate and light, airy bubbles, there's only one bar that will do, the Aero White Bubble Bars!</span></div>
+<div style="text-align: center;">A one of a kind chocolate bar that is sinfully delicious! The inside is sweetly filled with irresistible white chocolate and of course bubbles, and all wrapped up with a rich coating of milk chocolate!</div>
+<div style="text-align: center;">This succulent chocolate bar is a melt in your mouth experience that offers you both white and milk chocolate! </div>
+<div style="text-align: center;">Discover the sweet bliss with the Aero White Bubble Bars!</div>
+<p><strong>42g Bars </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Nestle Canada</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6152401911986</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">1.69</s:price>
+      <s:sku>02-2000119</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6152389951666</id>
+    <published>2020-12-27T09:09:23-05:00</published>
+    <updated>2020-12-27T09:09:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/cadbury-dairy-milk-oreo-bars-38-g-12-count"/>
+    <title>Cadbury Dairy Milk Oreo Bar - 38g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/cadbury-dairy-milk-oreo-bars-38-g-12-count-candy-district-online-candy-shop.jpg?v=1618623819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Canadian Cadbury Chocolate Bars</h2>
+<div class="gs">
+<div class="">
+<div id=":16s" class="ii gt">
+<div id=":16r" class="a3s aXjCH">
+<div dir="ltr" style="text-align: center;">
+<div>You may have just found your new favourite Cadbury Chocolate Bar!</div>
+<div>An indulgent bar of Cadbury Milk Chocolate that is filled inside with creamy, luscious vanilla creme, along with mouthwatering bits of crunchy oreo cookie!</div>
+<div>Each bite just gets better as the creamy and crunchy textures meet together and melt harmoniously in your mouth.</div>
+<div>Taste this brilliant and delicious bliss with Cadbury Dairy Milk Oreo Bars!</div>
+<span style="font-size: 1.4em;"> </span><br>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p style="text-align: center;"><strong>Try all the <a href="https://www.candydistrict.com/collections/dairy-milk" title="Cadbury Dairy Milk Chocolate Bars" target="_blank">Cadbury Dairy Milk Chocolate Bars</a></strong></p>
+<p><strong>38 g Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cadbury</s:tag>
+    <s:tag>Cadbury Canada</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Dairy Milk</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6152389951666</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>02-2000266</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6152360329394</id>
+    <published>2020-12-27T08:27:28-05:00</published>
+    <updated>2020-12-27T08:27:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/nestle-kit-kat-green-tea-35-g"/>
+    <title>Nestle Kit Kat Green Tea - 35 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nestle-kit-kat-green-tea-35-g-candy-district-online-candy-shop.jpg?v=1609075930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Nestle Kit Kat Green Tea Canadian Bars</h2>
+<div style="text-align: center;">A Canadian Chocolate Bar that is filled with those famous crispy wafers, and green tea!</div>
+<div style="text-align: center;">The Nestle Kit Kat Green Tea Chocolate Bar consists of crisp and light wafers that are covered in a  Matcha Green Tea coating. Made with all-natural flavours and no artificial colours for an authentic taste.</div>
+<div style="text-align: center;"><strong>Give yourself the delicious break you deserve with Nestle Kit Kat Green Tea!</strong></div>
+<p><strong>35 g Bar</strong></p>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>Nestle Canada</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6152360329394</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>02-2000717</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6152112996530</id>
+    <published>2020-12-27T01:15:17-05:00</published>
+    <updated>2020-12-27T01:15:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/nestle-after-eight"/>
+    <title>Nestle After Eight - 40 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nestle-after-eight-bars-candy-district-online-candy-shop.jpg?v=1609050004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Nestle After Eight Canadian Bars</h2>
+<div style="text-align: center;"><span>You don't really have to wait until after eight to enjoy this Canadian Candy! Anytime is the right time to indulge in the Nestle After Eight Bar!</span></div>
+<div style="text-align: center;">Boasting dark chocolate that holds inside the most perfect minty filling. Each bite is refreshing and altogether exquisite!</div>
+<div style="text-align: center;">Share a bite with your sweetheart, or enjoy it for yourself! The time is always right for After Eight!</div>
+<p><strong>40 g Bars</strong></p>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>Nestle Canada</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6152112996530</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>02-2000130</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6152103166130</id>
+    <published>2020-12-27T01:01:09-05:00</published>
+    <updated>2020-12-27T01:01:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/skittles-tropical-candies-191-g"/>
+    <title>Skittles Tropical Candies - 191 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wrigley JR. Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/skittles-tropical-candies-191-g-candy-district-online-candy-shop.jpg?v=1609049068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrigley JR. Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Taste the Candy Rainbow</h2>
+<div class="product-description-text product-description-text--product-details-page">
+<div style="text-align: center;">Now you can taste the "Tropical" rainbow with the Skittles Tropical Candies! These bright and colourful candies are not only pretty, but they are also filled with juicy and delicious exotic tasting flavours.</div>
+<div style="text-align: center;">Coming in the warm flavours of Banana Berry, Kiwi Lime, Mango Tangelo, Pineapple Passionfruit and Strawberry Starfruit.</div>
+<div style="text-align: center;">Let your tastebuds sweetly burst with the Skittles Tropical Candies!</div>
+</div>
+<ul></ul>
+<p><strong>191 g</strong></p>
+<div class="rte text--pull">
+<h3 style="text-align: center;"><strong>The Freshest Skittles Candy Shipped Fast!</strong></h3>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Skittles</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6152103166130</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1002133</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6152095858866</id>
+    <published>2020-12-27T00:54:39-05:00</published>
+    <updated>2020-12-27T00:54:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/skittles-brightside-candies-191-g"/>
+    <title>Skittles Brightside Candies - 191 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Wrigley JR. Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/skittles-brightside-candies-191-g-candy-district-online-candy-shop.jpg?v=1609048694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrigley JR. Co.<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Taste the Candy Rainbow</h2>
+<div style="text-align: center;">Turn that frown upside down and look on the Brightside, or really taste it! With the Skittles Brightside Candies!</div>
+<div style="text-align: center;">A happy and colourful candy, boasting the fabulous fruity flavours of Watermelon, Paradise Punch, Kiwi Banana, Pink Lemonade and Tangerine.</div>
+<div style="text-align: center;">Cheer up those tastebuds with the Skittles Brightside Candies!</div>
+<ul></ul>
+<p><strong>191 g</strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Skittles Candy Shipped Fast!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Skittles</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6152095858866</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

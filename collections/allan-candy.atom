@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.candydistrict.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.candydistrict.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.candydistrict.com/collections/allan-candy.atom"/>
+  <title>Candy District</title>
+  <updated>2021-01-03T12:42:48-05:00</updated>
+  <author>
+    <name>Candy District</name>
+  </author>
+  <entry>
+    <id>https://www.candydistrict.com/products/6161844175026</id>
+    <published>2021-01-03T12:42:48-05:00</published>
+    <updated>2021-01-03T12:42:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/allan-caribbean-fish-candy-1-08-kg"/>
+    <title>Allan Caribbean Fish Candy - 1.08 kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Allan Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/allan-caribbean-fish-bulk-candy-1-08-kg-candy-district-online-candy-store.jpg?v=1609696628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allan Candy<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Allan Caribbean Fish Bulk Candy</h2>
+<ul></ul>
+<p><strong>200 Count | 1.08 kg</strong></p>
+<h3 style="text-align: center;"><strong>Canadian Candy Shipped Fast</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Allan</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Bulk Gummy Candy</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>orange</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6161844175026</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>04-4000114</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6118958399666</id>
+    <published>2020-12-06T21:22:38-05:00</published>
+    <updated>2020-12-06T21:22:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/allan-big-foot-sour-blue-raspberry-candy-120-g"/>
+    <title>Allan Big Foot Sour Blue Raspberry Candy - 120 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/allan-big-foot-sour-blue-raspberry_6153a2b4-b5db-4f07-8c69-cceacb2fbab1.png?v=1607307761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Iconic Canadian Candies</h2>
+<h3></h3>
+<p><span>These big blue feet candies are just what you need! Big Foot Sour Blue Raspberry Candy<em> </em>is chewy, fragrant, and delicious! These sour candies are coated with a light dusting of sweetness to compliment the tangy sour taste. What are you waiting for? Get swept off your own feet with the Big Foot Sour Blue Raspberry Candies! </span></p>
+<ul>
+<li><strong>Peanut Free</strong></li>
+</ul>
+<p><strong>120 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Allan</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Candy Bag</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6118958399666</id>
+      <title>1 Bag</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku/>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5403887337627</id>
+    <published>2020-07-20T22:15:46-04:00</published>
+    <updated>2020-07-20T22:15:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/allan-big-foot-original-candy-200-g"/>
+    <title>Allan Big Foot Original Candy - 200 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/allan-big-foot-original-retro-candy_7a68a646-38fc-4b7c-98be-8679548d9fd8.png?v=1595297748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">An Iconic Canadian Candies</h2>
+<h3 style="text-align: center;">Old Fashioned Candy Since the 1930s</h3>
+<h3 style="text-align: center;"></h3>
+<div>Big Foot Original candies are an iconic Canadian old fashioned candy. Soft and chewy, with an intense raspberry flavour. Feet have never smelled better, or tasted as good! Perhaps modelled after "Big Foot" himself, These feet will have you astounded and amazed at their fine artistic detail. Big Foot Original Candy will have you walking down memory lane. Now you should be devouring some big feet!</div>
+<div></div>
+<div>
+<ul>
+<li><strong>Peanut Free</strong></li>
+<li><strong>Red Candy</strong></li>
+</ul>
+</div>
+<div><strong>200 g</strong></div>
+<div><strong></strong></div>
+<div>
+<div id="nutrition-label" nutrition-label="vm.labelData" nutrition-label-options="{userFunctionOnQuantityChange: vm.onQuantityChange}" class="ng-isolate-scope">
+<div class="label-container">
+<div id="label-2n2xb1bfn69">
+<div itemscope="" itemtype="http://schema.org/NutritionInformation" class="nutritionLabel">
+<div class="dvCalorieDiet line">
+<div class="calorieNote">
+<div class="ingredientListDiv" tabindex="0">
+<strong class="active" id="ingredientList">INGREDIENTS:</strong><span> </span>
+</div>
+<div class="ingredientListDiv" tabindex="0">SUGAR; CORN SYRUP; MODIFIED CORN STARCH; PEAR JUICE CONCENTRATE; CITRIC ACID; SODIUM CITRATE; NATURAL AND ARTIFICIAL FLAVOR; MINERAL OIL; CARNAUBA WAX; ARTIFICIAL COLOR (RED 40).</div>
+<div class="ingredientListDiv" tabindex="0"></div>
+<div class="ingredientListDiv" tabindex="0"><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Allan</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5403887337627</id>
+      <title>1 Bag</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku/>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5243376140443</id>
+    <published>2020-05-23T16:46:14-04:00</published>
+    <updated>2020-05-23T16:46:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/allan-sour-watermelon-slices-candy-1-08-kg"/>
+    <title>Allan Sour Watermelon Slices Candy - 1.08 kg</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Allan Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/allan-sour-watermelon-slices-canadian-candy-200-pieces-candy-district-online-candy-store-canads.jpg?v=1590266944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allan Candy<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Allan Sour Watermelon Slices Bulk Candy</h2>
+<p style="text-align: center;"><span>Little gnome fact: Some believe these watermelon gummies</span><br><span>are foraged from magical forest glens by bearded men</span><br><span>with extremely good taste. This watermelon-flavoured, delicious gummy candy</span><br><span>is the perfect addition to any dessert spread, candy bowl, or party favour!</span><br><span>Each gummy will take your taste buds on a whimsical new adventure,</span><br><span>so let the good times roll with every bite.</span></p>
+<ul>
+<li>Bulk Candy for a themed candy bar or corporate event</li>
+<li>Canadian Candy</li>
+</ul>
+<p><strong>200 Count | 1.08 kg</strong></p>
+<h3 style="text-align: center;"><strong>Canadian Candy Shipped Fast</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Allan</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Bulk Gummy Candy</s:tag>
+    <s:tag>Bulk Sour Candy</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5243376140443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku/>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5243372241051</id>
+    <published>2020-05-23T16:17:47-04:00</published>
+    <updated>2020-05-23T16:17:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/allan-sour-grape-slices-candy-1-08-kg"/>
+    <title>Allan Sour Grape Slices Candy-1.08 kg</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Allan Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/allan-sour-grape-slices-bulk-candy-200-pieces-candy-district-online-candy-store-canads.jpg?v=1590265418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allan Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Allan Sour Grape Slices Bulk Candy</h2>
+<ul>
+<li>Purple Candy for a themed candy bar or corporate event</li>
+<li>Canadian Candy</li>
+</ul>
+<p><strong>200 Count | 1.08 kg</strong></p>
+<h3 style="text-align: center;"><strong>Canadian Candy Shipped Fast</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Allan</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Bulk Gummy Candy</s:tag>
+    <s:tag>Bulk Sour Candy</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5243372241051</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>01-1000171</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5243370995867</id>
+    <published>2020-05-23T16:09:57-04:00</published>
+    <updated>2020-05-23T16:09:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/allan-peach-slices-1-08-kg"/>
+    <title>Allan Peach Slices Candy - 1.08 kg</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Allan Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/allan-peach-slices-bulk-candy-200-pieces-candy-district-online-candy-store-canads.jpg?v=1590271996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allan Candy<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Allan Peach Slices Bulk Candy</h2>
+<p>Reach for this Peach! You'll be feeling more than just "peachy" with the Allan Peach Slices Candy. A true taste of a luscious fuzzy peach with the aromatic fruity scent that is completely irresistible. The Allan Peach Slices Candy is a pleasurable chewy and flavourful experience! This classic retro candy has been delighting Canadians for generations!</p>
+<ul>
+<li>Orange Candy for a themed candy bar or corporate event</li>
+<li>Canadian Candy</li>
+</ul>
+<p><strong>200 Count | 1.08 kg</strong></p>
+<h3 style="text-align: center;"><strong>Canadian Candy Shipped Fast</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Allan</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Bulk Gummy Candy</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>orange</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5243370995867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku/>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/4945944281223</id>
+    <published>2020-04-26T19:48:03-04:00</published>
+    <updated>2020-04-26T19:48:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/allan-caribbean-fish-candy-2-5-kg"/>
+    <title>Allan Caribbean Fish Candy-2.5 kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/allan-caribbean-fish-gummy-candy-canadian-candies-candydistrict-online-candy-store.jpg?v=1587945702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Allan Caribbean Fish Bulk Candy</span></h2>
+<p>You can't get any cuter – or more delicious. Their swimming days are over and these colourful little gummy candy fishies are ready for you to devour. Indulge and embark on flights of fancy with this soft and chewy candy. What a treat to cheer you up on a long day.</p>
+<p>Keep these whimsical fishes for when you just need a cheerful pick-me-up.  Allan brands are beloved by kids of all ages (including you) and this is a Canadian candy. Can it get any better? You know you love this candy, so it's time to get your hands on this plentiful bulk candy bag.</p>
+<p><strong>2.5 kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Allan</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Bulk Gummy Candy</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/4945944281223</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000113</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/9003110657</id>
+    <published>2017-03-13T16:03:00-04:00</published>
+    <updated>2017-03-13T16:03:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/allan-squirmies-gummy-worms-2-5-kg"/>
+    <title>Allan Squirmies Gummy Worms - 2.5kg</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>The Allan Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/allan-squirmies-gummy-worms-bulk-candies-candy-district-online-candy-store-canada.png?v=1538330616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Allan Candy Company<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Allan Squirmies Gummy Worms Bulk Candy</h2>
+<div class="gs">
+<div class="">
+<div id=":2ew" class="ii gt">
+<div id=":2ev" class="a3s aXjCH ">
+<div dir="ltr" style="text-align: center;">You'll definitely want to be early to get these squirmy worms! The Allan Squirmies Gummy Worms will only slither where you want them to, your mouth! A Canadian Candy that is brightly multicoloured and would add a splash of sweet colour to your next Candy Buffet, Birthday Party, Corporate Event, or Shower. Don't let these worms squirm away!</div>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li>Assorted Colours Candy</li>
+<li>Sweet Addition to any themed Candy Bar</li>
+</ul>
+<p><strong>2.5 kg </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allan</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Bulk Gummy Candy</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Gummy Worms</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/9003110657</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku/>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/696665636909</id>
+    <published>2017-03-13T15:24:00-04:00</published>
+    <updated>2017-03-13T15:24:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/allan-big-foot-sour-blue-raspberry-2-5-kg"/>
+    <title>Allan Big Foot Sour Blue Raspberry - 2.5 kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>The Allan Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/allan-big-foot-sour-blue-raspberries-bulk-candies-candy-district-online-candy-store-canada.png?v=1548911530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Allan Candy Company<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Allan Big Foot Sour Blue Raspberry Bulk Candy</h2>
+<h3 style="text-align: center;">A classic retro candy enjoyed by Canadians for generations!</h3>
+<div class="gs">
+<div class="">
+<div id=":1bh" class="ii gt">
+<div id=":1bg" class="a3s aXjCH ">
+<div dir="ltr">
+<div class="adM">We love that he can play the banjo! But we love his Big Blue Sour Raspberry Foot even more! With the tangy and tart taste of Blue Raspberry, and it's remarkable chewiness, you just can't afford to miss out on the Allan Big Foot Sour Blue Raspberry Candy! </div>
+</div>
+<div class="yj6qo"></div>
+<div class="adL"></div>
+</div>
+</div>
+<div class="hi"></div>
+</div>
+</div>
+<h3 style="text-align: center;"></h3>
+<ul>
+<li>Blue Candy for a themed candy bar</li>
+<li>Canadian Candy</li>
+</ul>
+<p><strong>2.5 kg</strong></p>
+<div dir="ltr" style="text-align: center;"><strong>In Canada Candy is Sweet and you are what you eat...</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Allan</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Bulk Chewy Candy</s:tag>
+    <s:tag>Bulk Sour Candy</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/696665636909</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000147</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/695593893933</id>
+    <published>2017-03-13T15:24:00-04:00</published>
+    <updated>2017-03-13T15:24:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/allan-big-foot-original-2-5-kg"/>
+    <title>Allan Big Foot Original - 2.5 kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>The Allan Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/allan-big-foot-original-bulk-candies-candy-district-online-candy-store-canada.png?v=1538332074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Allan Candy Company<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Allan Candy Big Foot Original Bulk Candy</h2>
+<h3 style="text-align: center;">A classic retro candy enjoyed for generations!</h3>
+<div class="gs">
+<div class="">
+<div id=":1au" class="ii gt">
+<div id=":1av" class="a3s aXjCH ">
+<div dir="ltr">He might be hairy and scary, but he will sweetly serenade you with his banjo, and then offer you his Big Foot! But don't worry his Big Foot is absolutely delicious! Allan Big Foot Original is an iconic Canadain candy. With its remarkable chewiness and luscious raspberry flavour, this is one Big Foot you won't be able to resist!</div>
+</div>
+</div>
+</div>
+</div>
+<h3 style="text-align: center;"></h3>
+<ul>
+<li>Red Candy for a themed candy bar</li>
+<li>Classic Canadian Candy</li>
+</ul>
+<p><strong>2.5 kg</strong></p>
+<h3 style="text-align: center;"><b>In Canada Candy is Sweet and you are what you eat...</b></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Allan</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Bulk Chewy Candy</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Red</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/695593893933</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000111</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/695592157229</id>
+    <published>2017-03-13T15:24:00-04:00</published>
+    <updated>2017-03-13T15:24:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/allan-hot-lips-2-5-kg"/>
+    <title>Allan Hot Lips - 2.5 kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>The Allan Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/allan-hot-lips-cinnamon-bulk-candies-candy-district-online-candy-store-canada.png?v=1538331673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Allan Candy Company<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Allan Hot Lips Bulk Candy</h2>
+<div class="gs">
+<div class="">
+<div id=":18u" class="ii gt">
+<div id=":18v" class="a3s aXjCH ">
+<div dir="ltr">Spicy, chewy and sweet! The Allan Candy Hot Lips will knock you off your feet! You'll fall head over heels for this Canadian Retro Candy. A pair of red pouty lips with the intense spiciness of cinnamon, that fades into a pleasant sweetness. If you like it hot, you'll adore the aromatic scent and appetizing cinnamon taste of these Allan Hot Lips!</div>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li>Red Candy in bulk candy bags </li>
+<li>Perfect for a themed Candy Bar</li>
+<li>Canadian Candy</li>
+</ul>
+<p><strong>2.5 kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Allan</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Bulk Chewy Candy</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Red</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/695592157229</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000115</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/695590158381</id>
+    <published>2017-03-13T15:24:00-04:00</published>
+    <updated>2017-03-13T15:24:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/allan-sour-watermelon-slices-2-5-kg"/>
+    <title>Allan Sour Watermelon Slices - 2.5 kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>The Allan Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/allan-sour-watermelon-slices-bulk-candies-candy-district-online-candy-store-canada.png?v=1548911946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Allan Candy Company<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Allan Sour Watermelon Slices Bulk Candy</h2>
+<div class="gs">
+<div class="">
+<div id=":18t" class="ii gt">
+<div id=":18s" class="a3s aXjCH ">
+<div dir="ltr">
+<div>Allan Sour Watermelon Slices are a refreshing take on the usual. This gummy candy is ultra chewy, tangy and sweet! Watermelon season is short here in Canada so get your Watermelon fix with a sour twist, with the Allan Sour watermelon Slices!</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li>Pink and Green Candy for a themed candy buffet</li>
+<li>Canadian Candy</li>
+</ul>
+<p><strong>2.5 kg</strong></p>
+<h3 style="text-align: center;"><strong><b>In Canada Candy is Sweet and you are what you eat...</b></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Allan</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Bulk Gummy Candy</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/695590158381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000121</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/695588159533</id>
+    <published>2017-03-13T15:24:00-04:00</published>
+    <updated>2017-03-13T15:24:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/allan-tangy-wild-strawberries-2-5-kg"/>
+    <title>Allan Tangy Wild Strawberries - 2.5 kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>The Allan Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/allan-tangy-wild-strawberries-bulk-candies-candy-district-online-candy-store-canada.png?v=1548912009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Allan Candy Company<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Allan Tangy Wild Strawberries Bulk Candy</h2>
+<div class="gs">
+<div class="">
+<div id=":2f9" class="ii gt">
+<div id=":2fa" class="a3s aXjCH ">
+<div dir="ltr">Go wild eating these Canadian candies! You don't really want to go and pick them. do you? Allan Tangy Wild Strawberries are so delicious you really will be wild about them! Green and Red, chewy bulk candies these would be great for a Candy Buffet, Corporate Event, Birthday Shower, or a large family gathering. Go wild with Allan Tangy Wild Strawberries!</div>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li>Red &amp; Green Candy</li>
+</ul>
+<p><strong>2.5 kg</strong></p>
+<h3 style="text-align: center;"><strong><b>In Canada Candy is Sweet and you are what you eat...</b></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Allan</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Bulk Gummy Candy</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Red</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/695588159533</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000122</s:sku>
+      <s:grams>2700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/9002886209</id>
+    <published>2017-03-13T15:24:00-04:00</published>
+    <updated>2017-03-13T15:24:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/allan-red-berries-2-5-kg"/>
+    <title>Allan Red Berries - 2.5 kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>The Allan Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/allan-red-berries-bulk-candies-candy-district-online-candy-store-canada.png?v=1538330013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Allan Candy Company<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Allan Red Berries Bulk Candy</h2>
+<div class="gs">
+<div class="">
+<div id=":170" class="ii gt">
+<div id=":171" class="a3s aXjCH ">
+<div dir="ltr">
+<div class="adM">This Canadian candy is bursting with all the berry flavours you love! Allan Red Berries are delightfully chewy, and every morsel will leave you wanting more! A handful of fragrant and luscious Red Berries makes for a "Berrie" satisfying and delicious treat! Allan Red Berries are Perfect for Candy Buffets and Corporate Events</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li>Canadian Candy</li>
+<li>Bulk Candy Bags</li>
+<li>Red Candy for any themed candy bar</li>
+</ul>
+<p><strong>2.5 kg</strong></p>
+<h3 style="text-align: center;"><strong>In Canada Candy is Sweet and you are what you eat...</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Allan</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Bulk Chewy Candy</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Red</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/9002886209</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000118</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/9002615873</id>
+    <published>2017-03-13T14:16:00-04:00</published>
+    <updated>2017-03-13T14:16:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/allan-peach-slices-2-5-kg"/>
+    <title>Allan Peach Slices - 2.5 kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>The Allan Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/allan-peach-slices-bulk-candies-candy-district-online-candy-store-canada.png?v=1538331383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Allan Candy Company<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Allan Peach Slices Bulk Candy</h2>
+<p>Reach for this Peach! You'll be feeling more than just "peachy" with the Allan Peach Slices Candy. A true taste of a luscious fuzzy peach with the aromatic fruity scent that is completely irresistible. The Allan Peach Slices Candy is a pleasurable chewy and flavourful experience! This classic retro candy has been delighting Canadians for generations!</p>
+<ul>
+<li>Orange Candy for a themed candy bar or corporate event</li>
+<li>Canadian Candy</li>
+</ul>
+<p><strong>2.5 kg </strong></p>
+<h3 style="text-align: center;"><strong>In Canada Candy is Sweet and you are what you eat.</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Allan</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Bulk Gummy Candy</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>orange</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/9002615873</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000117</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/696667963437</id>
+    <published>2017-03-13T14:01:00-04:00</published>
+    <updated>2017-03-13T14:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/allan-sour-ju-jubes-2-5-kg"/>
+    <title>Allan Sour Ju Jubes-2.5 kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>The Allan Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/allan-sour-ju-jubes-bulk-candies-candy-district-online-candy-store-canada.png?v=1548911469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Allan Candy Company<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Allan Sour Ju Jubes Bulk Candy</h2>
+<div class="gs">
+<div class="">
+<div id=":155" class="ii gt">
+<div id=":154" class="a3s aXjCH ">
+<div dir="ltr">
+<div>Wake up your taste buds with the zesty sourness of Allan Sour Ju Jubes candy! Fruity, tangy and so perfectly chewy. This delicious Bulk Candy is sure to please a crowd! Great for your next Candy Buffet, Birthday Party, Showers, Corporate Events. This Canadian Candy comes in a mix of bright colours. They would add a touch of brightness to any event! </div>
+</div>
+<div class="yj6qo"></div>
+</div>
+</div>
+</div>
+</div>
+<h3 style="text-align: center;">Classic Canadian Candy for Candy Bars and Corporate Events</h3>
+<p><strong>2.5 kg </strong></p>
+<div dir="ltr" style="text-align: center;"><strong>In Canada Candy is Sweet and you are what you eat...</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Allan</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Bulk Chewy Candy</s:tag>
+    <s:tag>Bulk Sour Candy</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/696667963437</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000120</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/9002586753</id>
+    <published>2017-03-13T14:01:00-04:00</published>
+    <updated>2017-03-13T14:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/allan-ju-jubes-2-5-kg"/>
+    <title>Allan Ju Jubes-2.5 kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>The Allan Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/allan-ju-jubes-bulk-candies-candy-district-online-candy-store-canada.png?v=1534979846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Allan Candy Company<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Allan Ju Jubes Bulk Candy</h2>
+<p><span>A fun and flavourful bulk candy that everyone loves to indulge in! The Allan Ju Jubes Candy, we're proud to say is a Canadian Candy! Chewy, luscious and sweet, Allan Ju Jubes are colourful and fun to eat! Make your next Candy Buffet even brighter with these on the candy table, add them to a Birthday Party, Corporate Event, or Shower. A retro candy that is is bursting with lots of chewy and delicious flavour!</span></p>
+<div><strong>*Fun Fact* </strong></div>
+<div>Did you know that our beloved Ju Jubes candy gets its cool name from a fruit tree! The full name of this sweet tree is called the Ziziphus jujuba. Native to China but also grown in the subtropics. This fruit is said to taste like a mild and sweet apple. We like apples but not as much as Ju Jubes! Money might not grow on trees, but Ju Jubes do!</div>
+<h3 style="text-align: center;">Classic Canadian Candy for Candy Bars and Corporate Events</h3>
+<p><strong>2.5 kg </strong></p>
+<h3 style="text-align: center;"><strong>In Canada Candy is Sweet and you are what you eat.</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Allan</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Bulk Chewy Candy</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/9002586753</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000116</s:sku>
+      <s:grams>2700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1666617857</id>
+    <published>2015-07-24T15:17:00-04:00</published>
+    <updated>2015-07-24T15:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/allan-big-foot-original"/>
+    <title>Allan Big Foot Original Candy - 120 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/allan-big-foot-original-retro-candy.png?v=1581858631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">An Iconic Canadian Candies</h2>
+<h3 style="text-align: center;">Old Fashioned Candy Since the 1930s</h3>
+<h3 style="text-align: center;"></h3>
+<div>Big Foot Original candies are an iconic Canadian old fashioned candy. Soft and chewy, with an intense raspberry flavour. Feet have never smelled better, or tasted as good! Perhaps modelled after "Big Foot" himself, These feet will have you astounded and amazed at their fine artistic detail. Big Foot Original Candy will have you walking down memory lane. Now you should be devouring some big feet!</div>
+<div></div>
+<div>
+<ul>
+<li><strong>Peanut Free</strong></li>
+<li><strong>Red Candy</strong></li>
+</ul>
+</div>
+<div><strong>120 g</strong></div>
+<div><strong></strong></div>
+<div>
+<div id="nutrition-label" nutrition-label="vm.labelData" nutrition-label-options="{userFunctionOnQuantityChange: vm.onQuantityChange}" class="ng-isolate-scope">
+<div class="label-container">
+<div id="label-2n2xb1bfn69">
+<div itemscope="" itemtype="http://schema.org/NutritionInformation" class="nutritionLabel">
+<div class="dvCalorieDiet line">
+<div class="calorieNote">
+<div class="ingredientListDiv" tabindex="0">
+<strong class="active" id="ingredientList">INGREDIENTS:</strong><span> </span>
+</div>
+<div class="ingredientListDiv" tabindex="0">SUGAR; CORN SYRUP; MODIFIED CORN STARCH; PEAR JUICE CONCENTRATE; CITRIC ACID; SODIUM CITRATE; NATURAL AND ARTIFICIAL FLAVOR; MINERAL OIL; CARNAUBA WAX; ARTIFICIAL COLOR (RED 40).</div>
+<div class="ingredientListDiv" tabindex="0"></div>
+<div class="ingredientListDiv" tabindex="0"><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Allan</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1666617857</id>
+      <title>1 Bag</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1000167</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1550567553</id>
+    <published>2015-07-16T16:35:00-04:00</published>
+    <updated>2015-07-16T16:35:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/allan-hot-lips"/>
+    <title>Allan Hot Lips Candy - 120 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>The Allan Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/allan-hot-lips-retro-candy.png?v=1581858829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Allan Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"> Hot and Iconic Canadian Candies</h2>
+<h3 style="text-align: center;">Sweet Memories of Your First Kiss</h3>
+<p><span>Pucker up for these red, hot, cinnamon flavoured lips! Shaped like a pair of pouty lips, filled with a burst of cinnamon heat. Spicy, chewy and perfectly sweet! You'll be remembering your first kiss!</span></p>
+<ul>
+<li><strong>Peanut Free</strong></li>
+<li><strong>Red Candies</strong></li>
+</ul>
+<p><strong>120 g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Allan</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Candy Bag</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1550567553</id>
+      <title>1 Bag</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1000170</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1550510145</id>
+    <published>2015-07-16T16:27:00-04:00</published>
+    <updated>2015-07-16T16:27:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/allan-sour-watermelon-slices"/>
+    <title>Allan Sour Watermelon Slices Candy - 200 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/allan-sour-watermelon-slices-retro-candy.png?v=1624027539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Retro Canadian Candy</h2>
+<h3 style="text-align: center;">Add these to your Sour Candy List!</h3>
+<p><span>You don't have to worry about those pesky watermelon seeds, you can have all the joy in candy form! Enjoy the taste of fresh, luscious watermelon, with a hint of tangy sourness! Perfect for a hot summer day. These Sour Watermelon Slices candies will leave you happy and refreshed!</span></p>
+<ul>
+<li><span>Peanut Free</span></li>
+<li><span>Sour Candy</span></li>
+</ul>
+<p><strong>200g Bag</strong></p>
+<p><span><strong class="active" id="ingredientList">INGREDIENTS:</strong> </span></p>
+<p><span>SUGAR; CORN SYRUP; MODIFIED CORN STARCH; CITRIC ACID; TARTARIC ACID; SODIUM CITRATE; LACTIC ACID; ARTIFICIAL FLAVOR; ARTIFICIAL COLOR (RED 40, YELLOW 5, BLUE 1).</span></p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allan</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Candy Bag</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1550510145</id>
+      <title>1 Bag</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>01-1000172</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1550236289</id>
+    <published>2015-07-16T15:55:00-04:00</published>
+    <updated>2015-07-16T15:55:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/allan-big-foot-sour-blue-raspberry"/>
+    <title>Allan Big Foot Sour Blue Raspberry Candy - 200 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/allan-big-foot-sour-blue-raspberry.png?v=1581858678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Iconic Canadian Candies</h2>
+<h3></h3>
+<p><span>These big blue feet candies are just what you need! Big Foot Sour Blue Raspberry Candy<em> </em>is chewy, fragrant, and delicious! These sour candies are coated with a light dusting of sweetness to compliment the tangy sour taste. What are you waiting for? Get swept off your own feet with the Big Foot Sour Blue Raspberry Candies! </span></p>
+<ul>
+<li><strong>Peanut Free</strong></li>
+</ul>
+<p><strong>200 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Allan</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Candy Bag</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1550236289</id>
+      <title>1 Bag</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>01-1000169</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+</feed>

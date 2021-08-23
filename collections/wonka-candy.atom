@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.candydistrict.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.candydistrict.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.candydistrict.com/collections/wonka-candy.atom"/>
+  <title>Candy District</title>
+  <updated>2021-08-04T15:12:44-04:00</updated>
+  <author>
+    <name>Candy District</name>
+  </author>
+  <entry>
+    <id>https://www.candydistrict.com/products/6932748599474</id>
+    <published>2021-08-04T15:12:44-04:00</published>
+    <updated>2021-08-04T15:12:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/sweetarts-twisted-rainbow-punch-soft-chewy-ropes-3-5oz"/>
+    <title>Sweetarts Ropes Twisted Rainbow Punch - 3.5oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/sweetarts_ropes_twisted_rainbow_punch_3.5oz_candy_district.jpg?v=1628102401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">An Irresistible Tart and Fruity Combo!</h2>
+<p>      <strong>SweeTARTS Ropes</strong> are a delightful and chewy snack you won't be able to put down once you start munching! Packed with the perfect blend of sweet and tart flavour, it's fruity, bendable, licorice fun. </p>
+<p>     Each bite of <strong>Twisted Rainbow Punch</strong> creates a powerful explosion of flavour in your mouth, a mix of so many delicious fruits all come together to give you the ultimate chewy candy experience. The tart filling on the inside of each rope is a delectable contrast to the bright, fruity flavours that wrap around it.<br><br><br></p>
+<h3>3.5oz / 99.2g | 1 share pack</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6932748599474</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1002357</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6246118129842</id>
+    <published>2021-02-07T22:19:24-05:00</published>
+    <updated>2021-02-07T22:19:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/laffy-taffy-laff-bites-119g"/>
+    <title>Laffy Taffy Laff Bites - 119g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/laffy-taffy-laff-bites-119g-candy-district-online-candy-store-canads.jpg?v=1612754322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">New Laffy Taffy Candy!</h2>
+<div style="text-align: center;"><span>Take a delicious bite out of some real fun with the Laffy Taffy Laff Bites! These tasty candies come with a crunchy outside shell and are chewy on the inside. A little smaller in size so you can easily just pop them in your mouth!</span></div>
+<div style="text-align: center;">Comes in some amazing fruity flavours like Cherry, Strawberry, Green Apple and Blue Raspberry! This candy even comes with an added drop of flavour for an even more enjoyable and intense tasting candy-eating experience!</div>
+<div style="text-align: center;"><strong>Fill your belly with the yumminess of the Laffy Taffy Bites!</strong></div>
+<p><strong>119 g</strong></p>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Laffy Taffy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6246118129842</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1001227</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6246115541170</id>
+    <published>2021-02-07T22:09:29-05:00</published>
+    <updated>2021-02-07T22:09:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/laffy-taffy-laff-bites-gone-bananas-119g"/>
+    <title>Laffy Taffy Laff Bites Gone Bananas! - 119g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/laffy-taffy-laff-bites-gone-bananas-119g-candy-district-online-candy-store-canads.jpg?v=1612753758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Laffy Taffy has gone Bananas!</h2>
+<div class="gs">
+<div class="">
+<div class="ii gt" id=":19j">
+<div class="a3s aiL" id=":19i">
+<div dir="ltr">
+<div style="text-align: center;">Really go bananas with this delicious candy! The Laffy Taffy Bites Gone Bananas are not only a bag full of complete fun, but I think they're probably Willy Wonka's Favourite!</div>
+<div style="text-align: center;">Filled with the chewiness of the original banana Laffy Taffy goodness with a crunchy candy shell on the outside, these are a must-try candy! </div>
+<div style="text-align: center;"><strong>Go Bananas but in a sweet way, with the Laffy taffy Bites Gone Bananas!</strong></div>
+</div>
+</div>
+</div>
+<div class="hi"><br></div>
+</div>
+</div>
+<p><strong>119 g</strong></p>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Banana</s:tag>
+    <s:tag>Laffy Taffy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6246115541170</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1001218</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6205088891058</id>
+    <published>2021-01-23T21:07:20-05:00</published>
+    <updated>2021-01-23T21:07:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/sweetarts-ropes-tangy-strawberry-141-g"/>
+    <title>SweeTARTS Ropes Tangy Strawberry - 141 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/sweetarts-ropes-tangy-strawberry-141-g-candy-district-online-candy-store-canada.jpg?v=1611453992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">New Sweetarts Candy</h2>
+<p><span>You'll love to be at the end of this delicious rope! The Sweetarts Ropes Tangy Strawberry is a soft and chewy candy much like licorice, that is filled with the aromatic scent of sweet and tangy strawberry!</span></p>
+<div>Each bite is beyond flavourful and has the perfect amount of chewiness. This Wonka Candy could very soon become your new favourite candy!</div>
+<div>Put the tang back into your life with the Sweetarts Ropes Tangy Strawberry Candy!</div>
+<p><strong>141 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6205088891058</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku/>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6205084172466</id>
+    <published>2021-01-23T21:01:59-05:00</published>
+    <updated>2021-01-23T21:01:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/sweetarts-ropes-watermelon-berry-collision-141-g"/>
+    <title>SweeTARTS Ropes Watermelon Berry Collision - 141 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/sweetarts-ropes-watermelon-berry-collision-141-g-candy-district-online-candy-store-canada.jpg?v=1611453709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">New Sweetarts Candy</h2>
+<p><strong>141 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6205084172466</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku/>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6205065887922</id>
+    <published>2021-01-23T20:50:28-05:00</published>
+    <updated>2021-01-23T20:50:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/lik-m-aid-fun-dip-grape-cherry-apple"/>
+    <title>Lik-M-Aid Fun Dip Grape Cherry Apple - 39.6 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/lik-m-aid-fun-dip-grape-cherry-apple-candy-district-online-candy-store-canada.jpg?v=1611452936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Retro Candy from Willy Wonka</h2>
+<div style="text-align: center;"> <span>Ignite your inner child (and your tastebuds) with this fun and flavourful candy! The Lik-M-Aid Fun Dip Grape Cherry Apple is a retro candy that is a sweet blast from the past!</span>
+</div>
+<div>
+<div style="text-align: center;">Comes with two candy sticks to dip into the delicious fruity flavours of Razz Apple Magic Dip, Cherry Yum Diddly Dip and Grape Yumtious Dip! </div>
+<div style="text-align: center;">This Wonka Candy is filled with the yummy wonderment of good old fashioned candy fun! </div>
+<div style="text-align: center;">Taste that fun again with the Lik-M-Aid Fun Dip Grape Cherry Apple!</div>
+</div>
+<ul>
+<li>3 Flavour Combo Packs with 2 candy sticks</li>
+<li>RazzApple Magic Dip - Cherry Yum Diddly Dip - Grape Yumptious Dip</li>
+</ul>
+<p><strong>39.6 g Pack</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6205065887922</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1000711</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6205038231730</id>
+    <published>2021-01-23T20:18:29-05:00</published>
+    <updated>2021-01-23T20:18:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/sweetarts-giant-chewy-candy-42-5-g"/>
+    <title>SweeTARTS Giant Chewy Candy - 42.5 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/wonka-sweetarts-giant-chewy-retro-candies-candy-district-online-candy-store-canada.jpg?v=1618804909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Retro Candy from the 1960s</h2>
+<div style="text-align: center;">
+<span>Full of tanginess and the magic of Willy Wonka, the Sweetarts Giant Chewy Candy </span>are full of intense and chewy flavour!</div>
+<div style="text-align: center;">A softer and chewier version of the original Sweetarts Candy. Coming in the giant, tart and tangy flavours of Green, Purple and Red. </div>
+<div style="text-align: center;">Feel the magic, with this delicious retro candy the Sweetarts Giant Chewy Candy!</div>
+<p><strong>1.5 oz.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6205038231730</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1000740</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6120538865842</id>
+    <published>2020-12-08T00:09:23-05:00</published>
+    <updated>2020-12-08T00:09:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/laffy-taffy-tropical-mini-bars-3-5-oz"/>
+    <title>Laffy Taffy Tropical Mini Bars - 3.5-oz.</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/laffy-taffy-tropical-mini-bars-3-5-oz-candy-district-online-candy-shop-canada.jpg?v=1607404504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" class="product_name" itemprop="name">Laffy Taffy Tropical Guava &amp; Pineapple Mini Bars </h2>
+<div class="gs">
+<div class="">
+<div class="ii gt" id=":3cj">
+<div class="a3s aiL" id=":3ci">
+<div dir="ltr">
+<div>Just relax, sit back and get your tastebuds ready for a delicious tasting tropical journey with the Laffy Taffy Mini Bars!</div>
+<div>These Laffy Taffy Bars are more than flavourful. Packed with the exotic taste of Pineapple and Guava, you might even need your sunglasses!</div>
+<div>Taste the tropical, with the warm lure of Laffy Taffy Tropical Mini Bars!</div>
+<div class="yj6qo"><br></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><strong><span class="a-list-item">99.2 g</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Taffy</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6120538865842</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1001235</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6101521236146</id>
+    <published>2020-11-26T14:50:54-05:00</published>
+    <updated>2020-11-26T14:50:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/nerds-gummy-clusters-theater-pack-85-g"/>
+    <title>Nerds Gummy Clusters Theater Pack - 85 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nerds-gummy-clusters-theater-pack-85-g-candy-district-online-candy-shop-canada.jpg?v=1606420415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">New Nerds Candy</h2>
+<p><span>You can crunch and chew your way through a sweet rainbow of candy, with the irresistible Nerds Gummy Clusters in Theater Size!</span></p>
+<div>These bite-sized, colourful gems consist of a chewy and supple middle and are sweetly coated with Rainbow Nerds! Relish in the intense flavours of Strawberry, Grape, Orange and Lemonade.</div>
+<div>This Wonka Candy goodness is almost like magic, experience the yummy fun, with the Nerds Gummy Clusters Theater Pack!</div>
+<p><span class="a-list-item" data-mce-fragment="1">85 g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6101521236146</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.29</s:price>
+      <s:sku>01-1001543</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5999141650610</id>
+    <published>2020-10-29T01:06:56-04:00</published>
+    <updated>2020-10-29T01:06:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/nerds-gummy-clusters-candy-5-oz"/>
+    <title>Nerds Gummy Clusters Candy - 5 oz.</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nerds-gummy-clusters-candies-5oz-candy-district-online-candy-store-canada.jpg?v=1603948017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">New Nerds Gummy Candy</h2>
+<p>You remember the crunch of Nerds candy from when you were a kid. Now enjoy that experience mixed with a sweet gummy center. You’ll get all the best of Nerds Rainbow variety, including orange, grape, strawberry, and lemonade flavours. It’s only too easy to get addicted to Nerds Gummy Clusters Candy, so make sure you pick up more than one pack.</p>
+<p>Do you love Nerds Rope? If so, you’re bound to enjoy Nerds Gummy Cluster Candy. These clusters have the texture and flavour combination of Nerds Rope, with the same fruity chewiness covered with Nerds crunch. These bite-sized bundles are what you crave.</p>
+<div><strong>5 oz.</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5999141650610</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.59</s:price>
+      <s:sku>01-1001541</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5505581744283</id>
+    <published>2020-08-16T08:27:48-04:00</published>
+    <updated>2020-08-16T08:27:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/pixy-stix-113-g"/>
+    <title>Pixy Stix - 113 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/wonka-pixy-stix-retro-candies-113g--candy-district-candy-store-toronto.jpg?v=1597580863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="gs">
+<div class="">
+<div id=":3s" class="ii gt">
+<div id=":3x" class="a3s aXjCH ">
+<h2 dir="ltr" style="text-align: center;">Retro Candy inspired by Willy Wonka</h2>
+<p>Straws full of delightful candy powder, Pixy Stix is a retro candy classic we've all loved for decades. You're all set to enjoy sweet and tangy cherry, maui punch, grape, and orange flavours. You'll want to share these with the whole family when you learn they're free of artificial flavours.</p>
+<p>With Pixy Stix, you can pour the candy powder into your mouth for a portable sweet fix. Or if you prefer, you can put it in your hand. You'll get a plentiful bag of Pixy Stix when you place your order. Stock up and put a bigger number in the Quantity box, so you have a fun candy stash for a while to come.</p>
+<div dir="ltr"><span>Each Pixy Stix straw is loaded with sweet and tart candy powder that is sure to put a smile on every face. Pour into your hand or straight into your mouth for a little pop of pure delight.</span></div>
+<div class="yj6qo">
+<ul></ul>
+<p><strong>113 g</strong></p>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5505581744283</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1001917</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5474556510363</id>
+    <published>2020-08-07T21:55:23-04:00</published>
+    <updated>2020-08-07T21:55:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/chewy-gobstopper-jawbreakers-theater-box"/>
+    <title>Chewy Gobstopper Jawbreakers Theater Box - 3.75 oz.</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/chewy-gobstopper-jawbreakers-theater-box-candy-district-online-candy-store.jpg?v=1596852325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Chewy Gobstoppers Jawbreakers </span></h2>
+<h3 style="text-align: center;"><span>Retro Candy inspired by Willy Wonka and the Chocolate Factory</span></h3>
+<p><span>Chewy Gobstoppers are inspired by the original Everlasting Gobstoppers. Yes, they still have layers and layers of fruity flavours but with a chewy center. Enjoy them as they change colours and flavours as they delight your tastebuds.</span></p>
+<p><strong>3.75 oz. Theater Pack</strong></p>
+<p><strong>Ingredients:</strong></p>
+<p><span>Dextrose, Corn Syrup, and Less than 2% of Maltodextrin, Hydrogenated Coconut Oil, Malic Acid, Calcium Stearate, Egg Albumen, Mono- and Diglycerides, Carnauba Wax, Natural Flavors, Color Added, Blue 1, Blue 2 Lake, Red 40 Lake, Yellow 5, Yellow 5 Lake, Yellow 6, Sunflower Lecithin, Mineral Oil.</span></p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Jawbreakers</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Theatre Packs</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5474556510363</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">2.09</s:price>
+      <s:sku>01-1000404</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5417018982555</id>
+    <published>2020-07-23T23:14:56-04:00</published>
+    <updated>2020-07-23T23:14:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/nerds-rope-tropical-candy"/>
+    <title>Nerds Rope Tropical Candy - 92 oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nerds-rope-tropical-gummy-candies-willy-wonka-candy-district-online-candy-store-canada.jpg?v=1614477930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" class="product_name" itemprop="name">Tropical Nerds Rope Gummy Candy<span> </span>
+</h2>
+<h3 style="text-align: center;"><span>From the Imagination Room of Willy Wonka</span></h3>
+<p style="text-align: center;"><span>Nerds Rope Tropical Gummy Candies are a fascinating candy! A soft delicious gummy candy rope, completely encrusted with colourful, tangy, crunchy Nerds candy! Nerds Rope Tropical Candies are a double whammy in the candy world! Two treats in one! Coming in at twelve inches long, Nerd Rope Tropical is impressive, stretchy and bendable, fun to play with and delicious to eat! You'll be hang'in on to this rope! </span><span><br><br></span></p>
+<p style="text-align: left;"><strong>.92 oz Pack</strong></p>
+<p><strong>Ingredients:</strong> <span>Dextrose, Sugar, Corn Syrup, 2% or Less of Malic Acid, Gelatin, Glycerin, Natural Flavors, Citric Acid, Confectioner's Glaze (Lac-Resin), Carnauba Wax, Color Added, Blue 1, Red 40, Red 40 Lake, Yellow 5, Yellow 5 Lake, Yellow 6.</span></p>
+<p>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5417018982555</id>
+      <title>1 Rope</title>
+      <s:price currency="CAD">1.69</s:price>
+      <s:sku>01-1001551</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5406252662939</id>
+    <published>2020-07-21T11:55:29-04:00</published>
+    <updated>2020-07-21T11:55:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/laffy-taffy-trolls-world-tour-candy-108-g"/>
+    <title>Laffy Taffy Trolls World Tour Candy - 108 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/laffy-taffy-trolls-world-tour-candy-108-g-candy-district.jpg?v=1595347013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Laffy Taffy is a joke.</h2>
+<p>If you've ever had Laffy Taffy, you know this brand is a fantastic fruity flavour and delightfully chewy, splendidly stretchy confection. And there are fun jokes from Trolls World Tour on each and every wrapper. It's time to enjoy this colourful bag of whimsical and wonky treats. They're great for kids and adults alike. Get your family ready for a rollicking good time opening and eating these terrific taffies.</p>
+<p>This isn't your everyday candy. The mischievous Troll joke on every wrapping makes each piece suspenseful and exciting for young and old alike. It's a great treat for your family to share with friends.</p>
+<p><strong><span class="a-list-item">108 g</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Taffy</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5406252662939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1001234</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5244936355995</id>
+    <published>2020-05-26T07:34:07-04:00</published>
+    <updated>2020-05-26T07:34:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/fun-dip-sour-candy-24-count"/>
+    <title>Lik-M-Aid Fun Dip Sour Candy - 40.5g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/fun-dip-sour-candies-willy-wonka-candydistrict-online-candy-store-canada.jpg?v=1618713680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Lik-M-Aid Fun Dip Sour Candy</h2>
+<p style="text-align: center;"><strong>A classic retro candy from the imagination room of Willy Wonka.</strong></p>
+<p>Your taste buds are waiting. Get dipping into Watermelon Whammo Dip, Strawberry Smackeroo Dip, and Tartastic Mystery Dip with the two candy dipping sticks included. Each package had four detachable pouches, meaning you can have one now and save the rest of your treat for later. Lik-M-Aid Fun Dip Sour Candy is <em>sourliciou</em>s to the extreme.</p>
+<p>This pack of 24 means you and your family will have hours of sour sensations for days to come. As if tempting strawberry and mouth-watering watermelon weren't enough, there's a mystery dip flavour, as well. Which flavour will be your favourite? You'll have plenty of time to experiment and decide.</p>
+<p><strong>40.5 g Pack</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5244936355995</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1000480</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/4946044911751</id>
+    <published>2020-04-26T20:20:39-04:00</published>
+    <updated>2020-04-26T20:20:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/nerds-big-chewy-sour-candy-170-g"/>
+    <title>Nerds Sour Big Chewy Candy - 170 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nerds-big-chewy-sour-candy-170-g-candy-district-online-candy-shop-canada.jpg?v=1606435884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">From the Imagination Room</h2>
+<p>Want a tart and sour snack but can't decide if you want a crunchy or chewy texture? Never fear! Sour Big Chewy Nerds Candy is here.</p>
+<p> Devour a 170 g bag in a hurry or just have a few treats a day. There's a kick of sweetness in this candy to go along with its sour zing. And the flavours are ones that'll get your taste buds going into overdrive – Blue Raspberry, Strawberry Lemonade, Watermelon, and Blood Orange.</p>
+<p><strong>170 g Bag</strong></p>
+<h3 style="text-align: center;"><strong>Freshest Candy at the Sweetest Prices!</strong></h3>
+<p style="text-align: center;"><strong>Shipped Fast across Canada and the USA!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/4946044911751</id>
+      <title>1 Bag</title>
+      <s:price currency="CAD">3.59</s:price>
+      <s:sku>01-1001553</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/4946006966407</id>
+    <published>2020-04-26T19:48:03-04:00</published>
+    <updated>2020-04-26T19:48:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/nerds-big-chewy-candy-170-g"/>
+    <title>Nerds Big Chewy Candy - 170 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nerds-big-chewy-candy-170-g-candy-district-online-candy-shop-canada_e7d0fbcd-45fc-439e-99bc-7a5365164106.jpg?v=1607580348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">From the Imagination Room</h2>
+<p>Get a sweet treat like the kind you got from the corner store all those years ago, but without all those artificial flavours your parents nagged you about. A nice crunch greets you on the outside while a chewy center awaits within. It's just the combination you've been craving. So order your bag now!</p>
+<p>This fun-loving bag of Nerds Big Chewy Candy will brighten your day.  Flavours include strawberry, lemon, orange and grape. Is your mouth watering yet? It will be when you open this colourful bag. If one bag isn't enough to satisfy your craving, then stock up your pantry and get a 12-count box. That will set you up for a while!</p>
+<p><strong>170 g Bag</strong></p>
+<h3 style="text-align: center;"><strong>Freshest Candy at the Sweetest Prices!</strong></h3>
+<p style="text-align: center;"><strong>Shipped Fast across Canada and the USA!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/4946006966407</id>
+      <title>1 Bag</title>
+      <s:price currency="CAD">3.59</s:price>
+      <s:sku>01-1001529</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/4376378769543</id>
+    <published>2019-11-23T20:34:42-05:00</published>
+    <updated>2019-11-23T20:34:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/fun-dip-3-flavour-packs-36-count"/>
+    <title>Lik-M-Aid Fun Dip Grape Cherry Orange - 40.5g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/wanka-fun-dip-retro-candy-candydistrict-online-candy-store.jpg?v=1610754381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Retro Candy from Willy Wonka</h2>
+<p>A "fun" and delicious retro candy from our sweet friend, Willy Wonka! The Lik-M-Aid Fun Dip 3 flavour Pack comes complete with two candy sticks made for dipping into that delicious powdery goodness! </p>
+<div>Coming in three fabulous and fruity flavours, Grape Dip, Cherry Dip and Orange Dip! Now you can be three times the candy lover with The Fun Dip 3 Flavour Packs, they really are triple the deliciousness!</div>
+<ul>
+<li>3 Flavour Combo Packs with 2 candy sticks</li>
+<li>Grape Dip, Cherry Dip and Orange Dip</li>
+</ul>
+<p><strong>40.5 g Pack</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/4376378769543</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1000712</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/4370763513991</id>
+    <published>2019-11-17T15:17:50-05:00</published>
+    <updated>2019-11-17T15:17:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/nerds-filled-gumballs-46-g"/>
+    <title>Nerds Filled Gumballs - 46 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Oak Leaf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/wonka-candies-nerds-filled-gumballs-candydistrict-online-candy-store-toronto.jpg?v=1574022704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oak Leaf<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_title entry-title" style="text-align: center;">Nerds Gumball 5 Ball Tube</h2>
+<div style="text-align: center;">
+<span>These Nerds Gumballs will mystify you! Gumballs filled with Nerds Candy! Upon tasting this gum, you will quickly forget this question. You will be too busy chewing and enjoying its intense fruity flavour! Grape, lemon, orange and lime flavoured gumballs, completely jam-packed with Nerds Candy! How does Willy Wonka do it? These Nerds Gumballs are incredible! </span>Nerds Filled Gumballs come 5 gumballs to a tube and are fruity flavoured.</div>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p><strong>46 g Pack </strong></p>
+<p><strong>Ingredients:</strong></p>
+<p>Sugar, Dextrose, Corn Syrup, Gum Base, Natural And Artificial Flavours, Malic Acid, Glazing Agent (Resinous Glaze), Glycerine, Thickener (Tapioca Dextrin), Glazing Agent (Carnauba Wax), Antioxidant (E321), Colours (Including E120, E102, E110, E127, E129, E133, E132).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/4370763513991</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>01-1001539</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1832774664237</id>
+    <published>2019-05-21T18:33:40-04:00</published>
+    <updated>2019-05-21T18:33:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/laffy-taffy-sour-apple-blue-raspberry-taffy-theater-box"/>
+    <title>Laffy Taffy Sour Apple &amp; Blue Raspberry Taffy Theater Box</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Nestle Candy Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/laffy-taffy-sour-apple-blue-raspberry-taffy-theater-box-candy-district-online-candy-store-toronto.jpg?v=1558478587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle Candy Shop<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"></h2>
+<div class="gs">
+<div class="">
+<div class="ii gt" id=":2rd">
+<div class="a3s aXjCH" id=":2q1">
+<h2 dir="ltr" style="text-align: center;">Retro Candy from the 1970s</h2>
+<div dir="ltr">This retro candy, inspired by Willy Wonka, will add an exciting and fun-filled sweet element to movie night! Laffy Taffy Sour Apple &amp; Blue Raspberry Taffy are luscious, chewy pieces of individually wrapped taffy with a great tasting, fruity combination of Sour Apple and Blue Raspberry. Not only is this candy as magically delicious as Willy Wonka is, but it's also fun! Every wrapper comes with a joke, so even if your movie isn't all that "funny" your candy will be filled with laughs!</div>
+<div class="yj6qo"></div>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li>Made in the USA</li>
+<li>No Artificial Flavours</li>
+</ul>
+<p><strong>3.3 oz Theater Pack | 8 Count Box</strong></p>
+<p>-</p>
+<p><strong>Ingredients: </strong></p>
+<p><span>Corn Syrup, Sugar, Palm Oil, and Less than 2% of Malic Acid, Mono- and Diglycerides, Hydrogenated Cottonseed Oil, Salt, Soy Lecithin, Natural Flavor, Blue 1, Yellow 5.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Laffy Taffy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Theatre Packs</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1832774664237</id>
+      <title>1 PACK</title>
+      <s:price currency="CAD">2.09</s:price>
+      <s:sku>01-1001233</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1828467376173</id>
+    <published>2019-05-18T15:24:42-04:00</published>
+    <updated>2019-05-18T15:24:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/original-spree-candy-theater-box"/>
+    <title>Original Spree Candy Theater Box - 5 oz.</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Candy District</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/wonka-original-spree-retro-candy-theater-boxes-candy-district-online-candy-store-kitchener-waterloo.jpg?v=1618764146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Candy District<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="gs">
+<div class="">
+<div id=":tu" class="ii gt">
+<div id=":su" class="a3s aXjCH ">
+<h2 dir="ltr" style="text-align: center;">Retro Candy from the 1980s</h2>
+<div dir="ltr">The Spree Candy Theater Box is "scrumdiddlyumptious" and will make any movie night fun and sweet! Spree Candy is a retro candy from the 1980s. Bright and colourful, and filled with the fruity magic of Willy Wonka! Sweet on the outside and tart in the middle, the original Spree Candy Theater Box comes in a variety of flavours including Cherry, Orange, Lemon, Green Apple, and Grape. Venture into a delicious candy eating spree, with the Original Spree candy Theater Box!</div>
+<div class="yj6qo"><strong>5 oz.</strong></div>
+</div>
+</div>
+</div>
+</div>
+<p><span><strong>Ingredients:</strong> </span></p>
+<p><span>Dextrose, Maltodextrin, Malic Acid, and Less Than 2% of Calcium Stearate, Corn Syrup, Natural Flavors, Carnauba Wax, Color Added, Blue 1, Blue 2 Lake, Red 40 Lake, Yellow 5, Yellow 5 Lake, Yellow 6. May Contain Egg.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Theatre Packs</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1828467376173</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1002240</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1795158736941</id>
+    <published>2019-04-28T18:46:32-04:00</published>
+    <updated>2019-04-28T18:46:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/pixy-stix"/>
+    <title>Giant Pixy Stix - .42 oz.</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/wonka-pixy-stix-retro-candies-candy-district-online-candy-store-toronto.jpg?v=1556492301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="gs">
+<div class="">
+<div id=":3s" class="ii gt">
+<div id=":3x" class="a3s aXjCH">
+<h2 dir="ltr" style="text-align: center;">Retro Candy inspired by Willy Wonka</h2>
+<div dir="ltr">This must be what all the most magical creatures love to eat! With their sweet and tangy powdery power, the Pixy Stix is like no other!  It really is pure Wonka Candy bliss! Pixy Stix is a powdered candy that comes packaged in a straw. This is, of course, consumed by pouring (or dumping) the contents directly into your mouth. This fun-to-eat candy comes in a choice of four fantastic flavours: Grape, Maui Punch, Cherry and Orange. There is no such thing as an afternoon lull with the delicious and fun taste of Pixy Stix! Stock up your pantry with this 85 Count Box just in case you have family and friends come over and a party breaks out. Just in case.</div>
+<div class="yj6qo">
+<ul>
+<li>No Artificial Colours</li>
+<li>Box contains 85 Pixy Stix</li>
+</ul>
+<p><strong>.42 oz. Straw</strong></p>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1795158736941</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.69</s:price>
+      <s:sku>01-1000738</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1482039425</id>
+    <published>2018-12-01T21:53:10-05:00</published>
+    <updated>2018-12-01T21:53:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/nerds-candy-watermelon-cherry"/>
+    <title>Nerds Candy Watermelon &amp; Cherry - 1.65 oz.</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/wonka-nerds-candy-watermelon-cherry-candy-district-online-candy-shop-canada.jpg?v=1618761386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Nerds Candy What-a-Melon So-Very-Cherry</span></h2>
+<p style="text-align: center;">With every little crunch of this retro candy, you'll be thanking Willy Wonka himself! Watermelon and cherry flavoured Nerds Candy is a sweet and refreshing treat! Eat one side at a time or mix them together. 'What-A- Melon" and "So-Very-Cherry" you truly will exclaim!</p>
+<p style="text-align: center;"><strong>Pure Imagination from Willy Wonka!</strong></p>
+<ul>
+<li><b>No Artificial Colours</b></li>
+<li><b>Made in the USA</b></li>
+</ul>
+<p><strong>1.65 oz. Pack</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1482039425</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">1.69</s:price>
+      <s:sku>01-1001556</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/9812723137</id>
+    <published>2017-07-04T15:24:34-04:00</published>
+    <updated>2017-07-04T15:24:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/spree-candy-rolls"/>
+    <title>Original Spree Candy Rolls - 1.77g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Nestle Candy Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/original-spree-candy-roll-willy-wonka-candy-candydistrict.png?v=1499197667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle Candy Shop<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Original Spree Candy</h2>
+<div style="text-align: center;">The Classic and <strong>Original Spree Candy</strong> has been around since the 1960s and we've been loving this Retro Candy ever since! Comes in 5 yummy flavours: <strong>Orange</strong>, <strong>Strawberry</strong>, <strong>Sour Apple</strong>, <strong>Lemonade</strong> and <strong>Grape</strong>.</div>
+<div></div>
+<div><strong>1.77 oz Candy Roll</strong></div>
+<div><strong></strong></div>
+<div>
+<h3>Ingredients:</h3>
+<p>Dextrose, Maltodextrin, Malic Acid, And Less Than 2% Of Calcium Stearate, Corn Syrup, Artificial Flavors, Carnauba Wax, Color Added, Blue 1, Blue 2 Lake, Red 40 Lake, Yellow 5, Yellow 5 Lake, Yellow 6.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/9812723137</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">1.69</s:price>
+      <s:sku>01-1002239</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/9812708097</id>
+    <published>2017-07-04T14:58:46-04:00</published>
+    <updated>2017-07-04T14:58:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/sweetarts-chewy-sours-candy"/>
+    <title>Sweetarts Chewy Sours Candy - 47g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/sweetarts-chewy-sours-candy-roll-willy-wonka-candy-candydistrict.png?v=1499196267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>These Sour Candies were Shockers</span></h2>
+<h3 style="text-align: center;"><span>SweeTARTS Extreme Sour Chewy Candy</span></h3>
+<p><span>Sweetarts Chewy Sours Candy was formally known as Shockers and contains new and intense sour candy flavours! Willy Wonka would approve.</span></p>
+<p><strong>47 g Candy Roll </strong></p>
+<h3 class="font-bold moduleHeading">Ingredients:</h3>
+<p class="Ingredients"><span class="aboutModuleText">Dextrose, Corn Syrup, Malic Acid, Hydrogenated Coconut Oil, Maltodextrin, and Less Than 2% of Calcium Stearate, Egg Albumen, Natural Flavors, Mono- and Diglycerides, Carnauba Wax, Blue 1 Lake, Blue 2 Lake, Red 40 Lake, Yellow 5 Lake, Yellow 6 Lake.</span></p>
+<div id="prod-5782896897" class="clearfix" itemscope="" itemtype="http://schema.org/Product">
+<div id="product-details">
+<div id="product-description" class="rte" itemprop="description">
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/9812708097</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.69</s:price>
+      <s:sku>01-1002090</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+</feed>

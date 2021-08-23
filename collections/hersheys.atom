@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.candydistrict.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.candydistrict.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.candydistrict.com/collections/hersheys.atom"/>
+  <title>Candy District</title>
+  <updated>2021-08-17T16:59:44-04:00</updated>
+  <author>
+    <name>Candy District</name>
+  </author>
+  <entry>
+    <id>https://www.candydistrict.com/products/6960855318706</id>
+    <published>2021-08-17T16:59:44-04:00</published>
+    <updated>2021-08-17T16:59:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hersheys-kisses-vampire-filled-with-strawberry-creme-9oz"/>
+    <title>Hershey&apos;s Kisses Vampire Filled with Strawberry Creme - 9oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hersheys_kisses_vampire_milk_chocolate_strawberry_creme_255g_candy_district.jpg?v=1629233984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">⚠️ Caution ⚠️: Deliciousness Ahead<br>
+</h2>
+<p>     Nothing is better than stumbling across a bowl full of <strong>Hershey's Kisses</strong>, just be careful, these ones have fangs! One bite and you'll feel a strange bloodlust take over your tastebuds, they're craving the <strong>sweet Strawberry creme</strong> that fills each of these tasty treats.</p>
+<p>     One Kiss, ah ah ah! Two Kisses, ah ah ah! You won't be able to stop yourself from reaching for number three, ah ah ah! Just keep these away from mom, she might just faint thinking her kids really turned into bloodsucking vampires!</p>
+<h3 data-mce-fragment="1"><strong data-mce-fragment="1">9oz / 255g | 1 bag</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Halloween Candy</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6960855318706</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>02-2001444</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6914030076082</id>
+    <published>2021-07-30T15:43:38-04:00</published>
+    <updated>2021-07-30T15:43:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/whozeewhatzit-48g"/>
+    <title>Whozeewhatzit - 48g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hersheys_whozeewhatzit_48g_candy_district.jpg?v=1627674193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Bar So Good, They Didn't Know What to Call It!</h2>
+<p>     This is the chocolate bar that appears in your dreams, peanut butter lovers. A layer of <strong>creamy peanut butter</strong> on a bed of <strong>crispy chocolatey bits</strong>, all enveloped in a <strong>rich and smooth milk chocolate</strong> - it's absolutely hard to resist!</p>
+<p>     Fun Fact: This bar was named the <strong>Whozeewhatzit</strong> by Hershey candy super-fan Lisa M. Kudos to Lisa for an unforgettable name!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6914030076082</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2001356</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6227289178290</id>
+    <published>2021-01-31T22:24:06-05:00</published>
+    <updated>2021-01-31T22:24:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/oh-henry-level-up-bar-42-g"/>
+    <title>Oh Henry! Level Up Bar - 42 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/oh-henry-level-up-canadian-candy-bars-candy-district-online-candy-store-canada.jpg?v=1612149838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">New Canadian Candy Bar!</h2>
+<p><strong>42 g</strong></p>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6227289178290</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>02-2001031</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6181052612786</id>
+    <published>2021-01-13T15:29:21-05:00</published>
+    <updated>2021-01-13T15:29:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reeses-snack-cake-77-g"/>
+    <title>Reese&apos;s Snack Cake - 77 g</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/reeses-snack-cake-candy-district-online-candy-store-canada.jpg?v=1610569762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            3.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Made with Real Milk Chocolate</h2>
+<h3 style="text-align: center;">2 Cakes per Pack</h3>
+<p><strong>77 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American Snacks</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6181052612786</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.39</s:price>
+      <s:sku>02-2001115</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6160065396914</id>
+    <published>2021-01-01T15:46:38-05:00</published>
+    <updated>2021-01-01T15:46:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/oh-henry-with-reese-peanut-butter-180-g"/>
+    <title>Oh Henry! with Reese Peanut Butter - 180 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/oh-henry-with-reese-peanut-butter-180-g-candy-district-online-candy-store.jpg?v=1609534714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="css-1c6krh5 e1yn5b3f6" data-automation="product-title">OH HENRY! Bite-Sized Pieces with REESE Peanut Butter</h2>
+<div style="text-align: center;"><span>See what happens when greatness collides, with the delectable taste of Oh Henry! with Reese Peanut Butter!</span></div>
+<div style="text-align: center;">These delicious bite-size pieces are filled with golden caramel, generously sized, crunchy peanuts, and Reese peanut Butter while perfectly encased in a coating of rich chocolate!</div>
+<div style="text-align: center;">Keep those tastebuds super satisfied, with the impressive taste of these two greats, Oh Henry! with Reese Peanut Butter!</div>
+<ul></ul>
+<p><strong>180 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6160065396914</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku/>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6159980298418</id>
+    <published>2021-01-01T13:41:56-05:00</published>
+    <updated>2021-01-01T13:41:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reeses-thins-peanut-butter-cups-white-chocolate-165-g"/>
+    <title>Reese&apos;s Thins Peanut Butter Cups White Chocolate - 165 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/reeses-thins-white-chocolate-peanut-butter-cups-165g-candy-district-online-candy-shop.jpg?v=1609526941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Thin White Chocolate Peanut Butter Cups</h2>
+<div class="adM"><br></div>
+<div style="text-align: center;">For a unique twist on a classic, Reese's Thins Peanut Butter White Chocolate offers an appealing creamy and rich flavour!</div>
+<div style="text-align: center;">These cups may be thin, but have colossal flavour! Made of superb tasting white creme and peanut butter you'll find yourself lost in a moment, while sweetly savouring the exceptional taste!</div>
+<div style="text-align: center;">Delve into this intense white chocolate bliss, with the delicious taste of Reese's Thins Peanut Butter White Chocolate!</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<ul>
+<li>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"><span style="color: #ef1b1b;"></span></div>
+</li>
+</ul>
+</div>
+<ul>
+<li>Individually Wrapped</li>
+<li>Kosher</li>
+<li>Hershey's Canada</li>
+</ul>
+<p><strong>165 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6159980298418</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku/>
+      <s:grams>180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6159974334642</id>
+    <published>2021-01-01T13:34:14-05:00</published>
+    <updated>2021-01-01T13:34:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reeses-thins-peanut-butter-cups-milk-chocolate-165-g"/>
+    <title>Reese&apos;s Thins Peanut Butter Cups Milk Chocolate - 165 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/reeses-thins-milk-chocolate-peanut-butter-cups-candy-district-online-candy-shop.jpg?v=1609526281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Thin Milk Chocolate Peanut Butter Cups</h2>
+<div style="text-align: center;">These treats most certainly will vanish into thin air! </div>
+<div style="text-align: center;">The Reese's Thins Milk Chocolate Peanut Butter Cups, although are 40% smaller than the usual, are superbly delicious!</div>
+<div style="text-align: center;">Thin size Milk Chocolate cups that are filled with the legendary taste of Reese's peanut butter filling!</div>
+<div style="text-align: center;">Be sure to have extra on hand before they really do vanish! Taste the exquisiteness of these "thin" gems with the Reese's Thins Milk Chocolate Peanut Butter Cups!</div>
+<ul>
+<li>Individually Wrapped</li>
+<li>Kosher</li>
+<li>Hershey's Canada</li>
+</ul>
+<p><strong>165 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6159974334642</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku/>
+      <s:grams>180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6159960015026</id>
+    <published>2021-01-01T13:18:34-05:00</published>
+    <updated>2021-01-01T13:18:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reeses-thins-dark-peanut-butter-cups-165-g"/>
+    <title>Reese&apos;s Thins Dark Peanut Butter Cups - 165 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/reeses-thins-dark-peanut-butter-cups-165-g-candy-district-online-candy-shop.jpg?v=1609525585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Thin Dark Chocolate Peanut Butter Cups</h2>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<div style="text-align: center;"><strong>Yes, they are 40% thinner but the taste is certainly BIG! </strong></div>
+<div style="text-align: center;">The Reese's Thins Dark Chocolate Peanut Butter Cups are a petite-sized dark chocolate cup that is deliciously filled with the famous taste of Reese's Peanut Butter!</div>
+<div style="text-align: center;">Find out why these "Thins" are so fabulous, with the exquisite taste of Reese's Thins Dark Chocolate Peanut Butter Cups!</div>
+</div>
+<ul>
+<li><strong>Individually Wrapped</strong></li>
+<li><strong>Kosher</strong></li>
+<li><strong>Made by Hershey's Canada</strong></li>
+</ul>
+<p><strong>165 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6159960015026</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku/>
+      <s:grams>180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6159389491378</id>
+    <published>2021-01-01T04:10:44-05:00</published>
+    <updated>2021-01-01T04:10:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reeses-dark-dipped-pretzels-120-g"/>
+    <title>Reese&apos;s Dark Dipped Pretzels - 120 g</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/reeses-dark-dipped-pretzels-120-g-american-snacks-candy-district-online-candy-shop.jpg?v=1609492337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            4.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Reese's Dipped Pretzels</h2>
+<h3 style="text-align: center;">Bite-size pretzels dipped in peanut butter candy and drizzled in dark chocolate.</h3>
+<div style="text-align: center;">This amazing combination of flavours will keep you coming back time and time again! </div>
+<div style="text-align: center;">Reese's Dark Dipped Pretzels are made with bite-sized, crunchy pretzel pieces that are dipped in a sweet concoction of peanut butter candy, then sweetly drizzled with the finishing touch, dark chocolate.</div>
+<div style="text-align: center;">This delectable snack will take center stage, be sure you have enough if you intend on sharing!</div>
+<div style="text-align: center;"><strong>Enjoy this twist on the classics with Reese's Dark Dipped Pretzels!</strong></div>
+<p><strong>120 g</strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Snacks Shipped Fast!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American Snacks</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6159389491378</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.59</s:price>
+      <s:sku>03-3000922</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6159368913074</id>
+    <published>2021-01-01T03:55:34-05:00</published>
+    <updated>2021-01-01T03:55:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reeses-dipped-pretzels-120-g"/>
+    <title>Reese&apos;s Dipped Pretzels - 120 g</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/reeses-dipped-pretzels-120-g-american-snacks-candy-district-online-candy-shop.jpg?v=1609491654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            4.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Reese's Dipped Pretzels</h2>
+<h3 style="text-align: center;">Bite-size pretzels dipped in peanut butter candy and drizzled with milk chocolate.</h3>
+<div style="text-align: center;"><span>Your plain old pretzel snack just got a fabulous new makeover, and it's delectable! </span></div>
+<div style="text-align: center;">The Reese's Dipped Pretzels are a bite-size crispy pretzel that is covered in a yummy peanut butter candy and drizzled with a sweet helping of milk chocolate!</div>
+<div style="text-align: center;">Discover this amazing new combination with the amazing taste of Reese's Dipped Pretzels!</div>
+<p><strong>120 g</strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Snacks Shipped Fast!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American Snacks</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6159368913074</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.59</s:price>
+      <s:sku>03-3000924</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6159359377586</id>
+    <published>2021-01-01T03:41:14-05:00</published>
+    <updated>2021-01-01T03:41:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hershey-s-cookies-n-creme-dipped-pretzels-120-g"/>
+    <title>Hershey’s Cookies &apos;N&apos; Creme Dipped Pretzels - 120 g</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hershey-s-cookies-n-creme-dipped-pretzels-120-g-american-snacks-candy-district-online-candy-shop.jpg?v=1609491118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            4.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Hershey’s Dipped Pretzels</h2>
+<h3 style="text-align: center;">Bite-size pretzels dipped in white creme and drizzled sprinkled with cookie bits.</h3>
+<div style="text-align: center;">Get ready to do some double-dipping into this snack! </div>
+<div style="text-align: center;">The Hershey's Cookie 'N' Creme Dipped Pretzels are a brilliant tasting treat! These bite-sized crunchy pretzels are dipped in a delicious white creme and then sprinkled all over with bits of yummy chocolate cookie pieces!</div>
+<div style="text-align: center;">Your snack life just got even better with the Hershey's Cookie 'N' Creme Dipped Pretzels!</div>
+<p><strong>120 g</strong></p>
+<h3 style="text-align: center;"><strong>The Freshest American Snacks Shipped Fast!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American Snacks</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6159359377586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.29</s:price>
+      <s:sku>03-3000488</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6159357051058</id>
+    <published>2021-01-01T03:39:42-05:00</published>
+    <updated>2021-01-01T03:39:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hershey-s-dipped-pretzels-120-g"/>
+    <title>Hershey’s Dipped Pretzels - 120 g</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hershey-s-dipped-pretzels-120-g-american-snacks-candy-district-online-candy-shop.jpg?v=1609490372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            4.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Hershey’s Dipped Pretzels</h2>
+<h3 style="text-align: center;">Bite-size pretzels dipped in milk chocolate and drizzled with dark chocolate.</h3>
+<div style="text-align: center;"><span>A double serving of chocolatey deliciousness that is sure to wake up your tastebuds! </span></div>
+<div style="text-align: center;">The Hershey's Dipped Pretzel is an oven-baked pretzel that is lovingly, completely immersed into a luxurious dipping of creamy milk chocolate, then treated with a drizzle of delectable dark chocolate!</div>
+<div style="text-align: center;">Double your chocolate pleasure with the Hershey's Dipped Pretzel!</div>
+<p><strong>120 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American Snacks</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6159357051058</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.29</s:price>
+      <s:sku>03-3000491</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6153793274034</id>
+    <published>2020-12-28T21:08:04-05:00</published>
+    <updated>2020-12-28T21:08:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reese-white-minis-200g"/>
+    <title>Reese White Minis - 200g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/reese-white-minis-peanut-butter-cups-200g-candy-district-online-candy-shop.jpg?v=1609189062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">White Mini Peanut Butter Cups</h2>
+<div style="text-align: center;">The Reese's White Mini Peanut Butter Cups are what white chocolate dreams are made of! </div>
+<div style="text-align: center;">A twist on the classic, these miniature morsels of deliciousness are mini cups coated in silky white chocolate and filled with Reese's signature peanut butter filling.</div>
+<div style="text-align: center;">A white chocolate treat that is destined for your mouth! You won't want to miss this unique treat, taste the White chocolate love with the Reese White Mini Peanut Butter Cups!</div>
+<ul>
+<li>Canadian Candy</li>
+<li>Kosher</li>
+</ul>
+<p><strong>200 g</strong></p>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6153793274034</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>02-2001071</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6152078295218</id>
+    <published>2020-12-27T00:27:22-05:00</published>
+    <updated>2020-12-27T00:27:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hersheys-special-dark-chocolate-bars-45g"/>
+    <title>Hershey&apos;s Special Dark Chocolate Bars - 45g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hersheys-special-dark-chocolate-bars-candy-district-online-candy-shop.jpg?v=1609046961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Hershey's Special Dark Chocolate Bars</span></h2>
+<div style="text-align: center;">Indulge in dark chocolate with the exquisite taste of Hershey's Special Dark Chocolate. </div>
+<div style="text-align: center;">This delectable Chocolate Bar is smooth, rich and dark with the added benefits of Dark Chocolate!</div>
+<div style="text-align: center;"><strong>Taste the sweet sophistication with Hershey's Special Dark Chocolate bar!</strong></div>
+<div>
+<ul>
+<li>Made by Hershey's Canada</li>
+<li>Since 1894</li>
+</ul>
+</div>
+<div></div>
+<div><strong></strong></div>
+<div><strong>45 g Bar</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6152078295218</id>
+      <title>1 bar</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku/>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6151535165618</id>
+    <published>2020-12-26T11:20:01-05:00</published>
+    <updated>2020-12-26T11:20:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hersheys-kisses-milk-chocolate-with-almonds-150-g"/>
+    <title>Hershey&apos;s Kisses Milk Chocolate with Almonds - 150 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hersheys-kisses-milk-chocolate-with-almonds-150g-candy-district-online-candy-shop.jpg?v=1608999816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Sweet Kisses Since 1907</h2>
+<div style="text-align: center;">Who says a "kiss is just a kiss"? Certainly not us! </div>
+<div style="text-align: center;">We know the sweet lure of a truly delicious kiss with the Hershey's Kisses Milk Chocolate With Almonds!</div>
+<div style="text-align: center;">Every morsel is delectable! Rich and creamy milk chocolate with the impeccable crunch of almonds! These Kisses are also ideal for sharing as they come individually wrapped, and who doesn't want to share their kisses?</div>
+<div style="text-align: center;">Be swept off your feet, with the incredible Hershey's Kisses Milk Chocolate And Almonds!</div>
+<p><strong>150 g</strong></p>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6151535165618</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku/>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6151533985970</id>
+    <published>2020-12-26T11:18:55-05:00</published>
+    <updated>2020-12-26T11:18:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hersheys-kisses-milk-chocolate-150-g"/>
+    <title>Hershey&apos;s Kisses Milk Chocolate - 150 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hersheys-kisses-milk-chocolate-150g-candy-district-online-candy-shop.jpg?v=1608999537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Sweet Kisses Since 1907</h2>
+<div style="text-align: center;">Get in on the sweetest kiss, like ever, with the goodness of the classic Hershey's Milk Chocolate Kisses!</div>
+<div style="text-align: center;">This old-fashioned candy is always delicious, creamy and rich. Hershey's Milk Chocolate Kisses are all individually wrapped up into a sweet morsel of pure deliciousness! </div>
+<div style="text-align: center;">We've been enjoying these since 1907, that's well over 100 years of kisses!</div>
+<div style="text-align: center;">Enjoy this chocolate-infused kiss with the delightfulness of the Hershey's Milk Chocolate Kisses!</div>
+<p><strong>150 g</strong></p>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6151533985970</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku/>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6130329780402</id>
+    <published>2020-12-13T10:01:09-05:00</published>
+    <updated>2020-12-13T10:01:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reeses-creamy-peanut-butter-spread-510-g"/>
+    <title>Reese&apos;s Creamy Peanut Butter Spread - 510 g</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/reeses-creamy-peanut-butter-spread-510-g-candy-district-online-candy-shop-canada.jpg?v=1607871671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span data-mce-fragment="1">Spread some Reese's Love!</span></h2>
+<p><span data-mce-fragment="1">It’s like we scooped out a bunch of REESE’S Peanut Butter Cups and filled jars with that delicious peanut butter so you can make sandwiches and stuff. Use it on PB&amp;J, spoon it into your favourite dessert recipe or enjoy a spoonful straight from the jar.</span></p>
+<p>510 g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Spreads</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6130329780402</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>03-3000920</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6120026046642</id>
+    <published>2020-12-07T14:43:34-05:00</published>
+    <updated>2020-12-07T14:43:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/payday-candy-bar-king-size-96-g"/>
+    <title>PayDay Candy Bar King Size - 96 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/payday-candy-bar-king-size-96-g-candy-district-online-candy-shop-canada.jpg?v=1607370783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">PayDay Peanut Caramel Candy Bar</h2>
+<h3 style="text-align: center;"><span>American Candy</span></h3>
+<div class="gs">
+<div class="">
+<div class="ii gt" id=":16d">
+<div class="a3s aiL" id=":12e">
+<div dir="ltr">
+<div>Give your tastebuds the PayDay they deserve with the mouthwatering PayDay King Size Candy Bar!</div>
+<div>This candy bar may be old fashioned, but wow! It just hits the spot every time! Filled with thick and nougat-like caramel,  then completely covered in a generous helping of roasted, crunchy peanuts that are lightly salted. These two flavours make some serious magic together!</div>
+<div>Since 1932, the PayDay candy bar has been feeding our sweet and salty cravings. For a unique and delicious candy bar, only PayDay will do!</div>
+</div>
+<div class="adL"><br></div>
+</div>
+</div>
+</div>
+</div>
+<p><strong>96 g Candy Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6120026046642</id>
+      <title>96 g Bar</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2001052</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6104872845490</id>
+    <published>2020-11-28T01:36:00-05:00</published>
+    <updated>2020-11-28T01:36:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/kit-kat-duos-mocha-chocolate-42-g"/>
+    <title>Kit Kat Duos Mocha + Chocolate - 42 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/kit-kat-duos-mocha-chocolate-42-g-candy-district-online-candy-shop-canada.jpg?v=1606545514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Limited Edition Kit Kat Bars</span></h2>
+<p> <span>This is one break you just can't afford to miss! </span></p>
+<div>The Kit Kat Duos Mocha Chocolate is a limited edition, must have NOW chocolate bar!</div>
+<div>Made to completely fall in love with, seriously! This classic chocolate bar is an irresistible combination of crispy wafers, smooth mocha creme, tasty coffee bits and of course, it's all beautifully surrounded by delicious chocolate.</div>
+<div>Give yourself the sweetest break ever with the delectable Kit Kat Duos Mocha Chocolate!</div>
+<p><strong>42 g</strong><br></p>
+<h3 style="text-align: center;"><span>Stock up on this Limited Edition Candy Bar.</span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6104872845490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2000711</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6099921961138</id>
+    <published>2020-11-25T20:00:27-05:00</published>
+    <updated>2020-11-25T20:00:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reeses-bar-120-g"/>
+    <title>Reese&apos;s Bar - 120 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/reeses-candy-bar-120-g-candy-district-online-candy-shop-canada.jpg?v=1606352632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Canadian Candy Bars</span></h2>
+<p><span>Demolish those chocolate and peanut butter cravings with this, deliciously dynamic duo! </span></p>
+<div>Reese's Candy Bar is filled with creamy Reese's peanut butter that is lovingly sandwiched between two slabs of milk chocolate. Does it get any better?</div>
+<div> This chocolate bar will inevitably become a new, and often reached for, definitely craved for, favourite! </div>
+<p><strong>120 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6099921961138</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku/>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6099905413298</id>
+    <published>2020-11-25T19:56:02-05:00</published>
+    <updated>2020-11-25T19:56:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hersheys-creamy-milk-chocolate-bar-100-g"/>
+    <title>Hershey&apos;s Creamy Milk Chocolate Bar - 100 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hersheys-creamy-milk-chocolate-bar-100-g-candy-district-online-candy-shop-canada.jpg?v=1606352158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Canadian Chocolate Bar</h2>
+<div style="text-align: center;"><span>With its classic Milk Chocolate taste, the Hershey's Creamy Milk Chocolate bar is sure to satisfy every chocolate lover's craving!</span></div>
+<div style="text-align: center;">This creamy chocolate bar is famous all over the world, and yes, we think it's iconic! Hailing from Pennsylvania, it has fueled countless chocolate highs and induced some delightfully sweet pleasure! </div>
+<div style="text-align: center;">Hershey's Creamy Milk Chocolate Bar has been loved since 1900, this old fashioned chocolate bar never goes out of style!</div>
+<div><strong>100 g</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6099905413298</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku/>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6099881328818</id>
+    <published>2020-11-25T19:41:27-05:00</published>
+    <updated>2020-11-25T19:41:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hersheys-cookies-n-creme-candy-bar-100-g"/>
+    <title>Hershey&apos;s Cookies &apos;N&apos; Creme Candy Bar - 100 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hersheys-cookies-n-creme-candy-bar-100-g-candy-district-online-candy-shop-canada.jpg?v=1606351737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Canadian Candy Bars</span></h2>
+<p><span>You can have it all with this toothsome Candy Bar! The Hershey's Cookies 'N' Creme Bar is a smooth bar of white creme filled with crunchy bits of chocolate cookie.</span></p>
+<div> This classic combination is sure to bring you back to your cookies and milk days, only now, it's all wrapped into one convenient bar! This comforting candy bar always hits the sweet spot!</div>
+<p><strong>100 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6099881328818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku/>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5997164953778</id>
+    <published>2020-10-27T23:14:00-04:00</published>
+    <updated>2020-10-27T23:14:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hersheys-with-reeses-pieces-115-g"/>
+    <title>Hershey&apos;s with Reese&apos;s Pieces - 115 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hersheys-milk-chocolate-stuffed-with-reeses-pieces-candy-peanuts-bars-candy-district-online-candy-store-canada.jpg?v=1603855021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Two Iconic Candy Brands!</h2>
+<p>If you’re craving a combination of Hershey’s Milk Chocolate and Reese’s Pieces, look no further. We have the perfect treat for you in Hershey’s with Reese’s Pieces. This innovative 2-in-1 bar from Hershey’s brings you the best of smooth and crunchy textures, together with delectable chocolate and peanut-butter flavours.</p>
+<p>This chocolate bar is filled to the brim with Mini Reese’s Pieces candy and chopped peanuts, for a fantastic crunch. You’ll love this candy bar for a pick-me-up snack during those long afternoons. Hershey’s with Reese’s Pieces chocolate bar combines all the best of creamy milk chocolate and crunchy peanut-butter pieces.</p>
+<p><strong>115 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5997164953778</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>02-2000621</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5997159645362</id>
+    <published>2020-10-27T23:06:33-04:00</published>
+    <updated>2020-10-27T23:06:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hersheys-with-skor-pieces-90-g"/>
+    <title>Hershey&apos;s with Skor Pieces - 90 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hersheys-milk-chocolate-almond-stuffed-with-skor-candy-bar-candy-district-online-candy-store-canada.jpg?v=1603854396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<h2 class="css-1c6krh5 e1yn5b3f6" data-automation="product-title" style="text-align: center;">HERSHEY’S Milk Chocolate</h2>
+<h3 class="css-1c6krh5 e1yn5b3f6" data-automation="product-title" style="text-align: center;">Almond Stuffed with SKOR bar</h3>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<p>Gorgeously smooth classic Hershey’s chocolate mixed with the taste of crunchy Skor bars is what you’ll experience with Hershey’s with Skor Pieces. Skor toffee bits and chopped almonds await within the best of Hershey’s milk chocolate.</p>
+<p>Hershey’s has been making chocolate since 1894, so you know you’re in for a decadent experience. Skor pieces are famous for their crunchy butter toffee coated in milk chocolate, and you’ll find this flavour and experience in abundance in Hershey’s with Skor Pieces.</p>
+<p>Looking for a treat but can’t decide whether you want a classic milk chocolate bar or the distinctive taste of Skor? This chocolate bar combines both classic flavours into one tempting bar.</p>
+</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3" data-mce-fragment="1"></div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3" data-mce-fragment="1"><strong>90 g</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5997159645362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>02-2000622</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5598785241243</id>
+    <published>2020-09-13T01:06:10-04:00</published>
+    <updated>2020-09-13T01:06:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hersheys-miniatures-chocolate-assortment-candy-5-3-oz"/>
+    <title>Hershey&apos;s Miniatures Chocolate Assortment Candy - 5.3 oz.</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hersheys-miniatures-chocolate-assortment-candy-5.3-oz-candy-district-online-candy-store-canada.jpg?v=1599973571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span data-mce-fragment="1">Hershey's Classic Mini Bars</span></h2>
+<p><span data-mce-fragment="1">A very sweet assortment of Hershey's classic chocolate treats including </span><span data-mce-fragment="1">Hershey's Milk Chocolate Bars, Hershey's Special Dark,  Mr. Goodbars, and Krackel Bars. </span></p>
+<ul>
+<li><span data-mce-fragment="1">Individually Wrapped</span></li>
+<li><span data-mce-fragment="1">Kosher</span></li>
+</ul>
+<p><strong>5.3 oz</strong></p>
+<p><strong>Ingredients: </strong></p>
+<p>Sugar, chocolate, cocoa butter, milk peanuts, nonfat milk, crisped rice, contains 2% or less of: milk fat, lactose, cocoa processed with alkali, soya lecithin and PGPR, like emulsifiers, salt, malt and vanillin, an artificial flavouring.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to produce labelling or contact manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Bars</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5598785241243</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.29</s:price>
+      <s:sku>02-2000609</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+</feed>

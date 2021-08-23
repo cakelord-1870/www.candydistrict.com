@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.candydistrict.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.candydistrict.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.candydistrict.com/collections/spreads.atom"/>
+  <title>Candy District</title>
+  <updated>2020-12-13T10:01:09-05:00</updated>
+  <author>
+    <name>Candy District</name>
+  </author>
+  <entry>
+    <id>https://www.candydistrict.com/products/6130329780402</id>
+    <published>2020-12-13T10:01:09-05:00</published>
+    <updated>2020-12-13T10:01:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reeses-creamy-peanut-butter-spread-510-g"/>
+    <title>Reese&apos;s Creamy Peanut Butter Spread - 510 g</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/reeses-creamy-peanut-butter-spread-510-g-candy-district-online-candy-shop-canada.jpg?v=1607871671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span data-mce-fragment="1">Spread some Reese's Love!</span></h2>
+<p><span data-mce-fragment="1">It’s like we scooped out a bunch of REESE’S Peanut Butter Cups and filled jars with that delicious peanut butter so you can make sandwiches and stuff. Use it on PB&amp;J, spoon it into your favourite dessert recipe or enjoy a spoonful straight from the jar.</span></p>
+<p>510 g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Spreads</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6130329780402</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>03-3000920</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5719864541339</id>
+    <published>2020-10-17T23:39:12-04:00</published>
+    <updated>2020-10-17T23:39:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/m-ms-spread-with-crispy-pieces-350-g"/>
+    <title>M&amp;M&apos;s Spread With Crispy Pieces UK - 350 g</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/mm-s-spread-with-crispy-pieces-candy-district-online-candy-store-canada.jpg?v=1602992827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            8.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">M&amp;M's Spread Imported from Europe</h2>
+<p style="text-align: center;">Stock up because this exotic snack is only available for a limited time!</p>
+<p style="text-align: left;"><strong>350 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Exotic Snacks</s:tag>
+    <s:tag>Mars</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Spreads</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5719864541339</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.49</s:price>
+      <s:sku>03-3000656</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5588677263515</id>
+    <published>2020-09-09T23:55:19-04:00</published>
+    <updated>2020-09-09T23:55:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milky-way-spread-200-g"/>
+    <title>Milky Way Spread UK - 200 g</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milky-way-spread-200-g-candy-district-online-candy-store-canada.jpg?v=1599710244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Milky Way Spread Imported from Europe</h2>
+<p style="text-align: center;">Stock up because this exotic snack is only available for a limited time!</p>
+<p style="text-align: left;"><strong>200 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Exotic Snacks</s:tag>
+    <s:tag>Mars</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Spreads</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5588677263515</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>03-3000705</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+</feed>

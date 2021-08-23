@@ -1,0 +1,1470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.candydistrict.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.candydistrict.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.candydistrict.com/collections/gum.atom"/>
+  <title>Candy District</title>
+  <updated>2020-08-21T17:01:37-04:00</updated>
+  <author>
+    <name>Candy District</name>
+  </author>
+  <entry>
+    <id>https://www.candydistrict.com/products/5523352617115</id>
+    <published>2020-08-21T17:01:37-04:00</published>
+    <updated>2020-08-21T17:01:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/raging-bull-bubble-gum"/>
+    <title>Raging Bull Bubble Gum</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Exclusive Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/raging-bull-bubble-gum-candy-district.jpg?v=1618790898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Exclusive Candy<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Raging Bull needs Bubble Gum</h2>
+<p>This isn't just any bubble gum. Raging Bull Bubble Gum is what you've been craving. </p>
+<p>This gum will rev you up. Looking for a pick-me-up? Pop a piece of Raging Bull Bubble Gum in your mouth and chew. It'll help power you through the day.</p>
+<p>Forget about being a kid in a candy store. You'll be a bull in a candy store, so you need to stock up.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5523352617115</id>
+      <title>1 Container</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2000463</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5476863705243</id>
+    <published>2020-08-08T20:49:31-04:00</published>
+    <updated>2020-08-08T20:49:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/razzles-berry-mix-candy-24-count"/>
+    <title>Razzles Berry Mix Candy - 1.6 oz.</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Concord Confections</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/razzles-berry-mix-candy-candy-district-online-candy-store.jpg?v=1618791113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Concord Confections<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h2 style="text-align: center;"><span>First, it's candy. Then it's gum.</span></h2>
+<p>"First it's a candy, then it's gum." Now Razzles Berry Mix is all that but with the extra turn of being candy-coated with the delicious berry flavours of strawberry, blueberry and raspberry. You will be berry happy.</p>
+<div style="text-align: center;"><strong>First its a candy,</strong></div>
+<div style="text-align: center;"><strong>then its a gum.</strong></div>
+<div style="text-align: center;"><strong>If you're indecisive </strong></div>
+<div style="text-align: center;"><strong>this is the one!</strong></div>
+<div style="text-align: center;"><strong>You'll be delighted,</strong></div>
+<div style="text-align: center;"><strong>amazed and so</strong></div>
+<div style="text-align: center;"><strong>dazzled,</strong></div>
+<div style="text-align: center;"><strong>when your mouth </strong></div>
+<div style="text-align: center;"><strong>meets the taste</strong></div>
+<div style="text-align: center;"><strong>of these magnificent</strong></div>
+<div style="text-align: center;"><strong><span class="il">Razzles</span>!</strong></div>
+<div style="text-align: left;">
+<ul>
+<li>Resealable Bag</li>
+<li>Kosher Certified Parve</li>
+<li>Gluten-Free</li>
+<li>Peanut Free/Nut Free</li>
+</ul>
+</div>
+<p><strong>1.6 oz. Pack </strong></p>
+<p><strong>Ingredients:</strong></p>
+<p>Sugar, gum base, dextrose, calcium stearate, natural and artificial flavours, citric acid, gum arabic, tapioca dextrin, artificial colours (FD&amp;C red 40 lake, blue 1 lake), carnauba wax, BHT (to maintain freshness).</p>
+<p>Soy may be present.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5476863705243</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1001985</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5476708319387</id>
+    <published>2020-08-08T19:17:50-04:00</published>
+    <updated>2020-08-08T19:17:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/razzles-fizzies-1-4-oz-packs"/>
+    <title>Razzles Fizzles Candy - 1.4 oz,</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Concord Confections</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/razzles-fizzles-first-its-candy-then-its-gum-24ct-candy-district-online-candy-store_e345fb4e-92d0-4977-a66d-785ef297906b.jpg?v=1618791182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Concord Confections<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h2 style="text-align: center;"><span>First, it's candy. Then it's gum.</span></h2>
+<p style="text-align: center;">"First it's a candy, then it's gum. Little round Razzles are so much fun."</p>
+<p style="text-align: center;">New from Razzles! Now they Fizz!</p>
+<div style="text-align: center;"><strong>First its a candy,</strong></div>
+<div style="text-align: center;"><strong>then its a gum.</strong></div>
+<div style="text-align: center;"><strong>If you're indecisive </strong></div>
+<div style="text-align: center;"><strong>this is the one!</strong></div>
+<div style="text-align: center;"><strong>You'll be delighted,</strong></div>
+<div style="text-align: center;"><strong>amazed and so</strong></div>
+<div style="text-align: center;"><strong>dazzled,</strong></div>
+<div style="text-align: center;"><strong>when your mouth </strong></div>
+<div style="text-align: center;"><strong>meets the taste</strong></div>
+<div style="text-align: center;"><strong>of these magnificent</strong></div>
+<div style="text-align: center;"><strong><span class="il">Razzles</span>!</strong></div>
+<div style="text-align: left;">
+<ul>
+<li>Kosher Certified Parve</li>
+<li>Gluten-Free</li>
+<li>Peanut Free/Nut Free</li>
+</ul>
+</div>
+<p><strong>1,4 oz. Pack</strong></p>
+<p><strong>Ingredients:</strong></p>
+<p><span>Sugar, gum base, citric acid, sodium bicarbonate, dextrose, calcium stearate, artificial and natural flavours, artificial colours (FD&amp;C red 40 lake, yellow 5 lake, yellow 6 lake), BHT (to preserve freshness). Soy may be present.</span></p>
+<p>Soy may be present.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5476708319387</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1001986</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5448692859035</id>
+    <published>2020-07-31T12:36:54-04:00</published>
+    <updated>2020-07-31T12:36:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/big-league-bubble-gum-baseball"/>
+    <title>Big League Bubble Gum Baseball</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ford Gum &amp; Machine Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/big-league-bubble-gum-baseball-candy-district-online-candy-store.jpg?v=1618611410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ford Gum &amp; Machine Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Retro Bubble Gum Since the 1980s</h2>
+<p><span>The Big League Chew Bubble Gum Baseball is definitely a home run! Taste the Big Leagues with this baseball-shaped container of fresh bubble gum gumballs. Take to your next baseball game and share with family and friends or add as a party favour for a themed celebration. Each baseball includes 3 gumballs, a tattoo and a sticker.</span></p>
+<ul>
+<li><span>Includes tattoos and stickers</span></li>
+</ul>
+<h3><span>History of Big League Chew Gum</span></h3>
+<p><span>Big League Chew was invented by Rob Nelson, a pitcher for the Portland Mavericks. He wanted a healthy alternative to chewing </span>tobacco. Believe it or not, Rob says the idea came to him in less than 60 seconds! He was in the bullpen while he came up with this idea. Big League Chew Wild Pitch Watermelon has been around for over thirty years, the novelty never seems to wear off. Big League Chew Wild Pitch Watermelon is a shredded texture of soft, sugary bubble gum goodness! Eat it by the hand fulls, stuff your cheeks, you won't have to spit this out!</p>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<h3>
+<span>Big League Chew-A Poem</span><span></span>
+</h3>
+<div>Shredded in your pouch.</div>
+<div>Thought of in a bullpen</div>
+<div>So smooth in my mouth.</div>
+<div>Chomped on by the big leagues,</div>
+<div>The baseball fans too.</div>
+<div>Instead of that tobacco,</div>
+<div>Give this gum a chew!</div>
+<div>-</div>
+<div></div>
+<div><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>Big League Chew</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5448692859035</id>
+      <title>1 Ball</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>01-1000246</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/4409243140231</id>
+    <published>2019-12-14T19:02:21-05:00</published>
+    <updated>2019-12-14T19:02:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/airheads-gum-paradise-blend-raspberry-lemonade-12-count"/>
+    <title>Airheads Gum Paradise Blend Raspberry Lemonade - 1.18 oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Perfetti Van Melle Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/airheads-gum-paradise-blend-raspberry-lemonade-12-count-candydistrict-online-candy-store-toronto.jpg?v=1576368640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfetti Van Melle Inc.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="h2" style="text-align: center;" itemprop="name"><strong><span>Airheads Candy Sugar-Free Chewing Gum</span></strong></h2>
+<div class="gs">
+<div class="">
+<div id=":qz" class="ii gt">
+<div id=":o2" class="a3s aXjCH">
+<div dir="ltr">With that same Airheads Candy deliciousness you love, but now in gum form! Full of tangy and fruity taste, the Airheads Gum-Paradise Blend Raspberry Lemonade is soft, chewy and filled to the max with extreme Airheads flavour! The secret to this exceptional chewing gum is the tiny micro-candies that are inside every tasty piece. Now you can really savour that fantastic Airhead candy flavour!</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>1.185 oz. Pack</strong></div>
+</div>
+</div>
+</div>
+</div>
+<h3 class="h2" style="text-align: center;" itemprop="name"><strong><span>Sweetest Selection of the Freshest Candy Shipped Fast!</span></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>Air Heads</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Sugar-Free</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/4409243140231</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.19</s:price>
+      <s:sku>01-1000127</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/4370763513991</id>
+    <published>2019-11-17T15:17:50-05:00</published>
+    <updated>2019-11-17T15:17:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/nerds-filled-gumballs-46-g"/>
+    <title>Nerds Filled Gumballs - 46 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Oak Leaf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/wonka-candies-nerds-filled-gumballs-candydistrict-online-candy-store-toronto.jpg?v=1574022704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oak Leaf<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_title entry-title" style="text-align: center;">Nerds Gumball 5 Ball Tube</h2>
+<div style="text-align: center;">
+<span>These Nerds Gumballs will mystify you! Gumballs filled with Nerds Candy! Upon tasting this gum, you will quickly forget this question. You will be too busy chewing and enjoying its intense fruity flavour! Grape, lemon, orange and lime flavoured gumballs, completely jam-packed with Nerds Candy! How does Willy Wonka do it? These Nerds Gumballs are incredible! </span>Nerds Filled Gumballs come 5 gumballs to a tube and are fruity flavoured.</div>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p><strong>46 g Pack </strong></p>
+<p><strong>Ingredients:</strong></p>
+<p>Sugar, Dextrose, Corn Syrup, Gum Base, Natural And Artificial Flavours, Malic Acid, Glazing Agent (Resinous Glaze), Glycerine, Thickener (Tapioca Dextrin), Glazing Agent (Carnauba Wax), Antioxidant (E321), Colours (Including E120, E102, E110, E127, E129, E133, E132).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/4370763513991</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>01-1001539</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1838817509421</id>
+    <published>2019-05-26T14:58:48-04:00</published>
+    <updated>2019-05-26T14:58:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/airheads-gum-white-mystery-12-ct"/>
+    <title>Airheads Gum White Mystery - 1.18 oz.</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Perfetti Van Melle Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/airheads-gum-white-mystery-sugar-free-candy-district-online-candy-store-toronto.jpg?v=1618598266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfetti Van Melle Inc.<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="h2" style="text-align: center;" itemprop="name"><strong><span>Airheads Candy Sugar-Free Chewing Gum</span></strong></h2>
+<div class="gs">
+<div class="">
+<div id=":qt" class="ii gt">
+<div id=":qs" class="a3s aXjCH">
+<div dir="ltr">What flavour will you get? It's a question you should ponder and find the answer to while chewing the Airheads Gum White Mystery! We can't describe the flavours to you, as they really are a sweet mystery. But we can tell you about the chewing gum itself. Soft and chewy consistency, with tiny pieces of micro -candies that are inside every stick of gum.  Airheads Gum White Mystery is as mouthwatering and tasty and as the Airheads Candy. Tangy, flavourful and absolutely luscious! Find out what all the fuss is about, and discover the mysterious deliciousness of Airheads Gum White Mystery!</div>
+<div class="yj6qo"><strong></strong></div>
+<div class="yj6qo"><strong>1.185 oz. Pack</strong></div>
+</div>
+</div>
+</div>
+</div>
+<h3 class="h2" style="text-align: center;" itemprop="name"><strong><span>Sweetest Selection of the Freshest Candy Shipped Fast!</span></strong></h3>
+<div>
+<div>
+<section class="AboutProduct AboutHealth Ingredients">
+<p class="Ingredients"><strong><span class="subTitle font-bold">Ingredients: </span></strong></p>
+<div>
+<div>
+<section class="AboutProduct AboutHealth Ingredients">
+<p class="Ingredients"><span class="aboutModuleText">Xylitol, Sorbitol, Chewing Gum Base, Glycerol, Maltitol Syrup, Contains Less than 2% of: Malic Acid, Artificial Flavors, Citric Acid, Tartaric Acid, Aspartame, Carrageenan, Coconut Fat, Sucralose, Lecithin (Soy), Acesulfame K, Sucrose Fatty Acids Esters, Colors (Paprika Oleoresin, Carmines), BHT to Maintain Freshness.</span></p>
+<p class="Ingredients"><span class="aboutModuleText"><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></span></p>
+</section>
+</div>
+</div>
+<div class="idmlExploreItem"></div>
+</section>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>Air Heads</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Sugar-Free</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1838817509421</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">219.00</s:price>
+      <s:sku/>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1838813773869</id>
+    <published>2019-05-26T14:50:59-04:00</published>
+    <updated>2019-05-26T14:50:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/airheads-gum-watermelon-12-ct"/>
+    <title>Airheads Gum Watermelon - 1.18 oz.</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Perfetti Van Melle Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/airheads-gum-watermelon-sugar-free-12ct-candy-district-online-candy-store-toronto.jpg?v=1558896819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfetti Van Melle Inc.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="h2" style="text-align: center;" itemprop="name"><strong><span>Airheads Sugar-Free Chewing Gum</span></strong></h2>
+<div id="product-about" class="product-about">
+<div class="about-desc" data-tl-id="AboutThis-ShortDescription"><span>For that tangy and refreshing taste of watermelon, look no further. We've got that intense watermelon flavour you're after with Airheads Watermelon Gum! This chewing gum is like no other, packed full of tiny bits of micro-candies for a full effect of that juicy watermelon taste! Summer is here, don't be a melon head, be an Airhead! With the Airheads Gum Watermelon!</span></div>
+</div>
+<section class="AboutProduct AboutHealth Warnings">
+<h3 class="font-bold moduleHeading"></h3>
+</section>
+<p class="h2" itemprop="name"><strong>1.185 oz. Pack</strong></p>
+<div>
+<div>
+<section class="AboutProduct AboutHealth Ingredients">
+<p class="Ingredients"><strong><span class="subTitle font-bold">Ingredients: </span></strong></p>
+<div>
+<div>
+<section class="AboutProduct AboutHealth Ingredients">
+<p class="Ingredients"><span>Xylitol, Sorbitol, Chewing Gum Base, Glycerol, Maltitol Syrup; Contains less than 2% of: Malic Acid, Artificial Flavors, Citric Acid, Tartaric Acid, Aspartame, Carrageenan, Coconut Fat, Sucralose, Sucrose Fatty Acid Esters, Lecithin (Soy), Acesulfame K, BHT to maintain freshness, Colors (Beta Carotene, Carmines), Blue 1 Lake.</span></p>
+<p class="Ingredients"><span><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></span></p>
+</section>
+</div>
+</div>
+<div class="idmlExploreItem"></div>
+</section>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>Air Heads</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Sugar-Free</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1838813773869</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.19</s:price>
+      <s:sku>01-1000128</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1838809219117</id>
+    <published>2019-05-26T14:42:07-04:00</published>
+    <updated>2019-05-26T14:42:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/airheads-gum-cherry"/>
+    <title>Airheads Gum Cherry - 1.18 oz</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Perfetti Van Melle Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/airheads-gum-cherry-sugar-free-candy-district-online-candy-store-toronto.jpg?v=1618597995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfetti Van Melle Inc.<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            2.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="h2" style="text-align: center;" itemprop="name"><strong><span>Airheads Sugar-Free Chewing Gum</span></strong></h2>
+<div class="gs">
+<div class="">
+<div id=":18e" class="ii gt">
+<div id=":18d" class="a3s aXjCH">
+<div dir="ltr">Airheads Cherry Gum will really get your tastebuds going! This luscious Airheads Cherry Gum is bursting with the refreshing flavour of fresh cherries! We know you love to savour the Airheads candy already, but this chewing gum is truly incredible! Inside every piece of Airheads gum are copious amounts of yummy Airheads micro-candies! That's what makes this Airheads Gum distinctively delicious!</div>
+<div dir="ltr">
+<ul>
+<li>Sugar-Free</li>
+<li>Gluten-Free</li>
+</ul>
+<p>1.18 oz. Pack</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<section class="AboutProduct AboutHealth Ingredients">
+<p class="Ingredients"><strong><span class="subTitle font-bold">Ingredients: </span></strong></p>
+<div>
+<div>
+<section class="AboutProduct AboutHealth Ingredients">
+<p class="Ingredients"><span class="aboutModuleText">Xylitol, Sorbitol, Chewing Gum Base, Glycerol, Maltitol Syrup, Contains Less than 2% of: Malic Acid, Artificial Flavors, Citric Acid, Tartaric Acid, Aspartame, Carrageenan, Coconut Fat, Sucralose, Lecithin (Soy), Acesulfame K, Sucrose Fatty Acids Esters, Colors (Paprika Oleoresin, Carmines), BHT to Maintain Freshness.</span></p>
+<p class="Ingredients"><span class="aboutModuleText"><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></span></p>
+</section>
+</div>
+</div>
+<div class="idmlExploreItem"></div>
+</section>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>Air Heads</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Sugar-Free</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1838809219117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.19</s:price>
+      <s:sku/>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1838798569517</id>
+    <published>2019-05-26T14:15:46-04:00</published>
+    <updated>2019-05-26T14:15:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/airheads-gum-blue-raspberry-12-ct"/>
+    <title>Airheads Gum Blue Raspberry - 1.18 oz.</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Perfetti Van Melle Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/airheads-gum-blue-raspberry-sugar-free-candy-district-online-candy-store-toronto.jpg?v=1618597893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfetti Van Melle Inc.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="h2" style="text-align: center;" itemprop="name"><strong><span>Airheads Sugar-Free Chewing Gum</span></strong></h2>
+<div class="gs">
+<div class="">
+<div id=":qz" class="ii gt">
+<div id=":o2" class="a3s aXjCH">
+<div dir="ltr">With that same Airheads Candy deliciousness you love, but now in gum form! Full of tangy and fruity taste, the Airheads Blue Raspberry Gum is soft, chewy and filled to the max with extreme Airheads flavour! The secret to this exceptional chewing gum is the tiny micro-candies that are inside every tasty piece. Now you can really savour that fantastic Airhead candy flavour!</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>1.185 oz. Pack</strong></div>
+</div>
+</div>
+</div>
+</div>
+<h3 class="h2" style="text-align: center;" itemprop="name"><strong><span>Sweetest Selection of the Freshest Candy Shipped Fast!</span></strong></h3>
+<div>
+<div>
+<section class="AboutProduct AboutHealth Ingredients">
+<p class="Ingredients"><strong><span class="subTitle font-bold">Ingredients: </span></strong></p>
+<p class="Ingredients"><span class="aboutModuleText">Xylitol, Sorbitol, Chewing Gum Base, Glycerol, Maltitol Syrup, Contains Less than 2% of: Malic Acid, Artificial Flavors, Citric Acid, Tartaric Acid, Aspartame, Carrageenan, Coconut Fat, Sucralose, Lecithin (Soy), Acesulfame K, Sucrose Fatty, Acid Esters, BHT to Maintain Freshness, Blue 1 Lake, Color (Carmines).</span></p>
+<p class="Ingredients"><span class="aboutModuleText"><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></span></p>
+</section>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>Air Heads</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Sugar-Free</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1838798569517</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.19</s:price>
+      <s:sku>01-1000125</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1797714214957</id>
+    <published>2019-04-29T21:05:21-04:00</published>
+    <updated>2019-04-29T21:05:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hubba-bubba-gushing-grape-bubble-tape-bubble-gum"/>
+    <title>Hubba Bubba Gushing Grape Bubble Tape Bubble Gum</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wrigley JR. Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hubba-bubba-gushing-grape-bubble-tape-bubble-gum-12ct-6-foot-roll-candy-district-online-candy-store-kitchener-waterloo.jpg?v=1556586531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrigley JR. Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Hubba  Bubba Bubble Tape Gum</h2>
+<h3 style="text-align: center;">Gushing Grape - 6 Foot Roll</h3>
+<div class="gs">
+<div class="">
+<div id=":3z" class="ii gt">
+<div id=":3w" class="a3s aXjCH ">
+<div dir="ltr">This is truly, Bubble Gum yum! Bursting with the sweet and fresh taste of grapes, Hubba Bubba Gushing Grape Bubble Tape Bubble Gum is more than a delightfully chewy retro treat! Comes in a bubble gum tape dispenser for extra freshness and safe keeping! You will certainly be gushing with bubblegum glee, as you cheerfully unravel six luscious and long feet of this treat! Let yourself be blown away in a beautiful, bodacious bubble with the delicious and long-lasting flavour of  Hubba Bubba Gushing Grape Bubble Tape!</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>57 g Roll </strong></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Hubba Bubba</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1797714214957</id>
+      <title>1 Roll</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1000995</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1797708415021</id>
+    <published>2019-04-29T21:01:00-04:00</published>
+    <updated>2019-04-29T21:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hubba-bubba-awesome-original-bubble-tape-bubble-gum"/>
+    <title>Hubba Bubba Awesome Original Bubble Tape Bubble Gum - 57g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wrigley JR. Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hubba-bubba-awesome-original-bubble-tape-bubble-gum-12ct-6-foot-roll-candy-district-online-candy-store-kitchener-waterloo.jpg?v=1618696724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrigley JR. Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Hubba Bubba Bubble Tape Gum</h2>
+<h3 style="text-align: center;">Awesome Bubblegum Flavour - 6 Foot Roll</h3>
+<p><strong>57 g Roll </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Hubba Bubba</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1797708415021</id>
+      <title>1 Roll</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1000984</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1797692882989</id>
+    <published>2019-04-29T20:48:45-04:00</published>
+    <updated>2019-04-29T20:48:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hubba-bubba-sour-blue-raspberry-bubble-tape-bubble-gum"/>
+    <title>Hubba Bubba Sour Blue Raspberry Bubble Tape Bubble Gum</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wrigley JR. Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hubba-bubba-sour-blue-raspberry-bubble-tape-bubble-gum-12ct-6-foot-roll-candy-district-online-candy-store-kitchener-waterloo.jpg?v=1556585794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrigley JR. Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Hubba  Bubba Bubble Tape Gum</h2>
+<h3 style="text-align: center;">Sour Blue Raspberry - 6 Foot Roll</h3>
+<div class="gs">
+<div class="">
+<div id=":38" class="ii gt">
+<div id=":37" class="a3s aXjCH ">
+<div dir="ltr">You'll get six long and delicious feet of the Hubba Bubba Sour Blue Raspberry Bubble Tape Bubble Gum! A soft and chewy bubble gum that is bursting with the spectacular taste of Sour Blue Raspberry! Your tongue might turn a temporary shade of blue, but you will never be truly "blue" with this luscious and long-lasting bubble gum! </div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>57 g Roll </strong></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Hubba Bubba</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1797692882989</id>
+      <title>1 Roll</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1000996</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/9235099265</id>
+    <published>2017-04-21T00:24:36-04:00</published>
+    <updated>2017-04-21T00:24:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/dubble-bubble-assorted-gumballs"/>
+    <title>Dubble Bubble Assorted Gumballs - 6 Piece Tube</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Tootsie Roll Industires</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/dubble-bubble-gum-assorted-gumballs-candy-district-toronto-canada.png?v=1492749798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tootsie Roll Industires<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Retro Bubble Gum</h2>
+<p>A tube of our favourite retro bubble gum is a handy way to carry around sweetness. Dubble Bubble Assorted Gumballs will be a sweet blast from the past! Get a box of memories today.</p>
+<p><strong>6 Piece Tube </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Dubble Bubble</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/9235099265</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.79</s:price>
+      <s:sku>01-1000546</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/9234769025</id>
+    <published>2017-04-20T23:30:10-04:00</published>
+    <updated>2017-04-20T23:30:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/dubble-bubble-gum-tub"/>
+    <title>Dubble Bubble Gum Tub - 240 Count</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Tootsie Roll Industires</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/dubble-bubble-gum-candy-district-toronto-canada.png?v=1492747304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tootsie Roll Industires<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Pink Bubble Gum with Comic</h2>
+<p>The Retro Bubble Gum we all remember from our childhood. Dubble Bubble Gum has been around since 1928 and there's a story behind why it has that sweet pink colour. Blog coming soon!</p>
+<p><strong>240 COUNT TUB</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Dubble Bubble</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/9234769025</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>04-4000209</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/9142908801</id>
+    <published>2017-04-06T18:10:00-04:00</published>
+    <updated>2017-04-06T18:10:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hubba-bubba-bubble-gum-sour-blue-raspberry"/>
+    <title>Hubba Bubba Bubble Gum Sour Blue Raspberry</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wrigley JR. Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hubba-bubba-bubble-gum-sour-blue-raspberry-packs-candydistrict-online-candy-store-canada.png?v=1618696962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrigley JR. Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Hubba Bubba Gum</h2>
+<h3 style="text-align: center;">Sour Blue Raspberry Bubble Gum Packs</h3>
+<p><span>"Big Bubbles, No Troubles"-Hubba Bubba Bubble Gum Sour Blue Raspberry are tasty chunks of delicious bubble gum that will last and blow the biggest bubbles!   </span></p>
+<p><strong>5 Piece Pack</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Hubba Bubba</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/9142908801</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.89</s:price>
+      <s:sku>01-1000993</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1666390721</id>
+    <published>2015-07-24T14:40:00-04:00</published>
+    <updated>2015-07-24T14:40:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/charms-what-a-melon-blow-pop"/>
+    <title>Charms What A Melon Blow Pops</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/Charms-what-a-melon-blow-pops-box-of-48.jpg?v=1578531046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Charms<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Charms What A Melon Blow Pop Lollipops</span></h2>
+<h3 style="text-align: center;"><span>Yummy Suckers with Bubble Gum Center</span></h3>
+<p style="text-align: center;"><strong><span>Your lips really will exclaim "what a melon" as you taste this extraordinary lollipop!  </span></strong></p>
+<div style="text-align: center;">Charms What A Melon Blow Pops are filled with an intensely delicious Watermelon flavour and even come complete with a fantastic bubble gum center!</div>
+<div style="text-align: center;">While eating the What A Melon Sucker you may be taken away to a warm Summertime day when the living is easy and the candy is so sweetly refreshing!</div>
+<div style="text-align: center;">This retro lollipop does have the potential to turn you into a melonhead! But don't worry, just make sure you share the Charms What A Melon Blow Pops with your friends! </div>
+<ul>
+<li><strong>Retro Candy Since 1969</strong></li>
+<li><strong>Peanut Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Made in the USA</strong></li>
+</ul>
+<p><strong>1 Pop</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Charms</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1666390721</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.49</s:price>
+      <s:sku>01-1000387</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1551310977</id>
+    <published>2015-07-16T17:50:00-04:00</published>
+    <updated>2015-07-16T17:50:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/charms-kiwi-berry-blast-blow-pop"/>
+    <title>Charms Kiwi Berry Blast Blow Pop</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/Charms_Kiwi_Berry_Blast_Blow_Pop_-_Box_of_48.jpg?v=1489861121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Charms<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Charms Kiwi Berry Blast Blow Pop Lollipops</span></h2>
+<h3 style="text-align: center;"><span>Yummy Suckers with Bubble Gum Center</span></h3>
+<div style="text-align: center;"><span>3, 2, 1... blast off into very sweet oblivion with the Charms Kiwi Berry Blast Blow Pop! </span></div>
+<div style="text-align: center;">This retro candy lollipop is exploding with all the intense taste of fresh kiwi and all the sweetness of berries! After you complete blasting your tastebuds into a place of sheer sweetness, you can chew the juicy piece of bubble gum that just happens to be tucked in the middle of this sucker!</div>
+<div style="text-align: center;">This retro lollipop really is out of this world delicious! See for yourself, with the Charms Kiwi Berry Blast Blow Pops!</div>
+<ul>
+<li><strong>Retro Candy from 1969</strong></li>
+<li><strong>Peanut Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Made in the USA</strong></li>
+</ul>
+<p><strong>1 Pop</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Charms</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1551310977</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.49</s:price>
+      <s:sku>01-1000381</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1551270337</id>
+    <published>2015-07-16T17:47:00-04:00</published>
+    <updated>2015-07-16T17:47:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/charms-cherry-ice-blow-pop"/>
+    <title>Charms Cherry Ice Blow Pop</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/Charms_Cherry_Ice_Blow_Pop_-_Box_of_48.jpg?v=1578530868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Charms<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Charms Cherry Ice Blow Pop Lollipops</span></h2>
+<h3 style="text-align: center;"><span>Yummy Suckers with a Bubble Gum Center</span></h3>
+<div style="text-align: center;"><strong><span>You'll really be chill' in with this retro lollipop! The Charms Cherry Ice Blow Pop is covered with a cool and icy white exterior before you get to that succulent, red cherry flavoured taste! </span></strong></div>
+<div style="text-align: center;">But that's not all, Charms Cherry Ice Blow Pops even comes complete with a bubble gum middle! Two treats in one!
+<div style="text-align: center;">This sucker is sure to deliver an intensified fresh cherry flavour, and the best part is, there are no cherry pits to deal with, just a sweet wad of gum!</div>
+<div style="text-align: center;">Be icy cool but sweet with the Charms Cherry Ice Blow Pops!</div>
+</div>
+<ul>
+<li><strong>Retro Candy from 1969</strong></li>
+<li><strong>Peanut Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Made in the USA</strong></li>
+</ul>
+<p><strong>1 Pop</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Charms</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Red</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1551270337</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.49</s:price>
+      <s:sku>01-1000380</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1551232193</id>
+    <published>2015-07-16T17:42:00-04:00</published>
+    <updated>2015-07-16T17:42:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/charms-cherry-blow-pop"/>
+    <title>Charms Cherry Blow Pop</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/Charms_Cherry_Blow_Pop_-_Box_of_48.jpg?v=1489861451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Charms<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Charms Cherry Blow Pop Lollipops</h2>
+<h3 style="text-align: center;"><span>Yummy Suckers with Bubble Gum Center</span></h3>
+<div class="gs">
+<div class="">
+<div id=":pg" class="ii gt">
+<div id=":ph" class="a3s aXjCH">
+<div dir="ltr" style="text-align: center;">As charming as you are, what if I told you, you could become even more charming? Now you can, with the sweet addition of the Charms Cherry Blow Pops!
+<div style="text-align: center;">A retro lollipop that is filled with an intense cherry flavour and complete with a bubblegum center! This sucker offers two treats in one, now that's exciting and delicious!</div>
+<div style="text-align: center;">Be the sweet "Cherry On Top" with the irresistible taste of Charms Cherry Blow Pops!</div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;">Fun Fact- The delicious taste of Cherry is the number one flavoured lollipop that is reached all over the world!</div>
+</div>
+<div class="adL"><br></div>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li><strong>Retro Candy from the 1960s</strong></li>
+<li><strong>Peanut Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Made in the USA</strong></li>
+</ul>
+<p><strong>1 Pop</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Charms</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1551232193</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.49</s:price>
+      <s:sku>01-1000379</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1551113985</id>
+    <published>2015-07-16T17:33:00-04:00</published>
+    <updated>2015-07-16T17:33:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/charms-blue-razz-berry-blow-pop"/>
+    <title>Charms Blue Razz Berry Blow Pop</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/charms-blue-razz-berry-blow-pop-lollipos-candy-district-online-candy-store-waterloo-region.jpg?v=1618627508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Charms<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Charms Blue Razz Berry Blow Pop Lollipops</span></h2>
+<h3 style="text-align: center;"><span>Yummy Suckers with Bubble Gum Center</span></h3>
+<div style="text-align: center;"><span>These Charms Lollipops are so cool, that the word "Raspberry" just can't be used! The word is Razz, as in Charms Blue Razz Berry Blow Pops! </span></div>
+<div style="text-align: center;">These retro candy lollipops are delightfully bursting with all the sweet and refreshing taste of Razz-Berries. Yes, ultimately cool and delicious!</div>
+<div style="text-align: center;">Not only are these blue Suckers a tasty treat,  but tucked right in the center of these blue bad boys awaits for you a yummy piece of bubblegum! Two treats in one, as if we really had to sweeten the deal!</div>
+<div style="text-align: center;">Be like the cool kids and experience the irresistible taste of the Charms Blue Razz Berry Blow Pops! </div>
+<div style="text-align: center;"><strong>Stock up with this box of 48 yummy pops!</strong></div>
+<ul>
+<li><strong>Retro Candy from 1969</strong></li>
+<li><strong>Peanut Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Made in the USA</strong></li>
+</ul>
+<p><strong>1 Pop</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Charms</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1551113985</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.49</s:price>
+      <s:sku>01-1000377</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1551073857</id>
+    <published>2015-07-16T17:31:00-04:00</published>
+    <updated>2015-07-16T17:31:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/charms-black-ice-blow-pop"/>
+    <title>Charms Black Ice Blow Pop</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/Charms_Black_Ice_Blow_Pops_-_Box_of_48.jpg?v=1489861295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Charms<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Charms Black Ice Blow Pop Lollipops</span></h2>
+<p><span>Now you can be as cool as ice! A unique, delicious blackberry flavour, a hard shell, crunchy Lollipop Suckers with a B</span>ubble Gum center. Stock up with this yummy box of 48 pops!</p>
+<ul>
+<li><strong>Peanut Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p><strong>1 Pop</strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Candy at the Sweetest Prices-Guaranteed!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Charms</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1551073857</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.49</s:price>
+      <s:sku>01-1000376</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1551028993</id>
+    <published>2015-07-16T17:19:00-04:00</published>
+    <updated>2015-07-16T17:19:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/charms-black-berry-blow-pop"/>
+    <title>Charms Black Cherry Blow Pop</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/black-cherry-blow-pop-min.png?v=1578530617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Charms<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Charms Black Cherry Blow Pop Lollipops</span></h2>
+<h3 style="text-align: center;"><span>Yummy Suckers with Bubble Gum Center</span></h3>
+<h3 style="text-align: center;">
+<span style="font-size: 15px;">With the enticing taste of Black Cherry, you'll be in sheer lollipop bliss with the Charms Black Cherry Blow Pop!</span><br>
+</h3>
+<div class="gs">
+<div class="">
+<div id=":ox" class="ii gt">
+<div id=":ow" class="a3s aXjCH">
+<div dir="ltr">
+<div style="text-align: center;">A smooth taste of refreshing and intense Black Cherry flavour that is, of course, accented with a center surprise piece of bubblegum!</div>
+<div style="text-align: center;">Be smooth and sweet with this retro sucker, and indulge in the satisfying taste of the Charms Black Cherry Blow Pops!</div>
+<div style="text-align: center;"><strong>Stock up with this box of 48 pops!</strong></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li><strong>Retro Candy from 1969</strong></li>
+<li><strong>Peanut Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Made in the USA</strong></li>
+</ul>
+<p><strong>1 Pop</strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Candy at the Sweetest Prices-Guaranteed!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Charms</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1551028993</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.49</s:price>
+      <s:sku>01-1000375</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1480586369</id>
+    <published>2015-07-09T14:54:00-04:00</published>
+    <updated>2015-07-09T14:54:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/razzles-tropical"/>
+    <title>Razzles Tropical Candy - 1.4 oz Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Razzles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/tropical-razzles-retro-candies-candy-district-toronto.jpg?v=1618791350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Razzles<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Razzles Tropical Retro Candy that becomes Gum!</span></h2>
+<p><span>It's candy! It's gum! It's Razzles Tropical! Enjoy that double-team candy/gum pleasure you need. A true Retro Candy. Comes in 6 yummy flavours including Pineapple, Strawberry Banana, Tropical Punch, Tangerine and Kiwi-Lime.</span></p>
+<div style="text-align: center;"><strong>Read the rhyme:</strong></div>
+<div style="text-align: center;">First its a candy,</div>
+<div style="text-align: center;">then its a gum.</div>
+<div style="text-align: center;">If you're indecisive </div>
+<div style="text-align: center;">this is the one!</div>
+<div style="text-align: center;">You'll be delighted,</div>
+<div style="text-align: center;">amazed and so</div>
+<div style="text-align: center;">dazzled,</div>
+<div style="text-align: center;">when your mouth </div>
+<div style="text-align: center;">meets the taste</div>
+<div style="text-align: center;">of these magnificent</div>
+<div style="text-align: center;">
+<span class="il">Razzles</span>!</div>
+<div style="text-align: left;">
+<ul>
+<li>
+<p>Kosher Certified Parve</p>
+</li>
+<li>
+<p>Gluten-Free</p>
+</li>
+</ul>
+</div>
+<p><strong>1.4 oz. Pack</strong></p>
+<p><strong><span>Ingredients: </span></strong></p>
+<p><span>Sugar, gum base, citric acid, calcium stearate, artificial flavours, artificial colours (FD&amp;C red 40 lake, blue 1 lake, yellow 5 lake, yellow 6 lake), BHT (to maintain freshness). Soy may be present.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Tropical Flavours</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1480586369</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1001989</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1480546433</id>
+    <published>2015-07-09T14:43:00-04:00</published>
+    <updated>2015-07-09T14:43:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/razzles-sour"/>
+    <title>Razzles Sour Candy - 1.4 oz Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Razzles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/sour-razzles-retro-candies-candy-district-toronto.jpg?v=1618791297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Razzles<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Razzles Sour Retro Candy that becomes Gum!</span></h2>
+<p><span>"First it's a candy, then it's a gum. Little round Razzles are so much fun."Enjoy that double-team candy &amp; gum pleasure you need. A true Retro Candy.  Comes in five sour flavours including Blue Raspberry, Cherry, Lemon, Lime, and Orange.</span></p>
+<div style="text-align: center;"><strong>Read the rhyme:</strong></div>
+<div style="text-align: center;"><strong>First its a candy,</strong></div>
+<div style="text-align: center;"><strong>then its a gum.</strong></div>
+<div style="text-align: center;"><strong>If you're indecisive </strong></div>
+<div style="text-align: center;"><strong>this is the one!</strong></div>
+<div style="text-align: center;"><strong>You'll be delighted,</strong></div>
+<div style="text-align: center;"><strong>amazed and so</strong></div>
+<div style="text-align: center;"><strong>dazzled,</strong></div>
+<div style="text-align: center;"><strong>when your mouth </strong></div>
+<div style="text-align: center;"><strong>meets the taste</strong></div>
+<div style="text-align: center;"><strong>of these magnificent</strong></div>
+<div style="text-align: center;"><strong><span class="il">Razzles</span>!</strong></div>
+<ul>
+<li>Kosher Certified Parve</li>
+<li>Gluten-Free</li>
+</ul>
+<p><strong>1.4 oz. Pack</strong></p>
+<p><strong><span>Ingredients: </span></strong></p>
+<p>Sugar, gum base, citric acid, calcium stearate, artificial flavours, artificial colours (FD&amp;C red 40 lake, blue 1 lake, yellow 5 lake, yellow 6 lake), BHT (to maintain freshness). Soy may be present.</p>
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false">
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1480546433</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1001988</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+</feed>

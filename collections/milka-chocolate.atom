@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.candydistrict.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.candydistrict.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.candydistrict.com/collections/milka-chocolate.atom"/>
+  <title>Candy District</title>
+  <updated>2021-04-18T11:25:45-04:00</updated>
+  <author>
+    <name>Candy District</name>
+  </author>
+  <entry>
+    <id>https://www.candydistrict.com/products/8997969089</id>
+    <published>2021-04-18T11:25:45-04:00</published>
+    <updated>2021-04-18T11:25:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-raspberry-cream-chocolate-bars-100g"/>
+    <title>Milka Raspberry Cream Chocolate Bars - 100g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-raspberry-cream-european-chocolate-bars-candy-district-online-candy-store.jpg?v=1552439998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Made with Alpine Milk</h2>
+<div class="gs">
+<div class="">
+<div id=":sb" class="ii gt">
+<div id=":sa" class="a3s aXjCH ">
+<div dir="ltr">A raspberry cream filling is irresistible enough, but when you combine it with Milka Chocolate it then becomes, exquisite! Milka Rasberry Cream Chocolate Bar is smooth and creamy, made with fresh milk from the Swiss Alps. The raspberry cream inside is topped off with a layer of extra raspberry sauce making it doubly exceptional. A satisfying gourmet Milka Chocolate Bar that is a must try!</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>100 g Chocolate Bar</strong></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/8997969089</id>
+      <title>Milka Raspberry Cream Chocolate Bars-100g</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000951</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/8995108289</id>
+    <published>2021-04-18T11:22:41-04:00</published>
+    <updated>2021-04-18T11:22:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-oreo-chocolate-candy-bar"/>
+    <title>Milka Oreo Chocolate Candy Bar - 1.44 oz.</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-oreo-chocolate-candy-bar-candydistrict-candy-online_large-min.png?v=1492617030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            1.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"> Milka Oreo Chocolate Candy Bars</h2>
+<p>A sweet dream comes true when you marry the Favourite American Cookie with the Finest European Chocolate.! Yummy OREO cookie pieces mixed in with Oreo Vanilla Creme and wrap it all up with exceptional Milka Milk Chocolate. Pure.Sweet.Genius.</p>
+<p> <strong>1.44 oz Chocolate Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cadbury</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:tag>Oreo</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/8995108289</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">1.29</s:price>
+      <s:sku/>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/8996851649</id>
+    <published>2021-04-18T11:11:08-04:00</published>
+    <updated>2021-04-18T11:11:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-collage-fruit-chocolate-bar-93g"/>
+    <title>Milka Collage Fruit Chocolate Bars - 93g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-collage-fruit-chocolate-bar-93g-candydistrict-candy-online.png?v=1489345239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Made with Alpine Milk</h2>
+<div class="gs">
+<div class="">
+<div id=":nz" class="ii gt">
+<div id=":ny" class="a3s aXjCH ">
+<div dir="ltr">Filled with fruity raspberry, crunchy hazelnuts and added bits of chocolate drops, the Milka Collage Fruit Chocolate Bars make for a delicious combination. Tangy, with a perfect added crunch, yet smooth and creamy, this gourmet Milka Bar has it all! Made with fresh milk from the Swiss Alps, Milka Chocolate bars take chocolate to a whole new level!</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>93 g Chocolate Bars</strong></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/8996851649</id>
+      <title>Milka Collage Fruit Chocolate Bar-93g</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1732456972333</id>
+    <published>2021-04-18T11:10:21-04:00</published>
+    <updated>2021-04-18T11:10:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-collage-caramel-chocolate-bars-93-g"/>
+    <title>Milka Collage Caramel Chocolate Bars - 93 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-collage-caramel-alpine_milk-chocolate-bars-candy-district-toronto.jpg?v=1554330398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Made with Alpine Milk</h2>
+<div class="gs">
+<div class="">
+<div id=":nt" class="ii gt">
+<div id=":ns" class="a3s aXjCH ">
+<div dir="ltr">Inside this delightful Milka Chocolate bar is a trio of extreme deliciousness! Milka Caramel Chocolate Bar combines bits of golden caramel, pieces of crunchy biscuit and morsels of chocolate chips. If that isn't enough, it's all wrapped up in the silkiness of Milka Chocolate! Milka Collage Caramel Bar is made with only the finest ingredients, which includes fresh milk from the Swiss Alps! Milka Chocolate Bars are enjoyed worldwide and have been indulged in for over 100 years!</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>93 g Chocolate Bars</strong></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1732456972333</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000920</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/8997202241</id>
+    <published>2021-04-18T11:04:23-04:00</published>
+    <updated>2021-04-18T11:04:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-milka-lu-chocolate-bar-87g"/>
+    <title>Milka &amp; LU Chocolate Bar - 87 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-lu-european-chocolate-bars-candy-district-online-candy-store.png?v=1552439011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Made with Alpine Milk</h2>
+<div class="gs">
+<div class="">
+<div id=":uj" class="ii gt">
+<div id=":sx" class="a3s aXjCH ">
+<div dir="ltr">These two classics make an irresistible combination! The Milka &amp; Lu Chocolate bar has the perfect and crispy crunch of the famous French LU biscuits along with the rich, ultra creamy Milka milk chocolate. These appealing textures together make Milka &amp; LU Chocolate Bar one of sheer elegance. Milka uses only the best for its chocolate which is made with fresh milk from the Swiss Alps. Made for over 100 years it's a must-have indulgence!</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>87 g Chocolate Bar</strong></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/8997202241</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000934</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6185608380594</id>
+    <published>2021-01-14T13:13:37-05:00</published>
+    <updated>2021-01-14T13:13:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-oreo-white-chocolate-bar-100g"/>
+    <title>Milka Oreo White Chocolate Bar - 100g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-oreo-white-chocolate-bars-candy-district-online-candy-store-canada.jpg?v=1610647996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Bars</h2>
+<div class="gs">
+<div class="">
+<div id=":z3" class="ii gt">
+<div id=":z4" class="a3s aXjCH">
+<div dir="ltr">
+<div style="text-align: center;">The most perfect and delectable snack for every white chocolate lover! </div>
+<div style="text-align: center;">The Milka Oreo White Chocolate Bar is creamy European chocolate that is studded with pieces of your favourite Oreo cookie bits! Made with fresh Alpine Milk to ensure each and every bite is of the highest quality!</div>
+<div style="text-align: center;"><strong>Be delighted with the exquisiteness of the Milka Oreo White Chocolate bar!</strong></div>
+</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>100 g Chocolate Bar</strong></div>
+<div class="adL"><strong></strong></div>
+<h3 class="adL" style="text-align: center;"><strong>The Freshest Milka Bars Shipped Fast!</strong></h3>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Oreo</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6185608380594</id>
+      <title>1 Chocolate Bar</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000948</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6185603563698</id>
+    <published>2021-01-14T13:06:28-05:00</published>
+    <updated>2021-01-14T13:06:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-oreo-brownie-chocolate-bar-100g"/>
+    <title>Milka Oreo Brownie Chocolate Bar - 100g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-oreo-brownie-chocolate-bars-candy-district-online-candy-store-canada.jpg?v=1610647546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Made with Alpine Milk</h2>
+<div class="gs">
+<div class="">
+<div id=":z3" class="ii gt">
+<div id=":z4" class="a3s aXjCH">
+<div dir="ltr" style="text-align: center;">
+<span>A delectable trio that will surely knock you off of your feet! </span>
+<div style="text-align: center;">The Milka Oreo Brownie Chocolate Bar is a triple threat! Made of creamy European milk chocolate, along with delightful pieces of rich brownie and bits of Oreo cookie.</div>
+<div style="text-align: center;">Always made with the freshest of Alpine milk, these chocolate bars are nothing short of exquisite!</div>
+<div style="text-align: center;"><strong>Find yourself with a mouthful of pure bliss with the Milka Oreo Brownie Chocolate Bar!</strong></div>
+</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>92 g Chocolate Bar </strong></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Oreo</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6185603563698</id>
+      <title>1 Chocolate Bar</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000944</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6185596616882</id>
+    <published>2021-01-14T12:58:45-05:00</published>
+    <updated>2021-01-14T12:58:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-oreo-sandwich-chocolate-bar-92g"/>
+    <title>Milka Oreo Sandwich Chocolate Bar - 92g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-oreo-sandwich-chocolate-bars-candy-district-online-candy-store-canada.jpg?v=1610647063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Made with Alpine Milk</h2>
+<div class="gs">
+<div class="">
+<div id=":z3" class="ii gt">
+<div id=":z4" class="a3s aXjCH">
+<div dir="ltr">
+<div style="text-align: center;">A unique and delectable European Chocolate Bar that is composed of creamy European milk chocolate with ten mini Oreo Cookies set into the top of the bar.</div>
+<div style="text-align: center;">The Milka Oreo Sandwich Chocolate is made with exclusive Alpine milk which adds a high-quality creaminess you crave, along with the crunch of Oreo Cookies. The textures and taste are simply, one of a kind!</div>
+<div style="text-align: center;"><strong>For perhaps your new favourite chocolate bar nothing compares to the Milka Oreo Sandwich Chocolate Bar!</strong></div>
+<div class="adL"></div>
+</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>92 g Chocolate Bar </strong></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Oreo</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6185596616882</id>
+      <title>1 Chocolate Bar</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000947</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6185582395570</id>
+    <published>2021-01-14T12:49:57-05:00</published>
+    <updated>2021-01-14T12:49:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-almond-crispy-creme-chocolate-bars-90-g"/>
+    <title>Milka Almond Crispy Creme Chocolate Bars  - 90 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-almond-crispy-creme-chocolate-bars-candy-district-online-candy-store-canada.jpg?v=1610646494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Made with Alpine Milk</h2>
+<div class="gs">
+<div class="">
+<div id=":uj" class="ii gt">
+<div id=":sx" class="a3s aXjCH">
+<div dir="ltr">
+<div class="gs">
+<div class="">
+<div id=":sx" class="ii gt">
+<div id=":uj" class="a3s aXjCH">
+<div dir="ltr" style="text-align: center;">
+<span>Have a bite of pure happiness, (or the entire bar) with the delectable taste of the Milka Almond Crispy Creme Chocolate Bar!</span>
+<div style="text-align: center;">A European milk Chocolate Bar that is made with fresh Alpine milk, filled with exquisite almond creme and golden, crunchy pieces of salted and caramelized almond bits.</div>
+<div style="text-align: center;"><strong>Your tastebuds will be in a whirlwind of extreme joy with the incredible taste of Milka Almond Crispy Creme Chocolate bars!</strong></div>
+</div>
+<div dir="ltr">
+<ul></ul>
+</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>90g Bar | 12 Count Box</strong></div>
+<h3 class="adL" style="text-align: center;"><strong>The Freshest Milka Bars Shipped Fast!</strong></h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6185582395570</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000925</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6185570926770</id>
+    <published>2021-01-14T12:42:18-05:00</published>
+    <updated>2021-01-14T12:42:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-cream-biscuit-100-g"/>
+    <title>Milka Cream &amp; Biscuit Chocolate Bars  - 100 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-cream-biscuit-candy-district-online-candy-store-canada.jpg?v=1610646084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Made with Alpine Milk</h2>
+<div class="gs">
+<div class="">
+<div id=":uj" class="ii gt">
+<div id=":sx" class="a3s aXjCH">
+<div dir="ltr">
+<div class="gs">
+<div class="">
+<div id=":sx" class="ii gt">
+<div id=":uj" class="a3s aXjCH">
+<div dir="ltr">
+<div style="text-align: center;">Enjoy a delightful combination of both crunchy and creamy with the magnificent taste of the Milka Cream Biscuit Chocolate Bar!</div>
+<div style="text-align: center;">An exquisite tasting European Chocolate Bar that is packed with the freshness of Alpine milk ensuring that your chocolate bar is of the highest quality.</div>
+<div style="text-align: center;">The Milka Cream Biscuit Chocolate Bar is a decadent tasting treat with a buttery crunchy biscuit that is topped off with the creamy goodness of milk chocolate!</div>
+<div style="text-align: center;"><strong>Spoil yourself and your tastebuds, with the divine taste of the Milka Cream Biscuit Chocolate Bar!</strong></div>
+</div>
+<div dir="ltr">
+<ul></ul>
+</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>100g Bar </strong></div>
+<div class="adL"><strong></strong></div>
+<h3 class="adL" style="text-align: center;"><strong>The Freshest Milka Bars Shipped Fast!</strong></h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6185570926770</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000924</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6185500901554</id>
+    <published>2021-01-14T11:32:43-05:00</published>
+    <updated>2021-01-14T11:32:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-milkinis-87-5-g"/>
+    <title>Milka Milkinis - 87.5 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-milkinis-candy-district-online-candy-store-canada.jpg?v=1610642113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Made with Alpine Milk</h2>
+<div class="gs">
+<div class="">
+<div id=":uj" class="ii gt">
+<div id=":sx" class="a3s aXjCH">
+<div dir="ltr">
+<div class="gs">
+<div class="">
+<div id=":sx" class="ii gt">
+<div id=":uj" class="a3s aXjCH">
+<div dir="ltr">
+<div style="text-align: center;">You'll love to share this yummy European Chocolate! The Milka Milkinis is a doubly creamy experience!</div>
+<div style="text-align: center;">Sticks of milk chocolate on the outside, that are stuffed with the creamiest of alpine milk filling. A shareable chocolate treat that you'll love to indulge in!</div>
+<div style="text-align: center;">Impress your BFF or just treat yourself, to the deliciousness of the Milka Milkinis!</div>
+</div>
+<div dir="ltr">
+<ul>
+<li>Individually Wrapped</li>
+</ul>
+</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>87.5 g Pack</strong></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6185500901554</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000937</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6185398337714</id>
+    <published>2021-01-14T09:53:03-05:00</published>
+    <updated>2021-01-14T09:53:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-chocolate-mousse-chocolate-bar-100-g"/>
+    <title>Milka Chocolate Mousse Chocolate Bar - 100 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-chocolate-mousse-chocolate-bars-candy-district-online-candy-store-canada.jpg?v=1610636312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Made with Alpine Milk</h2>
+<div style="text-align: center;"><span>You won't be able to resist this exquisite European chocolate Bar, and trust me - you definitely shouldn't!</span></div>
+<div style="text-align: center;">This delectable chocolate bar is made with fresh Alpine milk for the creamiest results! Composed of rich milk chocolate that holds inside the most delightful tasting and silky chocolate mousse, making each bite luxurious!</div>
+<div style="text-align: center;"><strong>Experience this smooth and creamy chocolate joy with the Milka Chocolate Mousse Chocolate Bar!</strong></div>
+<div class="gs">
+<div class="">
+<div class="ii gt" id=":ob">
+<div class="a3s aXjCH" id=":oc">
+<div dir="ltr"><br></div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>100 g Chocolate Bar</strong></div>
+<div class="adL"><strong></strong></div>
+<h3 class="adL" style="text-align: center;"><strong>The Freshest Milka Chocolate Bars Shipped Fast!</strong></h3>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6185398337714</id>
+      <title>1 Chocolate Bar</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000919</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6182185468082</id>
+    <published>2021-01-13T19:40:01-05:00</published>
+    <updated>2021-01-13T19:40:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-collage-with-raspberry-chocolate-bars-93-g"/>
+    <title>Milka Collage with Raspberry Chocolate Bars - 93 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-collage-with-raspberry-chocolate-bars-candy-district-online-candy-store-canada.jpg?v=1610584780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Made with Alpine Milk</h2>
+<div style="text-align: center;">An irresistible European chocolate Bar with the delicious taste of raspberry! The Milka Collage With Rasberry Chocolate Bar is a combination of raspberry, caramelized hazelnuts pieces and dark chocolate drops, all surrounded in a delicate tasting Alpine milk chocolate.</div>
+<div style="text-align: center;"><strong>You really can have it all, with the Milka Collage Raspberry Chocolate Bar!</strong></div>
+<div class="gs">
+<div class="">
+<div id=":nt" class="ii gt">
+<div id=":ns" class="a3s aXjCH">
+<div dir="ltr"><br></div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>93 g Chocolate Bars</strong></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6182185468082</id>
+      <title>1 Chocolate Bar</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000921</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5522382487707</id>
+    <published>2020-08-21T10:17:54-04:00</published>
+    <updated>2020-08-21T10:17:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-darkmilk-alpine-milk-chocolate-bar-85-g"/>
+    <title>Milka Darkmilk Alpine Milk Chocolate Bar - 85 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-darkmilk-alpine-milk-chocolate-bar-85-g-candy-district-candy-store-toronto.jpg?v=1598019637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Made with Alpine Milk</h2>
+<p>Have you heard about the delectable taste of alpine milk but never thought you'd experience it? Well, here's your chance! Milka Darkmilk Alpine Milk Chocolate Bars are made with milk and dark chocolate and bring you the best of European-made chocolate.</p>
+<p>Imported from Europe especially to delight your palate, Milka Darkmilk Alpine Milk Chocolate Bar is available in single bars or 12-count boxes. Why not go all out and give yourself and your family the treat of a full box? Might as well get your chocolate stash stocked up!</p>
+<p>Milka is a legendary brand in Europe, and you will find out why once your order gets to your door.</p>
+<div class="gs">
+<div class="">
+<div id=":ob" class="ii gt">
+<div id=":oc" class="a3s aXjCH">
+<div dir="ltr"><br></div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>85 g Chocolate Bar </strong></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5522382487707</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000983</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5522368790683</id>
+    <published>2020-08-21T10:10:58-04:00</published>
+    <updated>2020-08-21T10:10:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-darkmilk-raspberry-chocolate-bar-85-g"/>
+    <title>Milka Darkmilk Raspberry Chocolate Bar - 85 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-darkmilk-raspberry-chocolate-bar-85-g-candy-district-candy-store-toronto.jpg?v=1598019267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Made with Alpine Milk</h2>
+<p>Europe is famous for its chocolate. Milka Darkmilk Raspberry Chocolate Bar will show you why that continent is so renowned for its delectable indulgences.</p>
+<p>This decadent bar is made in Europe with real Alpine milk. It's certainly something you won't find at your corner store. Give yourself a gourmet treat with Milka. You can buy one bar or truly indulge and stock up with a 12-count box.</p>
+<p>Milka Darkmilk Raspberry Chocolate Bars combines the fruity taste of raspberry with smooth, classic alpine milk and dark chocolate. You simply cannot go wrong. Introduce the whole family to the luxurious taste of European chocolate and put in your order.</p>
+<div class="gs">
+<div class="">
+<div id=":ob" class="ii gt">
+<div id=":oc" class="a3s aXjCH ">
+<div class="yj6qo"></div>
+<div class="adL"><strong>85 g Chocolate Bars</strong></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5522368790683</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5522349129883</id>
+    <published>2020-08-21T10:00:05-04:00</published>
+    <updated>2020-08-21T10:00:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-darkmilk-almond-chocolate-bar-85-g"/>
+    <title>Milka Darkmilk Almond Chocolate Bar - 85 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-darkmilk-almond-chocolate-bar-85-g-candy-district-candy-store-toronto.jpg?v=1598018648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Made with Alpine Milk</h2>
+<p>Indulge in the legendary luxury of European chocolate. Milka Darkmilk Almond Chocolate Bar is made with real Alpine Milk, combining milk and dark chocolate. And it brings in the tempting crunch of almond for a complete treat. Smooth and crunchy, all in one bar.</p>
+<p>Order one bar or stock up with a generous box of 12, if you prefer. Get your chocolate stash all stocked up and give yourself a real treat. Milka Darkmilk Almond Chocolate Bar is also an indulgence your entire family will adore.</p>
+<p>Enjoy all the best of imported chocolate with Milka Darkmilk Almond Chocolate Bar from Mondelez. Imagine how excited you'll be when this package gets to your door.</p>
+<div class="gs">
+<div class="">
+<div id=":ob" class="ii gt">
+<div id=":oc" class="a3s aXjCH">
+<div dir="ltr"><br></div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>85 g Chocolate Bar</strong></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5522349129883</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000927</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1732497637421</id>
+    <published>2019-04-03T18:57:04-04:00</published>
+    <updated>2019-04-03T18:57:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-white-chocolate-bars-100-g"/>
+    <title>Milka White Chocolate Bars - 100 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-white-chocolate-alpine_milk-chocolate-bars-candy-district-toronto.jpg?v=1554332338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Made with Alpine Milk</h2>
+<div class="gs">
+<div class="">
+<div id=":nt" class="ii gt">
+<div id=":ns" class="a3s aXjCH">
+<div dir="ltr">Chocolate lovers of white chocolate will be overjoyed with this decadence! Smooth,  luscious and creamy Milka White Chocolate Bars deliver nothing less than pure perfection! Milka has been enjoyed for over 100 years and it only uses the finest, like fresh milk from the Swiss Alps. For an exclusive treat of the creamiest, most delicious white chocolate you've ever tasted, the Milka White Chocolate Bar is the only answer!</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>100 g Chocolate Bar</strong></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1732497637421</id>
+      <title>1 Chocolate Bar</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000962</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1732489379885</id>
+    <published>2019-04-03T18:50:28-04:00</published>
+    <updated>2019-04-03T18:50:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-milkinis-chocolate-bars-100-g"/>
+    <title>Milka Milkinis Chocolate Bars - 100 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-milkinis-chocolate-bars-100-g-candy-district-online-candy-store-canada.jpg?v=1610641661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Made with Alpine Milk</h2>
+<div class="gs">
+<div class="">
+<div id=":uj" class="ii gt">
+<div id=":sx" class="a3s aXjCH ">
+<div dir="ltr">
+<div class="gs">
+<div class="">
+<div id=":sx" class="ii gt">
+<div id=":uj" class="a3s aXjCH ">
+<div dir="ltr">The Milka Milkinis Chocolate bar is the epitome of creamy! Inside this Milka Chocolate bar is an ultra silky and milky filling that is coated with velvety milk chocolate. Every bite is a doubly delicious experience into the smooth and rich texture of Milka. Made with the freshest milk from the Swiss Alps, Milka Milkinis Chocolate Bar is pure decadence!</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>100 g Chocolate Bars</strong></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1732489379885</id>
+      <title>1 Bar</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku/>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1732483219501</id>
+    <published>2019-04-03T18:45:32-04:00</published>
+    <updated>2019-04-03T18:45:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-extra-cocoa-chocolate-bars-100-g"/>
+    <title>Milka Extra Cocoa Chocolate Bars - 100 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-extra-cacao-chocolate-bars-candy-district-online-candy-store-canada.jpg?v=1610585276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Made with Alpine Milk</h2>
+<div class="gs">
+<div class="">
+<div id=":o4" class="ii gt">
+<div id=":o5" class="a3s aXjCH">
+<div dir="ltr">Experience the deep and rich taste of dark chocolate with Milka Extra Cocoa Chocolate Bars. Smooth and velvety, and more than exceptional, this Milka Chocolate Bar is made with fresh milk from the Swiss Alps. Filled with intense notes of extra cocoa, this Milka Chocolate Bar is deeply divine!</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>100 g Chocolate Bar</strong></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1732483219501</id>
+      <title>1 Chocolate Bar</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000929</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1732471324717</id>
+    <published>2019-04-03T18:37:04-04:00</published>
+    <updated>2019-04-03T18:37:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-triple-choco-cocoa-chocolate-bars-90-g"/>
+    <title>Milka Triple Choco Cocoa Chocolate Bars - 90 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-triple-choco-cacao-chocolate-bars-candy-district-online-candy-store-canada.jpg?v=1610585794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Made with Alpine Milk</h2>
+<div class="gs">
+<div class="">
+<div id=":si" class="ii gt">
+<div id=":pr" class="a3s aXjCH">
+<div dir="ltr">Milka Triple Choco Cocoa Chocolate Bar is most definitely triply delicious! A triad of chocolate bliss is what this Milka Chocolate Bar stands for! Three added extra textures inside the squares. One is filled with luscious, liquid chocolate, the next with creamy chocolate ganache, and the other includes bits of crunchy oreo pieces. These three delights, all come together beautifully among the silky encasement of Milka Chocolate. Loved it worldwide and enjoyed it for over 100 years! Milka Triple Choco Cocoa Chocolate Bar is a chocolate lover's dream!</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>90 g Chocolate Bar</strong></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1732471324717</id>
+      <title>1 Chocolate Bar</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000958</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1732463984685</id>
+    <published>2019-04-03T18:31:20-04:00</published>
+    <updated>2019-04-03T18:31:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-strawberry-chocolate-bars-100-g"/>
+    <title>Milka Strawberry Chocolate Bars - 100 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-strawberry-alpine_milk-chocolate-bars-candy-district-toronto.jpg?v=1554330873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Made with Alpine Milk</h2>
+<div class="gs">
+<div class="">
+<div id=":nt" class="ii gt">
+<div id=":ns" class="a3s aXjCH">
+<div dir="ltr">Strawberry and chocolate usually mean a special occasion, but with the Milka Strawberry Chocolate Bar, it's an occasion in itself! Filled with the lusciousness of rich strawberry cream, which is then generously covered with a coating of Milkas famous milk chocolate, this Milka Chocolate Bar is more than delectable! Milka only uses the finest for their chocolate, which is made with fresh milk from the Swiss Alps. For over 100 years Milka has been sharing its gourmet chocolate with the world, it's time for you to taste this exceptional Chocolate Bar! </div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>100 g Chocolate Bar</strong></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1732463984685</id>
+      <title>1 Chocolate Bar</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000955</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1732436623405</id>
+    <published>2019-04-03T18:10:47-04:00</published>
+    <updated>2019-04-03T18:10:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-chips-ahoy-chocolate-bars-100-g"/>
+    <title>Milka Chips Ahoy! Chocolate Bars - 100 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-chips-ahoy-alpine_milk-chocolate-bars-candy-district-toronto.jpg?v=1554329493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Made with Alpine Milk</h2>
+<div class="gs">
+<div class="">
+<div id=":rz" class="ii gt">
+<div id=":ry" class="a3s aXjCH">
+<div dir="ltr">Two delicious treats in one! Now you can enjoy your favourite chocolate chip cookie, Chips Ahoy! Along with the decadence of Milka Chocolate! Milka Chips Ahoy! Chocolate Bar is filled with pieces of Chips Ahoy! cookie along with an extra addition of chocolate chips. Milka Chocolate Bars are always made with fresh milk from the Swiss Alps, so a glass of milk isn't even required for this cookie chocolate treat, it's already there!</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>100 g Chocolate Bar</strong></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1732436623405</id>
+      <title>1 Chocolate Bar</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000904</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1732426104877</id>
+    <published>2019-04-03T18:03:35-04:00</published>
+    <updated>2019-04-03T18:03:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-bubbly-chocolate-bars-90-g"/>
+    <title>Milka Bubbly Chocolate Bars - 90 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-bubbly-alpine-milk-chocolate-bars-candy-district-online-candy-store-canada.jpg?v=1610634922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Made with Alpine Milk</h2>
+<div class="gs">
+<div class="">
+<div id=":z3" class="ii gt">
+<div id=":z4" class="a3s aXjCH">
+<div dir="ltr">A bar of gourmet chocolate filled with sweet, bubbly bliss! Milka Bubbly Chocolate Bars are made with beautiful, airy bubbles in the middle that sits between the exquisite European Milka Chocolate. It's smooth, so creamy and more than delectable! Made for over 100 years, Milka uses fresh milk from the Swiss Alps to create a silky, smooth decadent chocolate bar.</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>90 g Chocolate Bar | 12 Count Box</strong></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1732426104877</id>
+      <title>1 Chocolate Bar</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000906</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1732385865773</id>
+    <published>2019-04-03T17:35:06-04:00</published>
+    <updated>2019-04-03T17:35:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-noisette-chocolate-bars-100-g"/>
+    <title>Milka Noisette Chocolate Bars - 100 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-noisette-chocolate-bars-candy-district-online-candy-store-canada.jpg?v=1610599539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Made with Alpine Milk</h2>
+<div class="gs">
+<div class="">
+<div id=":sb" class="ii gt">
+<div id=":sa" class="a3s aXjCH">
+<div dir="ltr">Milk Chocolate that nestles inside, a creamy and decadent hazelnut filling. This gourmet Milka Noisette Chocolate Bar is silky, beyond appetizing and so very satisfying. Milka chocolate and hazelnuts are a perfect union of pure and creamy goodness. Loved for over 100 years, Milka Chocolate bars are always a classic choice. Made with fresh milk from the Swiss Alps, Milka Chocolate Bars are internationally known for being divinely decadent! </div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>100 g Chocolate Bar</strong></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1732385865773</id>
+      <title>1 Chocolate Bar</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000932</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1732369678381</id>
+    <published>2019-04-03T17:23:26-04:00</published>
+    <updated>2019-04-03T17:23:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/milka-whole-hazelnuts-chocolate-bars-100-g"/>
+    <title>Milka Whole Hazelnuts Chocolate Bars - 100 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/milka-whole-hazelnuts-alpine_milk-chocolate-bars-candy-district-toronto.jpg?v=1554326693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Made with Alpine Milk</h2>
+<div class="gs">
+<div class="">
+<div id=":nt" class="ii gt">
+<div id=":ns" class="a3s aXjCH">
+<div dir="ltr" style="text-align: center;">Crunchy whole hazelnuts along with the rich and smooth texture of Milka Chocolate make this a must-indulge-in decadence! Made with milk from the Swiss Alps, you are guaranteed to enjoy the creaminess of Milka Chocolate. The texture in this Milka Chocolate Bar really stands out with the whole hazelnuts that are studded throughout. Milka Whole Hazelnuts Chocolate Bar is a classic choice for every chocolate lover, after all, it's been enjoyed for over 100 years!</div>
+</div>
+</div>
+<div class="hi"></div>
+</div>
+</div>
+<p><strong>100 g Chocolate Bar </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Milka</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1732369678381</id>
+      <title>1 Chocolate Bar</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000963</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+</feed>

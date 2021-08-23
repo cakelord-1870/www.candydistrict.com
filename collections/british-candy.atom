@@ -1,0 +1,1266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.candydistrict.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.candydistrict.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.candydistrict.com/collections/british-candy.atom"/>
+  <title>Candy District</title>
+  <updated>2021-08-20T14:33:42-04:00</updated>
+  <author>
+    <name>Candy District</name>
+  </author>
+  <entry>
+    <id>https://www.candydistrict.com/products/6967594582194</id>
+    <published>2021-08-20T14:33:42-04:00</published>
+    <updated>2021-08-20T14:33:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/skittles-chewies-fruits-uk-45g"/>
+    <title>Skittles Chewies Fruits UK - 45g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Mars Wrigley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/mars_wrigley_skittles_chewies_fruits_45g_candy_district.jpg?v=1629484460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Wrigley<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Look Who Came out of Their Shell!</h2>
+<p>     <strong>Skittles Chewies</strong> <strong>Fruits</strong> lost the shell, giving you a <strong>softer, chewier texture</strong> that still has all of the delicious <strong>Skittles</strong> flavour you love so much.</p>
+<p>     With flavours like <strong>Strawberry</strong>, <strong>Lemon</strong>, <strong>Lime</strong>, <strong>Orange</strong>, and <strong>Blackcurrant</strong>, you can truly taste the rainbow with these dreamlike treats!</p>
+<ul>
+<li><strong>Imported from the UK!</strong></li>
+</ul>
+<h3><strong>45g | 1 pouch</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Skittles</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6967594582194</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1002107</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6963616219314</id>
+    <published>2021-08-18T16:51:33-04:00</published>
+    <updated>2021-08-18T16:51:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/millions-vimto-remix-35g"/>
+    <title>Millions Vimto Remix - 35g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Millions</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/millions_vimto_remix_35g_candy_district.jpg?v=1629319912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Millions<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1">A Delicious Collab Between Millions and Vimto</h2>
+<p>     These little drops are<strong> intensely juicy</strong> and full of flavour, <strong>Millions</strong> and <strong>Vimto</strong> did quite the bang-up job! Get the <strong>real fruit juice</strong> flavour of <strong>Mango</strong>, <strong>Strawberry</strong>, and <strong>Pineapple</strong> in every bite. </p>
+<p>     Make sure to share the <strong>Remix</strong> experience! Any fan of tropical fruity flavours needs to try these delicious sweets.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Natural Colour</strong></li>
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Contains Real Fruit Juice</strong></li>
+</ul>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">35g | 1 pouch</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6963616219314</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1003014</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6963297484978</id>
+    <published>2021-08-18T14:26:56-04:00</published>
+    <updated>2021-08-18T14:26:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/galaxy-minstrels-big-bag-66g"/>
+    <title>Galaxy Minstrels Big Bag - 66g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/mars_galaxy_minstrels_big_bag_66g_candy_district.jpg?v=1629311240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Simply the Smoothest!</h2>
+<p>     For the most luxurious chocolate on a dime,<span> </span><strong>Galaxy</strong><span> </span>is a<span> </span><strong>UK</strong><span> </span>specialty you don't want to miss out on! Their <strong>Minstrels</strong> consist of <strong>silky smooth milk chocolate</strong> wrapped in a <strong>decadent candy shell</strong>﻿, like M&amp;M's but so much better. A few bites in and you'll be wondering how you went your whole life without having tried them before!</p>
+<p>     Take your tastebuds on an adventure to a different land and introduce them to the mesmerizing taste of smooth Galaxy chocolate; they deserve it. Just don't forget to share!</p>
+<h3>66g | 1 pouch</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6963297484978</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.29</s:price>
+      <s:sku>02-2001406</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6963201376434</id>
+    <published>2021-08-18T13:25:45-04:00</published>
+    <updated>2021-08-18T13:25:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/yorkie-orange-bar-46g"/>
+    <title>Yorkie Orange Bar - 46g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nestle_limited_edition_yorkie_orange_46g_candy_district.jpg?v=1629307566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1">For the Insatiable Orange Chocolate Lover</h2>
+<p>     Sometimes you just want to chew on a massive chunk of creamy milk chocolate, that's what the <strong>Yorkie</strong> bar was created for! This classic favourite we <strong>imported fresh from the UK</strong> is <strong>infused with real orange oil</strong>, giving a citrusy twist to the traditional milk chocolate taste. </p>
+<p>     Don't miss out on this <strong>Limited Edition</strong> treat that'll give you a little taste of Britain. Perfect as a gift or an upgrade to your late-night snacks. </p>
+<h3 data-mce-fragment="1"><strong data-mce-fragment="1">46g | 1 bar</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6963201376434</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2001408</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6963160481970</id>
+    <published>2021-08-18T12:55:35-04:00</published>
+    <updated>2021-08-18T12:55:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/revels-35g"/>
+    <title>Revels - 35g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/mars_revels_35g_candy_district.jpg?v=1629305752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1">The Treat That's Never Boring!</h2>
+<p>     If you're looking for something to spice up your late-night munchies stash, we've got just the treat for you! </p>
+<p>     <strong>Revels</strong> is a smooth chocolatey treat we<strong> imported straight from the UK</strong> with a fun surprise. Each bite-sized morsel has a <strong>different center every time</strong>! It's always a guessing game when you pop another into your mouth. Will you taste <strong>orange</strong>? <strong>Coffee</strong>? <strong>Raisin</strong>? Maybe you get a<strong> plain chocolate</strong> dud here and there, but there's the potential for <strong>Malteser</strong> or even creamy <strong>toffee</strong>! </p>
+<p>     Sounds like something that could only be thought up by Willy Wonka or a game show host! If you're a fan of variety or mystery, this is the perfect snack for you. </p>
+<h3>35g | 1 pouch</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6963160481970</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2001409</s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6963135676594</id>
+    <published>2021-08-18T12:30:34-04:00</published>
+    <updated>2021-08-18T12:30:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/galaxy-smooth-orange-bar-42g"/>
+    <title>Galaxy Smooth Orange Bar - 42g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/mars_galaxy_smooth_orange_bar_42g_candy_district.jpg?v=1629304260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Simply the Smoothest!</h2>
+<p>     For the most luxurious chocolate on a dime, <strong>Galaxy</strong> is a <strong>UK</strong> specialty you don't want to miss out on! Their <strong>Smooth Orange</strong> bar consists of <strong>fine milk chocolate</strong> infused with <strong>real orange oil</strong>, giving the chocolate a hint of delicious citrus flavour. </p>
+<p>     Take your tastebuds on an adventure to a different land and introduce them to the mesmerizing taste of a smooth Galaxy chocolate bar!</p>
+<h3>42g | 1 bar</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6963135676594</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2001434</s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6963081642162</id>
+    <published>2021-08-18T11:28:37-04:00</published>
+    <updated>2021-08-18T11:28:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/nestle-munchies-milk-chocolate-roll-51-9g"/>
+    <title>Nestle Munchies Milk Chocolate Roll - 51.9g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nestle_munchies_52g_candy_district.jpg?v=1629300534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle UK<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>A Delicious Sweet Brought Straight from the UK!</strong></h2>
+<p>     If you're ever on the go and need a quick treat to brighten up your day, why not try <strong>Nestle Munchies</strong>! <strong>Buttery, crunchy cookie</strong> center wrapped in <strong>smooth caramel</strong> and then coated in a <strong>rich milk chocolate</strong> exterior, this is a chocolatey sweet with layers of deliciousness. </p>
+<p>     So try something new and pop a couple of <strong>Munchies</strong> in your mouth. Just a fair warning, they're highly addictive!</p>
+<p><strong>51.9g | 1 roll</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6963081642162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2001438</s:sku>
+      <s:grams>52</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6963020267698</id>
+    <published>2021-08-18T10:42:36-04:00</published>
+    <updated>2021-08-18T10:42:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/cadbury-dairy-milk-orange-giant-buttons-uk-95g"/>
+    <title>Cadbury Dairy Milk Orange Giant Buttons UK - 95g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/cadbury_dairy_milk_orange_giant_buttons_95g_candy_district.jpg?v=1629297964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Dairy Milk with a Citrusy Twist!</span></h2>
+<p><span>     Imported directly from the <strong>UK</strong>, here's a <strong>Dairy Milk</strong> treat you're bound to adore! <strong>Orange Giant Buttons</strong> have the same <strong>silky smooth Dairy Milk chocolate</strong> texture you've come to love, with the added touch of <strong>real orange oil</strong>. Let each button coat your tongue in the <strong>beautiful blend of chocolate and fruity citrus </strong>flavour, it's an irresistible combination.</span></p>
+<p><span>     Get this as a gift for any orange chocolate lover or share the joy with friends and family, we guarantee smiles all around no matter how this sweet is enjoyed!</span></p>
+<h3 class="descriptionText">95g | 1 peg bag<br>
+</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>British Chocolate Bars</s:tag>
+    <s:tag>Cadbury</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6963020267698</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2001440</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6962947162290</id>
+    <published>2021-08-18T09:34:56-04:00</published>
+    <updated>2021-08-18T09:34:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/kinder-chocolate-with-cereal-bar-uk-24g"/>
+    <title>Kinder Chocolate with Cereal Bar UK - 24g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Ferrero</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/ferrero_kinder_chocolate_with_cereals_24g_candy_district.jpg?v=1629293725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrero<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1">Add a Bit of Crunch to Your Kinder Delight!</h2>
+<p>     Whether you're a fan of <strong>Kinder</strong> chocolate or you just want a deliciously creamy treat with a twist, <strong>Kinder Chocolate with Cereals</strong> is sure to pop its way into your heart!</p>
+<p>     The <strong>silkiest smooth milk chocolate</strong> filled with a <strong>creamy milk center</strong> and then stuffed with <strong>5 kinds of popped cereal grains</strong> <span data-mce-fragment="1">(r</span><span data-mce-fragment="1">ice, buckwheat, barley, hulled wheat, and wheat), this is the kind of chocolatey delight that'll make your mouth water uncontrollably. No matter if this is your own personal treat or a gift for someone else to enjoy, it's a guaranteed smile every time!</span></p>
+<h3 data-mce-fragment="1"><strong data-mce-fragment="1">24g | 1 bar</strong></h3>
+<div data-mce-fragment="1"><strong data-mce-fragment="1"></strong></div>
+<div style="text-align: center;" data-mce-fragment="1"><strong data-mce-fragment="1">Imported Fresh From The UK!</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Kinder Chocolates</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6962947162290</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.29</s:price>
+      <s:sku>02-2001441</s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6227270697138</id>
+    <published>2021-01-31T22:14:43-05:00</published>
+    <updated>2021-01-31T22:14:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/cadbury-caramel-spread-uk-400-g"/>
+    <title>Cadbury Caramel Spread UK - 400 g</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/cadbury-caramel-spread-british-candy-district-online-candy-store-canada.jpg?v=1612149228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            8.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Cadbury Caramel Spread Imported from Europe</h2>
+<p style="text-align: center;">Stock up because this exotic snack is only available for a limited time!</p>
+<p style="text-align: left;"><strong>400 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Cadbury</s:tag>
+    <s:tag>Exotic Snacks</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Spreads</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6227270697138</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.49</s:price>
+      <s:sku>03-3000211</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6227263488178</id>
+    <published>2021-01-31T22:09:41-05:00</published>
+    <updated>2021-01-31T22:09:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/cadbury-milk-chocolate-spread-uk-400-g"/>
+    <title>Cadbury Milk Chocolate Spread UK - 400 g</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/cadbury-milk-chocolate-spread-british-candy-district-online-candy-store-canada.jpg?v=1612148958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            8.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Cadbury Spread Imported from Europe</h2>
+<p style="text-align: center;">Stock up because this exotic snack is only available for a limited time!</p>
+<p style="text-align: left;"><strong>400 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Cadbury</s:tag>
+    <s:tag>Exotic Snacks</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Spreads</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6227263488178</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.49</s:price>
+      <s:sku>03-3000219</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6227255197874</id>
+    <published>2021-01-31T22:03:19-05:00</published>
+    <updated>2021-01-31T22:03:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/cadbury-chrunchie-spread-uk-400-g"/>
+    <title>Cadbury Chrunchie Spread UK - 400 g</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/cadbury-crunchie-spread-british-candy-district-online-candy-store-canada.jpg?v=1612148464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            8.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Crunchie Spread Imported from Europe</h2>
+<p style="text-align: center;">Stock up because this exotic snack is only available for a limited time!</p>
+<p style="text-align: left;"><strong>400 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Cadbury</s:tag>
+    <s:tag>Exotic Snacks</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Spreads</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6227255197874</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.49</s:price>
+      <s:sku>03-3000215</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6151681409202</id>
+    <published>2020-12-26T14:45:14-05:00</published>
+    <updated>2020-12-26T14:45:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/cadbury-darkmilk-roasted-almond-uk-85-g"/>
+    <title>Cadbury Darkmilk Roasted Almond UK - 85 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/cadbury-darkmilk-roasted-almonds-uk-85-g-british-chocolate-bars-85-g-candy-district-online-candy-shop.jpg?v=1609012090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" class="product_title entry-title" itemprop="name"><span>An Irresistible British Chocolate Bar</span></h2>
+<div style="text-align: center;">Take your tastebuds on the creamiest journey ever with the delectable taste of the Cadbury Darkmilk Roasted Almond Chocolate Bar.</div>
+<div style="text-align: center;">A special blend of  Cadbury UK's finest chocolate that is filled with crunchy, roasted almonds. You'll get the perfect bite every time with a delicious balance of creamy chocolate and crisp almonds. </div>
+<div style="text-align: center;">This British Chocolate bar is made of 40% cocoa solids with a blend of milk chocolate. Have the best of both worlds, with the mouthwatering flavour of Cadbury Darkmilk roasted Almond Chocolate Bar!</div>
+<h3 style="text-align: center;" class="product_title entry-title" itemprop="name"><span></span></h3>
+<div class="longTextItems">
+<h3 style="text-align: center;">Learn more about the <a title="History of Cadbury Chocolate" href="https://www.cadbury.co.uk/the-story" target="_blank">History of Cadbury Chocolate</a> </h3>
+<ul>
+<li><strong>Suitable for vegetarians</strong></li>
+</ul>
+</div>
+<p class="product_title entry-title" itemprop="name"><strong>85 g Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>British Chocolate Bars</s:tag>
+    <s:tag>Cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6151681409202</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000296</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6151678591154</id>
+    <published>2020-12-26T14:41:51-05:00</published>
+    <updated>2020-12-26T14:41:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/cadbury-darkmilk-salted-caramel-uk-85-g"/>
+    <title>Cadbury Darkmilk Salted Caramel UK - 85 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/cadbury-darkmilk-salted-caramel-uk-85-g-british-chocolate-bars-85-g-candy-district-online-candy-shop.jpg?v=1609011847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_title entry-title" style="text-align: center;" itemprop="name"><span>An Irresistible British Chocolate Bar</span></h2>
+<div style="text-align: center;">With an exclusive blend of dark chocolate and milk chocolate be prepared to experience the delectable taste of sweet bliss, with the Cadbury Darkmilk Salted Caramel Chocolate Bar.</div>
+<div style="text-align: center;">An impeccable British Chocolate Bar composed of creamy Cadbury Chocolate and full of the yummy addition of crunchy bits of salted caramel. The salted caramel truly brings this chocolate blend to life!</div>
+<div style="text-align: center;">Taste it all, with the goodness of Cadbury Darkmilk Salted Caramel Chocolate Bar!</div>
+<h3 class="product_title entry-title" style="text-align: center;" itemprop="name"><span></span></h3>
+<div class="longTextItems">
+<h3 style="text-align: center;">Learn more about the <a href="https://www.cadbury.co.uk/the-story" title="History of Cadbury Chocolate" target="_blank">History of Cadbury Chocolate</a> </h3>
+<ul>
+<li><strong>Suitable for vegetarians</strong></li>
+</ul>
+</div>
+<p class="product_title entry-title" itemprop="name"><strong>85 g Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>British Chocolate Bars</s:tag>
+    <s:tag>Cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6151678591154</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000297</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6151672201394</id>
+    <published>2020-12-26T14:33:13-05:00</published>
+    <updated>2020-12-26T14:33:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/cadbury-darkmilk-original-uk-85-g"/>
+    <title>Cadbury Darkmilk Original UK - 85 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/cadbury-darkmilk-original-uk-85-g-british-chocolate-bars-85-g-candy-district-online-candy-shop.jpg?v=1609011445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_title entry-title" style="text-align: center;" itemprop="name"><span>An Irresistible British Chocolate Bar</span></h2>
+<div style="text-align: center;"><span>When you just can't decide if you want dark chocolate or milk chocolate, let Cadbury decide for you!</span></div>
+<div style="text-align: center;">The Cadbury Darkmilk Original Chocolate Bar is both rich and creamy, always delectable and of course, sweetly dreamy!</div>
+<div style="text-align: center;">This British Chocolate Bar is a simple bar of chocolate. No bells and whistles just pure deliciousness!</div>
+<div style="text-align: center;">Dive into this beautiful, chocolate blend with the goodness of Cadbury Darkmilk Original Chocolate Bar!</div>
+<h3 class="product_title entry-title" style="text-align: center;" itemprop="name"><span></span></h3>
+<div class="longTextItems">
+<h3 style="text-align: center;">Learn more about the <a href="https://www.cadbury.co.uk/the-story" title="History of Cadbury Chocolate" target="_blank">History of Cadbury Chocolate</a> </h3>
+<ul>
+<li><strong>Suitable for vegetarians</strong></li>
+</ul>
+</div>
+<p class="product_title entry-title" itemprop="name"><strong>85 g Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>British Chocolate Bars</s:tag>
+    <s:tag>Cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6151672201394</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000294</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6101497151666</id>
+    <published>2020-11-26T14:36:22-05:00</published>
+    <updated>2020-11-26T14:36:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hubba-bubba-mega-long-triple-mix-bubble-gum-tape-56-g"/>
+    <title>Hubba Bubba Mega Long Triple Mix Bubble Gum Tape - 56 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wrigley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hubba-bubba-mega-long-triple-mix-bubble-gum-tape-56-g-candy-district-online-candy-shop-canada.jpg?v=1606419610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrigley<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Hubba Bubba Bubble Gum</h2>
+<p style="text-align: center;"><span>Hubba Bubba Bubble Gum Tape Triple Mix is 6 feet of pure sweet fun. </span></p>
+<div style="text-align: center;">Forget doubling your pleasure, now, you can triple it with the</div>
+<div style="text-align: center;"> Hubba Bubba Triple Mix Bubble Gum!  </div>
+<div style="text-align: center;"> Coming in at six feet long and filled with the fruity flavours of Strawberry, Watermelon and Blueberry, who says size doesn't matter? This much bubblegum will last for days!</div>
+<div style="text-align: center;">Coming in a reusable tape like dispenser getting a piece of gum will always be a cinch!</div>
+<div style="text-align: center;">Great for sharing and of course blowing some big-time bubbles! Be a triple threat with the Hubba Bubba Triple Mix Bubble Gum Tape!</div>
+<ul>
+<li><span>Suitable for Vegetarians</span></li>
+<li><span>Imported from the UK</span></li>
+</ul>
+<p><span>56 g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6101497151666</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1000992</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6101177335986</id>
+    <published>2020-11-26T11:00:41-05:00</published>
+    <updated>2020-11-26T11:00:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/skittles-fruits-chewies-uk-152-g"/>
+    <title>Skittles Fruits Chewies - 152 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wrigley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/skittles-fruits-chewies-uk-152-g-candy-district-online-candy-shop-canada.jpg?v=1606406526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrigley<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Skittles Fruits Chewies - No Shell!<br>
+</h2>
+<p><span>Now you can enjoy the soft and chewy version of Skittles with the Skittles Fruits Chewies! </span></p>
+<div>This British Candy is ready to impress with amazing flavours like Orange, Lime, Lemon, Blackcurrant and Strawberry!</div>
+<div>These bite-sized little gems are as always, bright and bold with dazzling and intense fruit-filled flavours!</div>
+<div>With no shell to bite through, you can eat up the bag even faster! There's just no time to waste, get your Skittles Fruits Chewies today!</div>
+<ul>
+<li>Suitable for vegetarians</li>
+<li>British Candy</li>
+</ul>
+<p>152 g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Exotic Snacks</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Skittles</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6101177335986</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1002106</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6099859472562</id>
+    <published>2020-11-25T19:30:40-05:00</published>
+    <updated>2020-11-25T19:30:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/cadbury-flake-bars-uk-4-pack"/>
+    <title>Cadbury Flake Bars UK - 4 Pack</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/cadbury-flake-bars-uk-4-pack-candy-district-online-candy-shop-canada.jpg?v=1606351038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">British Chocolate Bars</h2>
+<p><span>The Cadbury Flake Bar is one of the most irresistible Chocolate Bars ever made! This British Chocolate bar consists of layers of fine ribbons of Milk Chocolate that are folded onto each other producing a delicate yet substantially delicious bar!</span></p>
+<div>Since 1920, these have been the flakiest of them all! No other chocolate bar is as succulent or luscious as the Cadbury Flake Bar. This British Chocolate bar will flake onto the corners of your mouth with each bite making it all the more enjoyable!</div>
+<div>
+<div class="yj6qo"><br></div>
+<div class="adL"></div>
+</div>
+<h3 style="text-align: center;">Learn more about the <a href="https://www.cadbury.co.uk/the-story" title="History of Cadbury Chocolate" target="_blank">History of Cadbury Chocolate</a> </h3>
+<p><strong>4 Pack | 4 - 20 g Bars</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>British Chocolate Bars</s:tag>
+    <s:tag>Cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6099859472562</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.59</s:price>
+      <s:sku>02-2000308</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6049889943730</id>
+    <published>2020-11-03T16:03:41-05:00</published>
+    <updated>2020-11-03T16:03:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/fruit-tella-koala-candy-120-g"/>
+    <title>Fruit-tella Koala Candy - 120 g</title>
+    <s:type>CAndy</s:type>
+    <s:vendor>Fruit-tella</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/fruit-tella-koala-gelatine-free-candy-120-g-candy-district-online-candy-store-canada.jpg?v=1604437423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fruit-tella<br>
+        <strong>Type: </strong>CAndy<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1">Gelatine Free Koalas</h2>
+<p data-mce-fragment="1">Fruit lovers inspired Fruittella to create delicious sweets made with fruit juice, natural flavours and colourings!</p>
+<p data-mce-fragment="1">Now you can enjoy Fruittella's unmistakably fruity taste with our GELATINE FREE Koalas.</p>
+<p data-mce-fragment="1">Vegetarian Society approved for Vegans.</p>
+<p data-mce-fragment="1"><strong>120 g</strong></p>
+<p data-mce-fragment="1"><strong>Ingredients:</strong></p>
+<p data-mce-fragment="1">Glucose syrup, sugar, modified starch, fruit juices from concentrate (raspberry, lemon, pineapple) (3%), acid (citric acid), natural flavourings, coconut oil, concentrates (safflower, carrot, radish, spirulina, lemon, blackcurrant), glazing agent (carnauba wax).</p>
+<p data-mce-fragment="1"><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Gelatine Free</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6049889943730</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>01-1000698</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6044821389490</id>
+    <published>2020-11-01T21:35:32-05:00</published>
+    <updated>2020-11-01T21:35:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hubba-bubba-mega-long-himbeer-bubble-gum-tape-56-g"/>
+    <title>Hubba Bubba Mega Long Himbeer Bubble Gum Tape - 56 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wrigley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hubba-bubba-mega-long-himbeer-raspberry-bubble-gum-tape-candy-district-online-candy-store-canada.jpg?v=1604284867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrigley<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Hubba Bubba Bubble Gum</h2>
+<p style="text-align: center;"><span>Hubba Bubba Bubble Gum Tape Himbeer (Raspberry) is 6 feet of pure sweet fun. </span></p>
+<div style="text-align: center;">You'll never be at a loss for bubble gum again, not with the Hubba Bubba Himbeer Bubble Gum Tape!</div>
+<div style="text-align: center;">This yummy raspberry flavoured bubblegum is six feet long. Yes, six feet! That means lots of chewing, and lots of extra big impressive bubbles!</div>
+<div style="text-align: center;">Comes in its own dispenser for easy eating and sharing!</div>
+<div style="text-align: center;">Get blowing with the Hubba Bubba Himbeer Bubble Gum tape!</div>
+<ul>
+<li><span>Suitable for Vegetarians</span></li>
+<li><span>Imported from the UK</span></li>
+</ul>
+<p><span>56 g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6044821389490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1000988</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6044702507186</id>
+    <published>2020-11-01T18:15:19-05:00</published>
+    <updated>2020-11-01T18:15:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hubba-bubba-mega-long-cola-bubble-gum-tape"/>
+    <title>Hubba Bubba Mega Long Cola Bubble Gum Tape - 56 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wrigley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hubba-bubba-mega-long-cola-bubble-gum-candy-district.jpg?v=1604272621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrigley<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Hubba Bubba Bubble Gum</h2>
+<p style="text-align: center;"><span>Hubba Bubba Bubble Gum Tape Cola is 6 feet of pure sweet fun. </span></p>
+<div>For the most "mega" delicious bubble gum around, only the Hubba Bubba Mega Long Cola Bubble Gum Tape will do!</div>
+<div>With six feet of luscious cola tasting gum, you're guaranteed to have the juiciest gum around!</div>
+<div>Comes in a convenient reusable tape dispenser which makes it super easy to share. It'll also fit perfectly in your pocket so you'll never be without it!</div>
+<div>Be the cool kid,  like always. With the Hubba Bubba Mega Long Cola Bubble Tape Gum!</div>
+<ul>
+<li><span>Suitable for Vegetarians</span></li>
+<li><span>Imported from the UK</span></li>
+</ul>
+<p><span>56 g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6044702507186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1000989</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6044684320946</id>
+    <published>2020-11-01T17:44:29-05:00</published>
+    <updated>2020-11-01T17:44:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/bubblicious-cola-bubble-gum"/>
+    <title>Bubblicious Cola Bubble Gum - 38g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/bubblicious-cola-bubble-gum-candy-district-online-candy-store-canada.jpg?v=1604270759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Bubblicious Bubblegum</h2>
+<p style="text-align: center;">Blow big bubbles with Bubblicious Original Bubble Gum</p>
+<p style="text-align: left;"><strong>38g | 5 Piece Pack</strong></p>
+<h2 style="text-align: center;"></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6044684320946</id>
+      <title>5 Piece Pack</title>
+      <s:price currency="CAD">1.49</s:price>
+      <s:sku>01-1000341</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5995091787954</id>
+    <published>2020-10-25T23:15:43-04:00</published>
+    <updated>2020-10-25T23:15:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/nestle-milkybar-giant-buttons-uk-103g"/>
+    <title>Nestle Milkybar Giant Buttons UK - 103g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Nestlé</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nestle-milkybar-giant-buttons-uk-103g-candy-district-online-candy-store-canada.jpg?v=1603682218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestlé<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            3.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div>
+<div>
+<h2 style="text-align: center;">Imported British Candy</h2>
+<p>Is there such a thing as too much white chocolate? Absolutely not! You’ll get a bag full of smooth white chocolate buttons in this bountiful package.</p>
+<p>These white chocolate buttons are a milky delight. This Sharing Bag is perfect for enjoying with friends and family. Or maybe you’ll just want to keep them to yourself. It’s up to you. Nestle Milkybar Giant Buttons are a great snack for movie night in or just for pick-me-ups in the afternoon.</p>
+<p>Nestle Milkybar Giant Buttons have been imported all the way from the UK just for you. Just imagine popping these soft and smooth chocolate buttons in your mouth.</p>
+</div>
+<ul class="product-info-block__content">
+<li class="product-info-block__content-item">Popular Sharing Bag<br>
+</li>
+</ul>
+</div>
+</div>
+<ul>
+<li><span>British Chocolate Candy</span></li>
+<li><strong>No Artificial Colours, Flavours or Preservatives</strong></li>
+</ul>
+<p><strong>90 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>British Chocolate Bars</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5995091787954</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.59</s:price>
+      <s:sku/>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5995085955250</id>
+    <published>2020-10-25T23:05:51-04:00</published>
+    <updated>2020-10-25T23:05:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/nestle-milkybar-mix-ups-uk-95-g"/>
+    <title>Nestle Milkybar Mix Ups UK - 95 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestlé</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nestle-milkybar-mix-ups-uk-95-g-candy-district-online-candy-store-canada.jpg?v=1603681761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestlé<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div>
+<h2 style="text-align: center;">Imported British Chocolate Candy</h2>
+<p>If you love classic British chocolate candy, you’re a fan of Nestle Milkybar. Milkybar has been around since 1937. Milkybar chocolate is the milkiest, smoothest chocolate you’ll ever find.</p>
+<p>The name says it all. Milkybar is the milk lover's chocolate dream and just the thing for unmatchable deliciousness. Get this bag of Milkybar Mix Ups, imported all the way from the UK. Nestle Milkybar Mix Ups come in a Sharing Bag that makes them easy to enjoy with family and friends.</p>
+<p>Nestle Milkybar Mix Ups features a luscious combination of milk chocolate with milky cocoa filling. Order now to get these delivered straight to your door.</p>
+</div>
+</div>
+<ul>
+<li><span>Popular Sharing Bag</span></li>
+<li><span>British Chocolate Candy</span></li>
+<li><strong>No Artificial Colours, Flavours or Preservatives</strong></li>
+</ul>
+<p><strong>90 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>British Chocolate Bars</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5995085955250</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.59</s:price>
+      <s:sku>02-2000977</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5995076780210</id>
+    <published>2020-10-25T22:51:35-04:00</published>
+    <updated>2020-10-25T22:51:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/nestle-munchies-cookie-dough-uk-101-g"/>
+    <title>Nestle Munchies Cookie Dough UK - 101 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestlé</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nestle-munchies-cookie-dough-uk-101-g-candy-district-online-candy-store-canada.jpg?v=1603680959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestlé<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<h2 style="text-align: center;">Imported British Candy</h2>
+<p>Nestle Munchies Cookie Dough is a British candy you’ve just got to try. Love the taste of cookie dough? Look no further. Nestle’s created this flavour just for you. Expert Nestle chocolatiers at the company’s Newcastle factory came up with this heavenly cookie dough flavour.</p>
+<p>Delectable squares of chocolate and cookie dough goodness, Nestle Munchies Cookie Dough is the snack you’ll go for when you crave that classic comfort food taste. In each cube is soft cookie dough flavour and centre of crunchy biscuit.</p>
+<p>Pick up a few bags of Nestle Munchies Cookie Dough so you have enough to share with your family and friends.</p>
+</div>
+<div>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Creamy milk chocolate cubes encasing a soft cookie dough flavour and crunchy biscuit centre</span></li>
+<li><span class="a-list-item">No artificial colours flavours and preservatives</span></li>
+<li><span class="a-list-item">The ideal treat to share with family and friends</span></li>
+</ul>
+</div>
+<ul>
+<li><span>Popular Sharing Bag</span></li>
+<li><span>British Chocolate Candy</span></li>
+<li><strong>No Artificial Colours, Flavours or Preservatives</strong></li>
+</ul>
+<p><strong>90 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>British Chocolate Bars</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5995076780210</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.59</s:price>
+      <s:sku>02-2001017</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+</feed>

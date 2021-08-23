@@ -1,0 +1,1250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.candydistrict.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.candydistrict.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.candydistrict.com/collections/new-candy.atom"/>
+  <title>Candy District</title>
+  <updated>2021-08-19T11:37:01-04:00</updated>
+  <author>
+    <name>Candy District</name>
+  </author>
+  <entry>
+    <id>https://www.candydistrict.com/products/6964987789490</id>
+    <published>2021-08-19T11:37:01-04:00</published>
+    <updated>2021-08-19T11:37:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/brachs-candy-corn-11oz"/>
+    <title>Brach&apos;s Candy Corn - 11oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/brachs_classic_candy_corn_11oz_candy_district.jpg?v=1629387421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">The Classic Festive Candy!</h2>
+<p>     A timeless treat, these pieces of <strong>Brach's Classic Candy Corn</strong> are as yummy as the<strong> real honey</strong> that's used to make them! Get ready for Halloween by stocking up on this nostalgic candy that makes every autumn a little bit sweeter.</p>
+<h3>11oz / 312g | 1 bulk bag </h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_1900s</s:tag>
+    <s:tag>Halloween Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6964987789490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>01-1003028</s:sku>
+      <s:grams>311</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6963616219314</id>
+    <published>2021-08-18T16:51:33-04:00</published>
+    <updated>2021-08-18T16:51:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/millions-vimto-remix-35g"/>
+    <title>Millions Vimto Remix - 35g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Millions</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/millions_vimto_remix_35g_candy_district.jpg?v=1629319912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Millions<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1">A Delicious Collab Between Millions and Vimto</h2>
+<p>     These little drops are<strong> intensely juicy</strong> and full of flavour, <strong>Millions</strong> and <strong>Vimto</strong> did quite the bang-up job! Get the <strong>real fruit juice</strong> flavour of <strong>Mango</strong>, <strong>Strawberry</strong>, and <strong>Pineapple</strong> in every bite. </p>
+<p>     Make sure to share the <strong>Remix</strong> experience! Any fan of tropical fruity flavours needs to try these delicious sweets.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Natural Colour</strong></li>
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Contains Real Fruit Juice</strong></li>
+</ul>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">35g | 1 pouch</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6963616219314</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1003014</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6963322192050</id>
+    <published>2021-08-18T14:46:38-04:00</published>
+    <updated>2021-08-18T14:46:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/reeses-fast-break-bar-king-size-3-5oz"/>
+    <title>Reese&apos;s Fast Break Bar King Size - 3.5oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hersheys_reeses_fast_break_king_size_3.5oz_candy_district.jpg?v=1629312425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Better Way to Enjoy Reese's!</h2>
+<p>     A Candy District staff pick! This delicious chocolate bar takes <strong>Reese's</strong> to the next level; a <strong>layer of nougat</strong> rests underneath a <strong>thick center of Reese's Peanut Butter</strong>, all wrapped up in a <strong>smooth chocolate exterior</strong>. It only takes one bite to fall in love with this truly chewy, nutty, and chocolatey experience.</p>
+<p>     This king-sized bar was designed for sharing, but we won't judge you when you eat it all in one go! </p>
+<h3><strong>3.5oz / 99g | 1 king sized bar</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6963322192050</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>02-2001401</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6963297484978</id>
+    <published>2021-08-18T14:26:56-04:00</published>
+    <updated>2021-08-18T14:26:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/galaxy-minstrels-big-bag-66g"/>
+    <title>Galaxy Minstrels Big Bag - 66g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/mars_galaxy_minstrels_big_bag_66g_candy_district.jpg?v=1629311240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Simply the Smoothest!</h2>
+<p>     For the most luxurious chocolate on a dime,<span> </span><strong>Galaxy</strong><span> </span>is a<span> </span><strong>UK</strong><span> </span>specialty you don't want to miss out on! Their <strong>Minstrels</strong> consist of <strong>silky smooth milk chocolate</strong> wrapped in a <strong>decadent candy shell</strong>﻿, like M&amp;M's but so much better. A few bites in and you'll be wondering how you went your whole life without having tried them before!</p>
+<p>     Take your tastebuds on an adventure to a different land and introduce them to the mesmerizing taste of smooth Galaxy chocolate; they deserve it. Just don't forget to share!</p>
+<h3>66g | 1 pouch</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6963297484978</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.29</s:price>
+      <s:sku>02-2001406</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6963160481970</id>
+    <published>2021-08-18T12:55:35-04:00</published>
+    <updated>2021-08-18T12:55:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/revels-35g"/>
+    <title>Revels - 35g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/mars_revels_35g_candy_district.jpg?v=1629305752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1">The Treat That's Never Boring!</h2>
+<p>     If you're looking for something to spice up your late-night munchies stash, we've got just the treat for you! </p>
+<p>     <strong>Revels</strong> is a smooth chocolatey treat we<strong> imported straight from the UK</strong> with a fun surprise. Each bite-sized morsel has a <strong>different center every time</strong>! It's always a guessing game when you pop another into your mouth. Will you taste <strong>orange</strong>? <strong>Coffee</strong>? <strong>Raisin</strong>? Maybe you get a<strong> plain chocolate</strong> dud here and there, but there's the potential for <strong>Malteser</strong> or even creamy <strong>toffee</strong>! </p>
+<p>     Sounds like something that could only be thought up by Willy Wonka or a game show host! If you're a fan of variety or mystery, this is the perfect snack for you. </p>
+<h3>35g | 1 pouch</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6963160481970</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2001409</s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6963135676594</id>
+    <published>2021-08-18T12:30:34-04:00</published>
+    <updated>2021-08-18T12:30:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/galaxy-smooth-orange-bar-42g"/>
+    <title>Galaxy Smooth Orange Bar - 42g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/mars_galaxy_smooth_orange_bar_42g_candy_district.jpg?v=1629304260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Simply the Smoothest!</h2>
+<p>     For the most luxurious chocolate on a dime, <strong>Galaxy</strong> is a <strong>UK</strong> specialty you don't want to miss out on! Their <strong>Smooth Orange</strong> bar consists of <strong>fine milk chocolate</strong> infused with <strong>real orange oil</strong>, giving the chocolate a hint of delicious citrus flavour. </p>
+<p>     Take your tastebuds on an adventure to a different land and introduce them to the mesmerizing taste of a smooth Galaxy chocolate bar!</p>
+<h3>42g | 1 bar</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6963135676594</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2001434</s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6963081642162</id>
+    <published>2021-08-18T11:28:37-04:00</published>
+    <updated>2021-08-18T11:28:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/nestle-munchies-milk-chocolate-roll-51-9g"/>
+    <title>Nestle Munchies Milk Chocolate Roll - 51.9g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nestle_munchies_52g_candy_district.jpg?v=1629300534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle UK<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>A Delicious Sweet Brought Straight from the UK!</strong></h2>
+<p>     If you're ever on the go and need a quick treat to brighten up your day, why not try <strong>Nestle Munchies</strong>! <strong>Buttery, crunchy cookie</strong> center wrapped in <strong>smooth caramel</strong> and then coated in a <strong>rich milk chocolate</strong> exterior, this is a chocolatey sweet with layers of deliciousness. </p>
+<p>     So try something new and pop a couple of <strong>Munchies</strong> in your mouth. Just a fair warning, they're highly addictive!</p>
+<p><strong>51.9g | 1 roll</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6963081642162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2001438</s:sku>
+      <s:grams>52</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6962947162290</id>
+    <published>2021-08-18T09:34:56-04:00</published>
+    <updated>2021-08-18T09:34:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/kinder-chocolate-with-cereal-bar-uk-24g"/>
+    <title>Kinder Chocolate with Cereal Bar UK - 24g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Ferrero</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/ferrero_kinder_chocolate_with_cereals_24g_candy_district.jpg?v=1629293725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrero<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1">Add a Bit of Crunch to Your Kinder Delight!</h2>
+<p>     Whether you're a fan of <strong>Kinder</strong> chocolate or you just want a deliciously creamy treat with a twist, <strong>Kinder Chocolate with Cereals</strong> is sure to pop its way into your heart!</p>
+<p>     The <strong>silkiest smooth milk chocolate</strong> filled with a <strong>creamy milk center</strong> and then stuffed with <strong>5 kinds of popped cereal grains</strong> <span data-mce-fragment="1">(r</span><span data-mce-fragment="1">ice, buckwheat, barley, hulled wheat, and wheat), this is the kind of chocolatey delight that'll make your mouth water uncontrollably. No matter if this is your own personal treat or a gift for someone else to enjoy, it's a guaranteed smile every time!</span></p>
+<h3 data-mce-fragment="1"><strong data-mce-fragment="1">24g | 1 bar</strong></h3>
+<div data-mce-fragment="1"><strong data-mce-fragment="1"></strong></div>
+<div style="text-align: center;" data-mce-fragment="1"><strong data-mce-fragment="1">Imported Fresh From The UK!</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Kinder Chocolates</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6962947162290</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.29</s:price>
+      <s:sku>02-2001441</s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6960855318706</id>
+    <published>2021-08-17T16:59:44-04:00</published>
+    <updated>2021-08-17T16:59:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hersheys-kisses-vampire-filled-with-strawberry-creme-9oz"/>
+    <title>Hershey&apos;s Kisses Vampire Filled with Strawberry Creme - 9oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/hersheys_kisses_vampire_milk_chocolate_strawberry_creme_255g_candy_district.jpg?v=1629233984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">⚠️ Caution ⚠️: Deliciousness Ahead<br>
+</h2>
+<p>     Nothing is better than stumbling across a bowl full of <strong>Hershey's Kisses</strong>, just be careful, these ones have fangs! One bite and you'll feel a strange bloodlust take over your tastebuds, they're craving the <strong>sweet Strawberry creme</strong> that fills each of these tasty treats.</p>
+<p>     One Kiss, ah ah ah! Two Kisses, ah ah ah! You won't be able to stop yourself from reaching for number three, ah ah ah! Just keep these away from mom, she might just faint thinking her kids really turned into bloodsucking vampires!</p>
+<h3 data-mce-fragment="1"><strong data-mce-fragment="1">9oz / 255g | 1 bag</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Halloween Candy</s:tag>
+    <s:tag>hershey</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6960855318706</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>02-2001444</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6960785555634</id>
+    <published>2021-08-17T16:31:55-04:00</published>
+    <updated>2021-08-17T16:31:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ovation-break-a-parts-creme-de-coconut-5-53oz"/>
+    <title>Ovation Break-A-Parts Creme de Coconut - 5.53oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>SweetWorks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/sweetworks_ovation_break-a-parts_creme_de_coconut_157g_candy_district.jpg?v=1629232261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SweetWorks<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1">Break Open and Share!</h2>
+<p>     Open up a world full of deliciousness when you break apart every piece of this chocolate sphere! <strong>Ovation Break-A-Parts Creme de Coconut</strong> has a <strong>smooth milk chocolate shell</strong> and a <strong>creamy coconut filling</strong>, they're an absolute delight to share and indulge in. </p>
+<p>     So pop one of these down on the table to enjoy over after-dinner coffee and relish in the sweetness with your close friends and family.</p>
+<ul>
+<li><strong>Non-GMO </strong></li>
+</ul>
+<h3 data-mce-fragment="1"> 5.53oz / 157g | 1 box</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6960785555634</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>02-2001454</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6960774283442</id>
+    <published>2021-08-17T16:27:51-04:00</published>
+    <updated>2021-08-17T16:27:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ovation-break-a-parts-pumpkin-spice-5-53oz"/>
+    <title>Ovation Break-A-Parts Pumpkin Spice - 5.53oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>SweetWorks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/sweetworks_ovation_break-a-parts_pumpkin_spice_157g_candy_district.jpg?v=1629232022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SweetWorks<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1">Break Open and Share!</h2>
+<p>     It's our favourite fall-time flavour! Open up a world full of deliciousness when you break apart every piece of this chocolate sphere! <strong>Ovation Break-A-Parts Pumpkin Spice</strong> has a <strong>creamy Swiss milk chocolate shell</strong> and a <strong>Pumpkin Spice filling</strong>, they're an absolute delight to share and indulge in. </p>
+<p>     So pop one of these down on the table to enjoy over after-dinner coffee and relish in the sweetness with your close friends and family.</p>
+<ul>
+<li><strong>Non-GMO </strong></li>
+</ul>
+<h3 data-mce-fragment="1"> 5.53oz / 157g | 1 box</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6960774283442</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>02-2001453</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6960769761458</id>
+    <published>2021-08-17T16:21:43-04:00</published>
+    <updated>2021-08-17T16:21:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/ovation-break-a-parts-dark-chocolate-creme-de-mint-5-53oz"/>
+    <title>Ovation Break-A-Parts Dark Chocolate Creme de Mint - 5.53oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>SweetWorks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/sweetworks_ovation_break-a-parts_creme_de_mint_dark_chocolate_157g_candy_district.jpg?v=1629231762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SweetWorks<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1">Break Open and Share!</h2>
+<p>     Open up a world full of deliciousness when you break apart every piece of this chocolate sphere! <strong>Ovation Break-A-Parts Creme de Mint</strong> has a <strong>rich dark chocolate shell</strong> and a <strong>creamy mint filling</strong>, they're an absolute delight to share and indulge in. </p>
+<p>     So pop one of these down on the table to enjoy over after-dinner coffee and relish in the sweetness with your close friends and family.</p>
+<ul>
+<li><strong>Non-GMO </strong></li>
+</ul>
+<h3 data-mce-fragment="1"> 5.53oz / 157g | 1 box</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6960769761458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>02-2001452</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6960691740850</id>
+    <published>2021-08-17T15:47:00-04:00</published>
+    <updated>2021-08-17T15:47:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/russian-aero-coconut-30g"/>
+    <title>Russian Aero Coconut - 30g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nestle_aero_coconut_flavour_30g_candy_district.jpg?v=1629229573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Mounds of Bubbly Goodness!</h2>
+<p>     Imported directly from <strong>Russia</strong>, your favourite bubbly chocolate bar comes with an exotic twist! The creaminess of the <strong>smooth milk chocolate</strong> mixed with the <strong>warm, milky flavour of fresh Coconut</strong> is an experience you can only find here! So indulge yourself and let the bubbles slowly melt away on your tongue, it's the kind of deliciousness you can't regret.</p>
+<h2 data-mce-fragment="1"></h2>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">30g | 1 bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_Russian</s:tag>
+    <s:tag>Russian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6960691740850</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.39</s:price>
+      <s:sku>02-2001463</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6960689316018</id>
+    <published>2021-08-17T15:41:12-04:00</published>
+    <updated>2021-08-17T15:41:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/russian-aero-strawberry-30g"/>
+    <title>Russian Aero Strawberry - 30g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nestle_aero_strawberry_flavour_30g_candy_district.jpg?v=1629229311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Mounds of Bubbly Goodness!</h2>
+<p>     Imported directly from <strong>Russia</strong>, your favourite bubbly chocolate bar comes with a fruity twist! The creaminess of the <strong>smooth milk chocolate</strong> mixed with the <strong>juiciness of a freshly picked Strawberry</strong> is an experience you can only find here! So indulge yourself and let the bubbles slowly melt away on your tongue, it's the kind of deliciousness you can't regret.</p>
+<h2 data-mce-fragment="1"></h2>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">30g | 1 bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_Russian</s:tag>
+    <s:tag>Russian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6960689316018</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.39</s:price>
+      <s:sku>02-2001464</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6960545104050</id>
+    <published>2021-08-17T15:18:08-04:00</published>
+    <updated>2021-08-17T15:18:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/m-ms-cookies-screeem-1-41oz"/>
+    <title>M&amp;M&apos;s Cookies &amp; Screeem - 1.41oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars Wrigley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/mars_wrigley_m_and_ms_cookies_and_screeem_1.41oz_candy_district.jpg?v=1629226679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Wrigley<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;" data-mce-fragment="1">Goosebump-Inducing Flavour!</h2>
+<p>     This Halloween, a terrifying treat has caused some whispered rumours to spread across the globe. They say if you clap 3 times, say its name in the mirror at night, and have 13 lit candles nearby, you'll be haunted by a big red M&amp;M!</p>
+<p>     <strong>M&amp;M's Cookies &amp; Screeem</strong> are<strong> candy-coated bites </strong>filled with<strong> chocolate and white chocolate</strong> that blend together to give you a <strong>hauntingly sweet cookies and cream flavour</strong>. You'd best eat these quickly, it might be the only way to make that scary M&amp;M go away!</p>
+<h2 style="text-align: center;" data-mce-style="text-align: center;" data-mce-fragment="1"></h2>
+<h3 style="text-align: left;" data-mce-style="text-align: left;" data-mce-fragment="1"><strong data-mce-fragment="1">1.41oz / 40g | 1 pouch</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>2020s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Halloween Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>M&amp;M</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6960545104050</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2001459</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6960343679154</id>
+    <published>2021-08-17T14:07:39-04:00</published>
+    <updated>2021-08-17T14:07:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/sour-punch-spooky-straws-3-7oz"/>
+    <title>Sour Punch Spooky Straws - 3.7oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>American Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/american_licorice_sour_punch_spooky_straws_3.7oz_candy_district.jpg?v=1629223375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Sweet Halloween Treat</h2>
+<p>     Get ready for a sweet treat that'll spook your tastebuds right off! <strong>Sour Punch Spooky Straws</strong> are delightfully tangy, coming in the delicious flavours of <strong>Apple</strong>, <strong>Tangerine</strong>, and <strong>Grape</strong>. </p>
+<ul>
+<li><strong>Low Fat</strong></li>
+<li><strong>Low Sodium</strong></li>
+<li><strong>Kosher &amp; Halal Certified</strong></li>
+</ul>
+<p><strong>3.7oz / 105g | 1 pack</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6960343679154</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1003024</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6960333291698</id>
+    <published>2021-08-17T13:34:41-04:00</published>
+    <updated>2021-08-17T13:34:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/hawaiian-punch-cotton-candy-1-5oz"/>
+    <title>Hawaiian Punch Cotton Candy - 1.5oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Taste of Nature</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/taste_of_nature_hawaiian_punch_cotton_candy_1.5oz_candy_district.jpg?v=1629221709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taste of Nature<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;" data-mce-fragment="1">A Great Fluffy Treat for All!</h2>
+<p>     <strong>Hawaiian Punch Cotton Candy</strong> is a delicious fluffy treat with a juicy taste you've never experienced before! Surf the Hawaiian waves of <strong>Fruit Juicy Red</strong> flavour with every bite of this handspun candy.</p>
+<p>     If you've ever had <strong>Hawaiian Punch</strong> chewy candy before, you'll love the same great flavour in every bag of this super sweet cotton candy. It's the perfect sweet to share with friends!</p>
+<h2 data-mce-fragment="1"></h2>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Gluten-Free</strong></li>
+<li data-mce-fragment="1"><strong>Fat-Free</strong></li>
+<li data-mce-fragment="1"><strong>No Cholesterol</strong></li>
+</ul>
+<h5 data-mce-fragment="1"><strong data-mce-fragment="1"></strong></h5>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">1.5oz / 42.5g | 1 bag</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Cotton Candy</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Cotton Candy</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6960333291698</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>01-1003032</s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6960280633522</id>
+    <published>2021-08-17T13:08:37-04:00</published>
+    <updated>2021-08-17T13:08:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/sour-punch-mini-bites-rad-reds-pouch-3-5oz"/>
+    <title>Sour Punch Mini Bites Rad Reds Pouch - 3.5oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>American Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/american_licorice_sour_punch_mini_bites_rad_reds_3.5oz_candy_district.jpg?v=1629220095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Punch of Sour Juiciness!</h2>
+<p>     The classic taste of Sour Punch is back with a tiny twist! <strong>Sour Punch Mini Bites Rad Reds</strong> come in a variety of your favourite red fruit flavours like <strong>Strawberry</strong>, <strong>Watermelon</strong>, and <strong>Cherry</strong>. </p>
+<p>     Soft and chewy, these tangy snacks will wash your tastebuds with a familiar wave of juiciness in every bite. The resealable pack they come in is perfect for sharing with all your loved ones and small enough to fit in any pocket or bag! <br></p>
+<ul>
+<li><strong>Low Fat</strong></li>
+<li><strong>Low Sodium</strong></li>
+<li><strong>Kosher &amp; Halal Certified</strong></li>
+</ul>
+<p><strong>3.5oz / 100g | 1 pack</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6960280633522</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1003033</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6960171221170</id>
+    <published>2021-08-17T12:01:26-04:00</published>
+    <updated>2021-08-17T12:01:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/oreo-salted-caramel-brownie-12oz"/>
+    <title>Oreo Salted Caramel Brownie - 12oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Nabisco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nabisco_salted_caramel_brownie_oreo_12oz_candy_district.jpg?v=1629216024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nabisco<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><span data-mce-fragment="1">Our Favourite Dessert - Now in an Oreo!</span></h2>
+<p><span data-mce-fragment="1">     These have got to be the tastiest <strong>Oreos</strong> we've ever tried! <strong>Salted Caramel Brownie Oreos</strong> are topped off with<strong> flakes of savoury sea salt</strong> and filled to the edges with <strong>delicious caramel and brownie flavoured creme</strong>. Yes, you read that right, Oreos topped with salt! The saltiness blends perfectly with the chocolatey cookie and flavourful creme to give you a little taste of heaven on Earth. </span></p>
+<p><span data-mce-fragment="1">     They really taste just like<strong> Salted Caramel Brownies</strong>! It's truly hard to stop at just one and believe us, we tried. Just make sure you pick up a pack soon, these are exclusive <strong>limited-edition</strong> treats that may be gone forever, so don't miss out!</span></p>
+<h3><span data-mce-fragment="1">12oz / 345g | 1 pack</span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Snacks</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Oreo</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Cookies</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6960171221170</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>03-3001315</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6960112926898</id>
+    <published>2021-08-17T11:25:13-04:00</published>
+    <updated>2021-08-17T11:25:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/chips-ahoy-hersheys-fudge-filled-cookies"/>
+    <title>Chips Ahoy! Hershey&apos;s Fudge Filled Cookies</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Nabisco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/nabisco_chewy_chips_ahoy_hersheys_fudge_filled_soft_cookies_9.6oz_candy_district.jpg?v=1629213900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nabisco<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1">Only Available For a Limited Time!</h2>
+<p>     Delicious, <strong>soft, chocolate chip cookies</strong> are one of life's great pleasures, but what if you could make them even better? Thankfully <strong>Chips Ahoy!</strong> has done just that for us!</p>
+<p>     <strong>Buttery and chewy</strong>, these cookies have a special surprise that adds a burst of rich flavour to each bite; it's <strong>Hershey's Fudge!</strong> Enjoy the <strong>smooth fudge</strong> that oozes out of each cookie, it's the kind of treat that's super hard to resist. </p>
+<p>     Whether you decide to eat them dipped in milk, poking out of your sundae, or all on their own, these tasty cookies filled edge-to-edge with fudge won't disappoint. You should definitely hurry, however; these cookies are a <strong>limited edition</strong> item, so grab them while they're still hot!</p>
+<p style="text-align: center;"><strong>Pro-tip:</strong> <strong>Quickly warm these cookies up for levels of deliciousness that are unheard of!</strong></p>
+<h3>9.6oz / 272g | 1 pack</h3>
+<h2 data-mce-fragment="1"></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Snacks</s:tag>
+    <s:tag>Chips Ahoy!</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Cookies</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6960112926898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>03-3001323</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6948647796914</id>
+    <published>2021-08-11T17:53:19-04:00</published>
+    <updated>2021-08-11T17:53:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/kit-kat-fruity-cereal-1-5oz"/>
+    <title>Kit Kat Fruity Cereal - 1.5oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/kit_kat_fruity_cereal_chocolate_bar_42g_candy_district.jpg?v=1628718783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">A Brand NEW Way to Take a Break!</h2>
+<p data-mce-fragment="1">     Nothing's better than the nostalgic taste of a bowl full of Froot Loops cereal on a Saturday morning. Maybe adding a delicious, crunchy wafer into the mix makes for a close second, though!</p>
+<p data-mce-fragment="1">     <strong data-mce-fragment="1">Kit Kat</strong> has come dressed up in an all-new flavour, each bite delivering a whole bowl of <strong data-mce-fragment="1">Fruity Cereal</strong> flavour. Creamy creme flavoured like a bowl of Fruity Pebbles envelops the tasty wafer you love so much. So you can forget the milk and the bowl, just unwrap one of these bars to get your cereal fix!</p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<h3 data-mce-fragment="1">1.5oz / 42g | 1 bar</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6948647796914</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2001449</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6939061616818</id>
+    <published>2021-08-06T14:45:12-04:00</published>
+    <updated>2021-08-06T14:45:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/rocky-road-sea-salt-1-8oz"/>
+    <title>Rocky Road Sea Salt - 1.8oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Annabelle Candy Co. Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/annabelles_rocky_road_sea_salt_bar_1.8oz_candy_district1.jpg?v=1628275149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Annabelle Candy Co. Inc.<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">The Original Marshmallow in Chocolate - Now Salted!</h2>
+<p>     One bite into this fluffy and crunchy delight, and you won't want another marshmallow treat! <strong>Annabelle's Rocky Road Sea Salt</strong> has a<strong> soft marshmallow center</strong>,<strong></strong> enveloped by<strong> rich dark chocolate</strong>, and topped with <strong>bits of cashews</strong> and flakes of <strong>sea salt</strong>. Indulge yourself with a little treat; although they're so delicious, it's hard to stop at just one!</p>
+<p> </p>
+<h3>1.8oz | 1 bar</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Era_1950s</s:tag>
+    <s:tag>Marshmallow</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Marshmallow</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6939061616818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2001181</s:sku>
+      <s:grams>52</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934712352946</id>
+    <published>2021-08-06T14:30:28-04:00</published>
+    <updated>2021-08-06T14:30:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/rocky-road-smores-1-8oz"/>
+    <title>Rocky Road S&apos;mores - 1.8oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Annabelle Candy Co. Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/annabelles_rocky_road_smores_bar_1.8oz_candy_district.jpg?v=1628193255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Annabelle Candy Co. Inc.<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">The Original Marshmallow in Chocolate - S'mores Edition!</h2>
+<p>     One bite into this fluffy and crunchy delight, and you won't want another marshmallow treat! <strong>Annabelle's Rocky Road S'mores</strong> has a<strong> soft marshmallow center </strong>stuffed with<strong> Real Graham Cracker</strong>, then enveloped by<strong> smooth, rich milk chocolate</strong> with <strong>bits of cashews</strong> sprinkled within. Indulge yourself with a little treat; although they're so delicious, it's hard to stop at just one!</p>
+<p> </p>
+<h3>1.8oz | 1 bar</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Era_1950s</s:tag>
+    <s:tag>Marshmallow</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Marshmallow</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934712352946</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2001182</s:sku>
+      <s:grams>52</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934667329714</id>
+    <published>2021-08-05T14:42:10-04:00</published>
+    <updated>2021-08-05T14:42:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/gerrits-broadway-on-wheels-black-licorice-5-29oz"/>
+    <title>Gerrit&apos;s Broadway on Wheels Black Licorice - 5.29oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Gerrit J. Verburg Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/gerrits_broadway_on_wheels_licorice_150g_candy_district.jpg?v=1628188956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gerrit J. Verburg Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;" data-mce-fragment="1"><span data-mce-fragment="1">Perfect for the Ultimate Licorice-Lover!</span></h2>
+<p data-mce-fragment="1">     Any fan of licorice will love <strong>Gerrit's Broadway on Wheels Licorice</strong>! Made with <strong>natural flavours</strong>, these <strong>Italian-made</strong> treats are delicious and will warm your belly and heart. Whether you unravel the chewy, sweet licorice wheel and eat it bit by bit or take one big bite right out of the side of the wheel, this classic candy will always taste fresh and scrumptious!</p>
+<p data-mce-fragment="1"> </p>
+<h3 data-mce-fragment="1"><strong data-mce-fragment="1">5.29oz / 150g | 1 peg bag</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>Italian</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_Italian</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Type_Licorice</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934667329714</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1000728</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934625452210</id>
+    <published>2021-08-05T14:24:45-04:00</published>
+    <updated>2021-08-05T14:24:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/starburst-fruit-chews-duos-2-07oz"/>
+    <title>Starburst Fruit Chews Duos - 2.07oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wrigley JR. Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/wrigley_jr_co_starburst_duos_fruit_chews_2.07oz_candy_district.jpg?v=1628186959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrigley JR. Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Two Flavours in Each Bite!</span></h2>
+<p><span>     When you want a chewy treat that's bursting with two delicious flavours in one package, <strong>Starburst Duos</strong> are here to deliver! Each fruit chew is half of one flavour and half of another so you get double the fantastic taste every bite you take. With flavours like <strong>Strawberry-Watermelon</strong> and<strong> Blue Raspberry-Lemonade</strong>, we know you won't be able to resist going for another!<br><br></span></p>
+<h3><strong>2.07oz / 58.7g | 1 pack</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Starburst</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Taffy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934625452210</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.39</s:price>
+      <s:sku>01-1002258</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.candydistrict.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.candydistrict.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.candydistrict.com/collections/licorice-candy.atom"/>
+  <title>Candy District</title>
+  <updated>2021-08-05T14:51:59-04:00</updated>
+  <author>
+    <name>Candy District</name>
+  </author>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934668214450</id>
+    <published>2021-08-05T14:51:59-04:00</published>
+    <updated>2021-08-05T14:51:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/gerrits-broadway-on-wheels-strawberry-licorice-5-29oz"/>
+    <title>Gerrit&apos;s Broadway on Wheels Strawberry Licorice - 5.29oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Gerrit J. Verburg Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/gerrits_broadway_on_wheels_strawberry_licorice_150g_candy_district.jpg?v=1628189066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gerrit J. Verburg Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><span data-mce-fragment="1">Perfect for the Ultimate Strawberry Licorice-Lover!</span></h2>
+<p data-mce-fragment="1">     Any fan of licorice will love <strong>Gerrit's Broadway on Wheels Strawberry Licorice</strong>! Made with <strong>juicy strawberry flavour</strong>, these <strong>Italian-made</strong> treats are delicious and will warm your belly and heart. Whether you unravel the chewy, sweet strawberry licorice wheel and eat it bit by bit or take one big bite right out of the side of the wheel, this classic candy will always taste fresh and scrumptious!</p>
+<p data-mce-fragment="1"> </p>
+<h3 data-mce-fragment="1"><strong data-mce-fragment="1">5.29oz / 150g | 1 peg bag</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>Italian</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_Italian</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Type_Licorice</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934668214450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1000729</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6934667329714</id>
+    <published>2021-08-05T14:42:10-04:00</published>
+    <updated>2021-08-05T14:42:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/gerrits-broadway-on-wheels-black-licorice-5-29oz"/>
+    <title>Gerrit&apos;s Broadway on Wheels Black Licorice - 5.29oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Gerrit J. Verburg Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/gerrits_broadway_on_wheels_licorice_150g_candy_district.jpg?v=1628188956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gerrit J. Verburg Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;" data-mce-fragment="1"><span data-mce-fragment="1">Perfect for the Ultimate Licorice-Lover!</span></h2>
+<p data-mce-fragment="1">     Any fan of licorice will love <strong>Gerrit's Broadway on Wheels Licorice</strong>! Made with <strong>natural flavours</strong>, these <strong>Italian-made</strong> treats are delicious and will warm your belly and heart. Whether you unravel the chewy, sweet licorice wheel and eat it bit by bit or take one big bite right out of the side of the wheel, this classic candy will always taste fresh and scrumptious!</p>
+<p data-mce-fragment="1"> </p>
+<h3 data-mce-fragment="1"><strong data-mce-fragment="1">5.29oz / 150g | 1 peg bag</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>Italian</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_Italian</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Type_Licorice</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6934667329714</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1000728</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6539009425586</id>
+    <published>2021-02-25T18:49:32-05:00</published>
+    <updated>2021-02-25T18:49:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/sour-punch-pineapple-mango-chili-straws-2-oz"/>
+    <title>Sour Punch Pineapple Mango Chili Straws - 2 oz.</title>
+    <s:type>Candy</s:type>
+    <s:vendor>American Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/sour-punch-pineapple-mango-chili-straws-american-licorice-halal-candy-district-online-candy-store-canada.jpg?v=1618802513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Sour Licorice Candy</h2>
+<ul>
+<li>American Candy</li>
+<li>Nostalgic Candy from the 90s</li>
+<li>Halal</li>
+<li>Kosher</li>
+</ul>
+<p><strong>2 oz. Pack | 24 Count Box</strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Sour Candy Shipped Fast!</strong></h3>
+<p><strong>Ingredients:</strong></p>
+<div class="a-section content">
+<p><span>CORN SYRUP, HIGH FRUCTOSE CORN SYRUP, WHEAT FLOUR, SUGAR, CITRIC ACID, MALIC ACID, TARTARIC ACID, GLYCERYL MONOSTEARATE, GLYCERIN, ARTIFICIAL FLAVOR, COLOR ADDED YELLOW 6</span></p>
+</div>
+<p>Allergen Information: Contains Wheat</p>
+<p>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Sour Punch</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6539009425586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.69</s:price>
+      <s:sku>01-1002216</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6538954408114</id>
+    <published>2021-02-25T17:43:42-05:00</published>
+    <updated>2021-02-25T17:43:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/sour-punch-cherry-straws-2-oz"/>
+    <title>Sour Punch Cherry Straws - 2 oz.</title>
+    <s:type>Candy</s:type>
+    <s:vendor>American Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/sour-punch-cherry-straws-24ct-american-licorice-halal-2oz.-candy-district-online-candy-store-canada.jpg?v=1618802398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Sour licorice candy straws with a punch!</h2>
+<h3 style="text-align: center;">Candy from the 90s</h3>
+<p>Sour cherry is a favourite flavour that is used in a number of sweet treats. Thanks to its sweet flavour, it is often undercut by just a bit of tartness for a more complex flavour. With the Sour Punch Cherry Straws, you can enjoy the taste of cherry with the tartness of sour candy flavour crystals that eventually dissolve away as you chew to leave behind that classic fruity taste. The texture of this sour candy from the 90s is chewy and soft, helping the flavour to last longer with each bite. Sour Punch Cherry Straws is both a kosher and halal candy to make them okay for almost many dietary lifestyles Enjoy them either in a single pack or stock up with a 24-count box for the pantry.</p>
+<ul>
+<li>American Candy</li>
+<li>Nostalgic Candy from the 90s</li>
+<li>Halal</li>
+<li>Kosher</li>
+</ul>
+<p><strong>2 oz. Pack </strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Sour Candy Shipped Fast!</strong></h3>
+<p><strong>Ingredients:</strong></p>
+<div class="a-section content">
+<p>Corn Syrup, Wheat Flour, Sugar, Lactose, Citric Acid, Malic Acid, Tartaric Acid, Glyceryl Monostearate, Glycerine, Artificial Flavors, Color Added (Including Red 40).</p>
+</div>
+<p>Allergen Information: Contains Wheat</p>
+<p>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Sour Punch</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6538954408114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.69</s:price>
+      <s:sku>01-1002209</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6538483663026</id>
+    <published>2021-02-25T10:52:47-05:00</published>
+    <updated>2021-02-25T10:52:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/sour-punch-rainbow-straws-2-oz"/>
+    <title>Sour Punch Rainbow Straws - 2 oz.</title>
+    <s:type>Candy</s:type>
+    <s:vendor>American Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/sour-punch-rainbow-straws-2oz-american-licorice-halal-2oz.-candy-district-online-candy-store-canada.jpg?v=1618802580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Sour licorice candy straw with a rainbow punch!</h2>
+<h3 style="text-align: center;">Candy from the 90s</h3>
+<p>A rainbow of flavours is waiting for you to enjoy with these Sour Punch Rainbow Straws. Instead of confining yourself to only one fruity flavour variety of Sour Punch straws, you can experience a burst of vibrant and diverse flavours with each bite. The straws feature bright citrus, blue raspberry and cherry flavours that will make each bite a tangy and flavourful one. Covered in the sour flavour crystals, they have a mouth-puckering feel that will eventually dissolve into that sweet flavour. These Sour Punch Rainbow Straws are both kosher and halal candy. Get either a single pack or stock up with a 24-count box!</p>
+<ul>
+<li>American Candy</li>
+<li>Nostalgic Candy from the 90s</li>
+<li>Halal</li>
+<li>Kosher</li>
+</ul>
+<p><strong>2 oz. Pack </strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Sour Candy Shipped Fast!</strong></h3>
+<p><strong>Ingredients:</strong></p>
+<p><span>CORN SYRUP, HIGH FRUCTOSE CORN SYRUP, WHEAT FLOUR, SUGAR, CITRIC ACID, MALIC ACID, TARTARIC ACID, GLYCERYL MONOSTEARATE, GLYCERIN, ARTIFICIAL FLAVORS, COLORS ADDED BLUE 1, YELLOW 5 (TARTRAZINE) AND RED 40</span></p>
+<p>Allergen Information: Contains Wheat</p>
+<p>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Sour Punch</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6538483663026</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.69</s:price>
+      <s:sku>01-1002217</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6538467868850</id>
+    <published>2021-02-25T10:39:16-05:00</published>
+    <updated>2021-02-25T10:39:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/sour-punch-strawberry-straws-2-oz"/>
+    <title>Sour Punch Strawberry Straws - 2 oz.</title>
+    <s:type>Candy</s:type>
+    <s:vendor>American Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/sour-punch-strawberry-straws-2oz-american-licorice-halal-2oz.-candy-district-online-candy-store-canada.jpg?v=1618802646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Sour candy straws with a strawberry punch!</h2>
+<h3 style="text-align: center;">Candy from the 90s</h3>
+<p>The classic taste of slightly tart, slightly sweet strawberry is a popular one that we all love. With these Sour Punch Strawberry Straws, you can enjoy this classic flavour as a sour candy with flavour crystals that add a sharpness to the sweet and subtle strawberry flavour. The sourness will melt in your mouth as you eat the chewy candy straws and then dissolve to the sweet taste of strawberry. This sour candy from the 90s has retained its popularity so you know it's good! Grab a single pack or stock up with a 24-count box for sharing with family and friends.</p>
+<ul>
+<li>American Candy</li>
+<li>Nostalgic Candy from the 90s</li>
+<li>Halal</li>
+<li>Kosher</li>
+</ul>
+<p><strong>2 oz. Pack </strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Sour Candy Shipped Fast!</strong></h3>
+<p><strong>Ingredients:</strong></p>
+<p><span>Corn Syrup, Wheat Flour, Sugar, Citric Acid, Malic Acid, Tartaric Acid, Glyceryl Monostearate, Glycerine, Artificial Flavor, Artificial Color Added (Including Red 40).</span></p>
+<p>Allergen Information: Contains Wheat</p>
+<p>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Sour Punch</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6538467868850</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.69</s:price>
+      <s:sku>01-1002220</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6537634382002</id>
+    <published>2021-02-25T10:27:46-05:00</published>
+    <updated>2021-02-25T10:27:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/sour-punch-watermelon-straws-2-oz"/>
+    <title>Sour Punch Watermelon Straws - 2 oz.</title>
+    <s:type>Candy</s:type>
+    <s:vendor>American Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/sour-punch-watermelon-straws-american-licorice-halal-2oz.-candy-district-online-candy-store-canada.jpg?v=1618802718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Sour candy straws with a watermelon punch!</h2>
+<h3 style="text-align: center;">Candy from the 90s</h3>
+<p>Sour Punch Straws are a popular candy from the 90s and they have yet to lose their popularity. Even now, all of the many flavours they come in make them an enticing American candy that is still commonly purchased today. These Sour Punch Watermelon Straws take that classic chewy texture of this candy and infuse it with the lightly sweet, refreshing and summery taste of watermelon flavour for an excitingly vibrant and delicious flavour option. They are both halal and kosher, making them ideal for diets of most kinds. You can choose to get the Sour Punch Watermelon Straws in either a single pack or stock up with a 24-count box that will help you save plenty of money on the treats.</p>
+<ul>
+<li>American Candy</li>
+<li>Nostalgic Candy from the 90s</li>
+<li>Halal</li>
+<li>Kosher</li>
+</ul>
+<p><strong>2 oz. Pack</strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Sour Candy Shipped Fast!</strong></h3>
+<p><strong>Ingredients:</strong></p>
+<p><span>Corn Syrup, Wheat Flour, Sugar, Citric Acid, Malic Acid, Tartaric Acid, Glyceryl Monostearate, Glycerine, Artificial Flavor, Artificial Color Added (Including Red 40). </span></p>
+<p>Allergen Information: Contains Wheat</p>
+<p>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Sour Punch</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6537634382002</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">1.69</s:price>
+      <s:sku>01-1002222</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6537623765170</id>
+    <published>2021-02-25T00:58:06-05:00</published>
+    <updated>2021-02-25T00:58:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/sour-punch-apple-straws-2-oz"/>
+    <title>Sour Punch Apple Straws - 2 oz.</title>
+    <s:type>Candy</s:type>
+    <s:vendor>American Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/sour-punch-apple-straws-american-licorice-halal-2oz-candy-district-online-candy-store-canada.jpg?v=1618802281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Sour Licorice Candy</h2>
+<h3 style="text-align: center;">Candy from the 90s</h3>
+<p><span>An ultra-sour, mouth-puckering experience is waiting to electrify your senses when you bite into these Sour Punch Apple Straws. An American sour candy from the 90s,, these apple straws feature that classic chewy texture, releasing flavour with each and every bite. Coating the green apple-flavoured licorice are sour crystals that bring that sharp, tangy taste you love that slowly sweetens as you eat them. You can choose to get one two-ounce packet to try out individually or stock up with a 24 count box.</span></p>
+<ul>
+<li>American Candy</li>
+<li>Nostalgic Candy from the 90s</li>
+<li>Halal</li>
+<li>Kosher</li>
+</ul>
+<p><strong>2 oz. Pack </strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Sour Candy Shipped Fast!</strong></h3>
+<p><strong>Ingredients:</strong></p>
+<p>Corn Syrup, Wheat Flour, Sugar, Citric Acid, Malic Acid, Tartaric Acid, Glyceryl Monostearate, Glycerine, Artificial Flavor, Artificial Color Added (Including Blue 1, Blue 1 Lake, Yellow 5 (Tartrazine), Yellow 5 Lake).</p>
+<p>Allergen Information: Contains Wheat</p>
+<p>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Sour Punch</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6537623765170</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">1.69</s:price>
+      <s:sku>01-1002199</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6537602433202</id>
+    <published>2021-02-25T00:38:21-05:00</published>
+    <updated>2021-02-25T00:38:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/sour-punch-grape-straws-2-oz"/>
+    <title>Sour Punch Grape Straws - 2 oz.</title>
+    <s:type>Candy</s:type>
+    <s:vendor>American Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/sour-punch-grape-straws-american-licorice-halal-candy-district-online-candy-store-canada.jpg?v=1618802468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Sour licorice candy straws with a grape punch!</h2>
+<h3 style="text-align: center;">Candy from the 90s</h3>
+<p><span>Sour candy has a way of grabbing onto the senses and taking them on a wild ride from the moment they hit your tongue until the moment you swallow. These Sour Punch Grape Straws are no different at all with their tangy, fruity flavour and mouth-puckering sour candy crystal coating. This American licorice candy treat brings you that classic chew that you love and will release rich grape flavour with each bite. The sour crystals covering the licorice candy offer the sharp tang of this treat and will eventually dissolve and sweeten, leaving only the grape taste behind.</span></p>
+<ul>
+<li>American Candy</li>
+<li>Nostalgic Candy from the 90s</li>
+<li>Halal</li>
+<li>Kosher</li>
+</ul>
+<p><strong>2 oz. Pack </strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Licorice Candy Shipped Fast!</strong></h3>
+<p><strong>Ingredients:</strong></p>
+<p>CORN SYRUP, HIGH FRUCTOSE CORN SYRUP, WHEAT FLOUR, SUGAR, CITRIC ACID, MALIC ACID, TARTARIC ACID, GLYCERYL MONOSTEARATE, GLYCERIN, ARTIFICIAL FLAVOR, COLORS ADDED RED 40 AND BLUE 1</p>
+<p><strong>ALLERGEN INFORMATION:</strong><span> </span>CONTAINS WHEAT <br>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Sour Punch</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6537602433202</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">1.69</s:price>
+      <s:sku>01-1002213</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6537583493298</id>
+    <published>2021-02-25T00:21:21-05:00</published>
+    <updated>2021-02-25T00:21:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/sour-punch-blue-raspberry-straws-2-oz"/>
+    <title>Sour Punch Blue Raspberry Straws - 2 oz.</title>
+    <s:type>Candy</s:type>
+    <s:vendor>American Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/sour-punch-blue-raspberry-straws-american-licorice-halal-candy-district-online-candy-store-canada.jpg?v=1618802333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Sour Licorice Candy</h2>
+<h3 style="text-align: center;">Candy from the 90s</h3>
+<p><span>Blue raspberry is a famously sour candy flavour no matter what it is infused into, and with the Sour Punch Blue Raspberry Straws, you'll be able to see that for yourself. Not only are these candies already sour with their raspberry flavour, but the crystal coating along the length of them packs an even more powerful punch. They are licorice candies, so you can be sure you'll be familiar with the delightfully chewy texture that you know and love. Choose to get them in a single two-ounce pack or stock up with a bulk 24 count box.</span></p>
+<ul>
+<li>American Candy</li>
+<li>Nostalgic Candy from the 90s</li>
+<li>Halal</li>
+<li>Kosher</li>
+</ul>
+<p><strong>2 oz. Pack </strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Licorice Candy Shipped Fast!</strong></h3>
+<p><strong>Ingredients:</strong></p>
+<p>Corn Syrup, Wheat Flour, Sugar, Citric Acid, Malic Acid, Tartaric Acid, Glyceryl Monostearate, Glycerine, Artificial Flavor, Color Added (Including Blue 1, Blue 1 Blue 2).</p>
+<p>Allergen Information: Contains Wheat</p>
+<p>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Halal Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Sour Punch</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6537583493298</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.69</s:price>
+      <s:sku>01-1002208</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6246129893554</id>
+    <published>2021-02-07T22:29:50-05:00</published>
+    <updated>2021-02-07T22:29:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/warheads-ooze-chewz-ropes-85-g"/>
+    <title>WarHeads Ooze Chewz Ropes - 85 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Warheads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/warheads-ooze-chewz-ropes-85-g-candy-district-online-candy-store-canads.jpg?v=1612755126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warheads<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="product-block-list__item product-block-list__item--description">
+<div data-mce-fragment="1" class="card">
+<div data-mce-fragment="1" class="card__section">
+<div data-mce-fragment="1" class="rte text--pull">
+<h2 style="text-align: center;">Sour Chewy Candy Filled With Ooze</h2>
+<div style="text-align: center;">You'll be bursting with joy with this yummy sour candy! The Warheads Ooze Chewz Ropes Sour candies are a fun and chewy candy that is filled with six fantastically sour and fruity flavours like, Mango, Strawberry, Blue Raspberry, Black Cherry, Watermelon and Green Apple. You'll love them all!</div>
+<div style="text-align: center;"><strong>Become one, with that awesome sour "ooze" with the Warheads Ooze Chews Ropes!</strong></div>
+</div>
+<div data-mce-fragment="1" class="rte text--pull"><strong>85 g</strong></div>
+<div data-mce-fragment="1" class="rte text--pull">
+<strong></strong><br>
+</div>
+<div data-mce-fragment="1" class="rte text--pull"><strong><span class="subTitle font-bold">Ingredients:<span> </span></span></strong></div>
+<div data-mce-fragment="1" class="rte text--pull"><span class="aboutModuleText">Sugar, Corn Syrup, Wheat Flour, Water, Citric Acid, Sorbitol, Maltodextrin, Sodium Citrate, Glycerin, Gelatin, Natural &amp; Artificial Flavors, Salt, Confectioner's Glaze, Red 40, Yellow 5, Blue 1.</span></div>
+<div data-mce-fragment="1" class="rte text--pull"><span class="aboutModuleText"><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></span></div>
+</div>
+</div>
+</div>
+<div data-mce-fragment="1" class="product-block-list__item product-block-list__item--trust">
+<div data-mce-fragment="1" class="card">
+<div data-mce-fragment="1" class="card__header card__header--flex"></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Warheads</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6246129893554</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1002646</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6101453209778</id>
+    <published>2020-11-26T14:05:30-05:00</published>
+    <updated>2020-11-26T14:05:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/panda-natural-strawberry-licorice-170-g"/>
+    <title>Panda Natural Strawberry Licorice - 170 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Panda Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/panda-natural-strawberry-licorice-170-g-candy-district-online-candy-shop-canada.jpg?v=1606417767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Panda Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Natural Strawberry Licorice Candy</h2>
+<p><span>With its scarlet sweetness, the Panda Natural Strawberry Licorice is certainly in a class of its own!</span></p>
+<div>Made with love and only carefully selected natural ingredients, this licorice promises to delight those licorice loving tastebuds!</div>
+<div>The soft and chewy texture of this licorice makes the real strawberry flavour all the more succulent and luscious tasting.</div>
+<div>The sweetest strawberry secret is right here, discover the joy of this authentic licorice with the Panda Natural Strawberry Licorice!</div>
+<ul>
+<li><span>Made in Finland Since 1927</span></li>
+<li><span>Vegan</span></li>
+<li><span>Kosher</span></li>
+<li><span>Non-GMO</span></li>
+</ul>
+<p><strong>170 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Exotic Snacks</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Non GMO</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6101453209778</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>01-1001599</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6101444165810</id>
+    <published>2020-11-26T13:59:35-05:00</published>
+    <updated>2020-11-26T13:59:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/panda-natural-raspberry-licorice-170-g"/>
+    <title>Panda Natural Raspberry Licorice - 170 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Panda Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/panda-natural-raspberry-licorice-170-g-candy-district-online-candy-shop-canada.jpg?v=1606417459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Panda Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Natural Raspberry Licorice Candy</h2>
+<p><span>Bursting with the fresh taste of pure Raspberry, the Panda Natural Raspberry Licorice will take your tastebuds on a sweet and blissful journey!</span></p>
+<div>Since 1927, Panda has been making their famous all-natural licorice using only carefully selected ingredients.</div>
+<div>Made with real raspberry puree, this Licorice will quickly become your new favourite!</div>
+<div> Let the authentic fruity raspberry taste be abundantly yours with the Panda Natural Rasberry Licorice!</div>
+<ul>
+<li><span>Made in Finland Since 1927</span></li>
+<li><span>Vegan</span></li>
+<li><span>Kosher</span></li>
+</ul>
+<p><strong>170 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Exotic Snacks</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6101444165810</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>01-1001598</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6101433614514</id>
+    <published>2020-11-26T13:52:01-05:00</published>
+    <updated>2020-11-26T13:52:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/panda-natural-black-licorice-bears-125-g"/>
+    <title>Panda Natural Black Licorice Bears - 125 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Panda Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/panda-natural-black-licorice-bears-125-g-candy-district-online-candy-shop-canada.jpg?v=1606416829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Panda Licorice<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Natural Black Licorice Candy</h2>
+<p><span>Bears are always cute and cuddly, but not these bears! They're just downright yummy! </span></p>
+<div>The Panda Natural Black Licorice Bears are not only cute but are made with all-natural ingredients for that authentic black licorice taste. </div>
+<div>These little bears are so soft and chewy, before you know it you've eaten the daddy bear, the mamma bear and all of their sweet little cubs! </div>
+<div>For a premium quality black licorice candy, Panda Natural Black Licorice Bears have definitely got it in the bag!</div>
+<ul>
+<li><span>Made in Finland Since 1927</span></li>
+<li><span>All Natural Ingredients</span></li>
+<li><span>Vegan</span></li>
+<li><span>Kosher</span></li>
+<li><span>Non-GMO</span></li>
+</ul>
+<p><span>125 g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Exotic Snacks</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Non GMO</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6101433614514</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku/>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6101418606770</id>
+    <published>2020-11-26T13:43:28-05:00</published>
+    <updated>2020-11-26T13:43:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/panda-natural-black-licorice-170-g"/>
+    <title>Panda Natural Black Licorice - 170 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Panda Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/panda-natural-black-licorice-170-g-candy-district-online-candy-shop-canada.jpg?v=1606416304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Panda Licorice<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Natural Black Licorice Candy</h2>
+<p><span>Attention all black licorice lovers, this is it! The essential black licorice you've been craving all along!</span></p>
+<div>The Panda Natural Black Licorice uses all-natural ingredients, including real licorice root extract. This premium licorice is renowned for its smooth and bold licorice taste along with its soft and pliable texture.</div>
+<div>Since 1927, Panda has given the world it's very best, now it's your turn to give yourself the absolute best, with the Panda Natural Black Licorice!</div>
+<ul>
+<li><span>Made in Finland Since 1927</span></li>
+<li><span>All Natural Ingredients</span></li>
+<li><span>Vegan</span></li>
+<li><span>Kosher</span></li>
+<li><span>Non-GMO</span></li>
+</ul>
+<p><span>170 g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Exotic Snacks</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Non GMO</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6101418606770</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku/>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5997190217906</id>
+    <published>2020-10-28T00:11:01-04:00</published>
+    <updated>2020-10-28T00:11:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/haribo-rotella-175-g"/>
+    <title>Haribo Rotella - 175 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Haribo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/haribo-rotella-licorice-candies-175g-candy-district-online-candy-store-canada.jpg?v=1603858263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<h2 style="text-align: center;" data-mce-style="text-align: center;">Haribo Licorice Candy</h2>
+<p>Enjoy gummy texture with all the best of natural licorice flavour with these cute little bicycle wheels all the way from Germany. You can savour your treat for longer by unrolling each gummy or just devour it right away. Haribo is an iconic company in Europe, and today its delicious products are available in 100 countries around the globe.</p>
+<p>Whether or not you’ve ever had the chance to enjoy Haribo Rotella in the past, these candies and their whimsical theme are sure to bring back memories of childhood. Haribo Rotella is a not to be missed treat for licorice and gummy candy lovers alike.</p>
+</div>
+<ul class="a-unordered-list a-vertical a-spacing-mini" data-mce-fragment="1">
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1"><span data-mce-fragment="1">A fun and flavorful licorice product that you can eat in one bite or unroll and enjoy every inch along the way.</span></span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1"><span data-mce-fragment="1">No artificial colours.</span></span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1"><span data-mce-fragment="1">Made in Germany</span></span></li>
+</ul>
+<p><strong><span class="a-list-item" data-mce-fragment="1">175 g</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Haribo</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5997190217906</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5497244680347</id>
+    <published>2020-08-13T20:48:52-04:00</published>
+    <updated>2020-08-13T20:48:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/twizzlers-nibs-licorice-candy-75-g"/>
+    <title>Twizzlers Nibs Licorice Candy - 75g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/twizzlers-nibs-licorice-canadian-candies-24-count-candy-district-candy-store.jpg?v=1597366379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Classic Canadian Licorice Candy</h2>
+<p>If you love licorice, look no further. Twizzler's Nibs Licorice Candy lets you enjoy tiny licorice candy nibbles on the go. Made in Canada, this tempting treat is one you'll be proud to enjoy.</p>
+<p>Made with natural flavours, Twizzler's Nibs Licorice Candy is also free of trans fat. It's a guilt-free indulgence. Each bag in this 24-count box offers 75 g of black licorice delight. Chewy and satisfying, the licorice nibs are a great way of keeping yourself going throughout the day.</p>
+<p>Twizzler's Nibs Licorice Candy is listed as peanut-free and Kosher. So get ordering! Imagine how thrilled you'll be when this exciting package arrives at your door.</p>
+<ul>
+<li>Canadian Candy</li>
+<li>Peanut Free</li>
+<li>Zero Trans Fat</li>
+<li>Kosher</li>
+</ul>
+<p><strong>75 g Bag</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Twizzlers</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5497244680347</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>01-1002558</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5497231671451</id>
+    <published>2020-08-13T20:42:16-04:00</published>
+    <updated>2020-08-13T20:42:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/twizzlers-nibs-cherry-candy-75-g"/>
+    <title>Twizzlers Nibs Cherry Candy - 75g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/twizzlers-nibs-cherry-canadian-candies-candy-district-online-candy-store.jpg?v=1597365737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Classic Canadian Licorice Candy</h2>
+<p>The chewiness of licorice combined with sweet cherry delight. Sound tempting? This is the candy for you.</p>
+<p>You don't have to munch through a long licorice cord to enjoy this classic taste. With Twizzlers Nibs Cherry Candy, you get licorice you can enjoy on the go in 24 handy 75 g bags. Listed as peanut-free and Kosher, this is a Canadian candy you can get proud to indulge in.</p>
+<p>These treats will be quick to disappear if you've got a family at home, so hide them so everyone can enjoy the yummy taste of cherry licorice. Chewy and flavourful, your licorice stash awaits!</p>
+<ul>
+<li>Canadian Candy</li>
+<li>Peanut Free</li>
+<li>Zero Trans Fat</li>
+<li>Kosher</li>
+</ul>
+<p><strong>75 g Bag</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Twizzlers</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5497231671451</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>01-1002556</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5476694327451</id>
+    <published>2020-08-08T19:01:59-04:00</published>
+    <updated>2020-08-08T19:01:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/airheads-xtremes-rainbow-berry-sour-candy-belts-1-6-kg"/>
+    <title>Airheads Xtremes Rainbow Berry Sour Candy Belts - 1.6 kg</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Perfetti Van Melle Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/airheads-xtremes-rainbow-berry-sour-candy-belts-1-6-kg-candy-district-online-candy-store.jpg?v=1596927856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfetti Van Melle Inc.<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Airheads Sour Candy Belts</h2>
+<p>Stock up on your favourite Airheads Xtremes Rainbow Berry Sour Candy Belts in this sweet bulk candy container. With these sour candies in the pantry, you will make a lot of new friends.</p>
+<p><strong>1.6 kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>Air Heads</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5476694327451</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5243600699547</id>
+    <published>2020-05-24T14:21:27-04:00</published>
+    <updated>2020-05-24T14:21:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/waterbridge-samesorts-candies-200-g"/>
+    <title>Waterbridge Samesorts Candies - 200 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/waterbridge-samesorts-british-candies-200-g-candy-district-online-candy-store-canada.jpg?v=1612067873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Gourmet Samesorts British Candy</h2>
+<div>These delicious Jelly Buttons will have your tastebuds doing the happy dance! The Waterbridge Samesorts Candies are jelly buttons that are coated with a pretty candy coating in the colours of blue and pink.</div>
+<div>This old fashioned candy is full of impeccable taste and of course texture and made with completely natural ingredients.</div>
+<div>For a taste of that sweet British candy bliss, only the Waterbridge Samesorts Candies will do!</div>
+<ul>
+<li>Made in the UK</li>
+<li>All Natural Colours and Flavours</li>
+</ul>
+<p><strong>200 g</strong></p>
+<h3 style="text-align: center;"><strong>The Freshest British Candy Shipped Fast!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>Waterbridge</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5243600699547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002707</s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5243597062299</id>
+    <published>2020-05-24T13:27:14-04:00</published>
+    <updated>2020-05-24T13:27:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/waterbridge-pontefract-cakes-candies-200-g"/>
+    <title>Waterbridge Pontefract Cakes Candies - 200 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/waterbridge-pontefract-cakes-british-candy-candydistrict-online-candy-store-canada.jpg?v=1612718299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">Gourmet Pontefract Cakes British Candy</h2>
+<div style="text-align: center;" data-mce-style="text-align: center;"><span>This old fashioned candy is full of robust and rich-tasting licorice candy flavour! The Waterbridge Pontefract cakes are made with all-natural colours and flavours giving you the most delicious and authentic tasting licorice ever!</span></div>
+<div style="text-align: center;" data-mce-style="text-align: center;">Taste the exquisiteness of this British Candy with The Waterbridge Pontefract Cakes</div>
+<ul>
+<li>Made in the UK</li>
+<li><span>All-natural colours and flavours</span></li>
+</ul>
+<p><strong>200 g</strong></p>
+<h3 style="text-align: center;"><strong>The Freshest British Candy Shipped Fast!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>Waterbridge</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5243597062299</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002706</s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5243596570779</id>
+    <published>2020-05-24T13:19:51-04:00</published>
+    <updated>2020-05-24T13:19:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/waterbridge-mini-allsorts-candies-200-g"/>
+    <title>Waterbridge Mini Allsorts Candies - 200 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/waterbridge-mini-allsorts-british-candy-candydistrict-online-candy-store-canada.jpg?v=1590341078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Gourmet Allsorts British Candy</h2>
+<div style="text-align: center;" data-mce-style="text-align: center;">With "all sorts" of delicious British Candy to choose from, the Waterbridge Mini Allsorts Candies is one of our most favourite licorice candies!</div>
+<div style="text-align: center;" data-mce-style="text-align: center;">This mini British Candy may be cute but it certainly packs some BIG flavour! With a fun and colourful assortment of licorice rolls, buttons, twist shapes and even little sandwiches you'll love to try them all!</div>
+<div style="text-align: center;" data-mce-style="text-align: center;">Made with all-natural colours and no artificial flavours you can always feel good about indulging in the Waterbridge Mini Allsorts Candies!</div>
+<ul>
+<li>Made in the UK</li>
+<li>Old Fashioned Candy</li>
+<li>All Natural Colours</li>
+<li>No Artificial Flavours</li>
+</ul>
+<p><strong>200 g</strong></p>
+<h3 style="text-align: center;" data-mce-style="text-align: center;"><strong>The Freshest Licorice Candy Shipped Fast!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>Waterbridge</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5243596570779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002703</s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5243594899611</id>
+    <published>2020-05-24T13:08:27-04:00</published>
+    <updated>2020-05-24T13:08:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/waterbridge-jelly-babies-candies-200-g"/>
+    <title>Waterbridge Jelly Babies Candies - 200 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/waterbridge-jelly-babies-british-candy-candydistrict-online-candy-store-canada.jpg?v=1590340343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Gourmet Jelly Babies British Candy</h2>
+<div style="text-align: center;">This British Candy is not only cute but comes in a fantastic assortment of flavours! The Waterbridge Jelly Babies are a yummy mix of fruity flavours like Strawberry, Lemon, Lime, Raspberry, Orange and Blackcurrant! </div>
+<div style="text-align: center;">These "babies" are also made with all-natural colours and flavours making them even more delicious!</div>
+<div style="text-align: center;">Enjoy this adorable old fashioned candy with the Waterbridge Jelly babies!</div>
+<ul>
+<li>Made in the UK</li>
+<li>All Natural Colours</li>
+<li>No Artificial Flavours</li>
+</ul>
+<p><strong>200 g</strong></p>
+<h3 style="text-align: center;"><strong>The Freshest British Candy Shipped Fast!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>Waterbridge</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5243594899611</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002680</s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5243590967451</id>
+    <published>2020-05-24T12:46:16-04:00</published>
+    <updated>2020-05-24T12:46:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/waterbridge-fruit-pastilles-candies-200-g"/>
+    <title>Waterbridge Fruit Pastilles Candies - 200 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/waterbridge-fruit-pastilles-british-candy-candydistrict-online-candy-store-canada.jpg?v=1612717500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Gourmet Fruit Pastilles British Candy</h2>
+<div style="text-align: center;"><span>A classic British Candy coming in the yummiest and fruitiest flavours! </span></div>
+<div style="text-align: center;">The Waterbridge Fruit Pastilles Candies are a hard candy that is dusted with a light sprinkling of sugar and comes in the fantastic and fruity flavours of Raspberry, Pear, Lemon, Lime, Orange and Blackcurrant.</div>
+<div style="text-align: center;">Taste this old fashioned candy with the Waterbridge Fruit Pastilles Candies!</div>
+<ul>
+<li>Made in the UK</li>
+<li>Old Fashioned Candy</li>
+<li>All Natural Colours</li>
+<li>No Artificial Flavours</li>
+</ul>
+<p><strong>200 g</strong></p>
+<h3 style="text-align: center;"><strong>The Freshest British Candies Shipped Fast!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>Waterbridge</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5243590967451</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002670</s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5243562983579</id>
+    <published>2020-05-24T11:52:56-04:00</published>
+    <updated>2020-05-24T11:52:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/waterbridge-dolly-mix-candies-200-g"/>
+    <title>Waterbridge Dolly Mix Candies - 200 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/waterbridge-dolly-mix-british-candies-200-g-candy-district-online-candy-store-canada.jpg?v=1612066830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Waterbridge Dolly Mix British Candy</h2>
+<div>
+<div style="text-align: center;">Enjoy the delightful taste of this delicious British Candy with the Waterbridge Dolly Mix Candies!</div>
+<div style="text-align: center;">These colourful little, chewy candies are filled with sweet and fruity flavours and make for a yummy treat anytime! The Dolly Mix is made with all-natural colours and flavours which makes them even more enjoyable!</div>
+<div style="text-align: center;">This old fashioned candy has been enjoyed by candy lovers from around the world for generations</div>
+<div style="text-align: center;">Treat your tastebuds to some British bliss with the Waterbridge Dolly Mix Candies!</div>
+</div>
+<ul>
+<li>Made in the UK</li>
+<li>Old Fashioned Candy</li>
+<li>All Natural Colours</li>
+<li>No Artificial Flavours</li>
+</ul>
+<p><strong>200 g</strong></p>
+<h3 style="text-align: center;"> The Freshest British Candy Shipped Fast!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>Waterbridge</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5243562983579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002668</s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.candydistrict.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.candydistrict.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.candydistrict.com/collections/lollipops.atom"/>
+  <title>Candy District</title>
+  <updated>2021-08-04T13:43:18-04:00</updated>
+  <author>
+    <name>Candy District</name>
+  </author>
+  <entry>
+    <id>https://www.candydistrict.com/products/6932707115186</id>
+    <published>2021-08-04T13:43:18-04:00</published>
+    <updated>2021-08-04T13:43:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/white-baby-bear-pops-24g"/>
+    <title>White Baby Bear Pops - 24g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Espeez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/espeez_white_baby_bear_pops_24g_candy_district.jpg?v=1628098914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Espeez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Little Bears for Any Occasion</h2>
+<p>     Brighten up someone's day with the sweet gift of an adorable, <strong>hand-made</strong>, bear-shaped lollipop. These baby bears are flavoured to taste like delicious <strong>Natural Sugar</strong> and come in a beautiful shade of <strong>pearl white</strong>, a tasty and presentable treat that's sure to make everyone smile. </p>
+<p>     Each lolly is <strong>individually wrapped</strong>, delivering a classy look that would make any candy bouquet look absolutely stunning. Perfect for weddings, bridal showers, baby showers, or any event in which you'd like to share fun and sweetness!</p>
+<h3>24g | 1 wrapped lollipop</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Colour_Blue</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6932707115186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.29</s:price>
+      <s:sku>01-1003019</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6932703117490</id>
+    <published>2021-08-04T13:39:06-04:00</published>
+    <updated>2021-08-04T13:39:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/pink-baby-bear-pops-24g"/>
+    <title>Pink Baby Bear Pops - 24g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Espeez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/espeez_pink_baby_bear_pops_24g_candy_district.jpg?v=1628098618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Espeez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Little Bears for Any Occasion</h2>
+<p>     Brighten up someone's day with the sweet gift of an adorable, <strong>hand-made</strong>, bear-shaped lollipop. These baby bears are flavoured to taste like delicious <strong>Bubble Gum</strong> and come in a beautiful shade of <strong>pastel pink</strong>, a tasty and presentable treat that's sure to make everyone smile. </p>
+<p>     Each lolly is <strong>individually wrapped</strong>, delivering a classy look that would make any candy bouquet look absolutely stunning. Perfect for weddings, bridal showers, baby showers, or any event in which you'd like to share fun and sweetness!</p>
+<h3>24g | 1 wrapped lollipop</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Colour_Blue</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6932703117490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.29</s:price>
+      <s:sku>01-1003018</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6932702232754</id>
+    <published>2021-08-04T13:33:32-04:00</published>
+    <updated>2021-08-04T13:33:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/blue-baby-bear-pops-24g"/>
+    <title>Blue Baby Bear Pops - 24g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Espeez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/espeez_blue_baby_bear_pops_24g_candy_district.jpg?v=1628098355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Espeez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Little Bears for Any Occasion</h2>
+<p>     Brighten up someone's day with the sweet gift of an adorable, <strong>hand-made</strong>, bear-shaped lollipop. These baby bears are flavoured to taste like delicious <strong>Cotton Candy</strong> and come in a beautiful shade of <strong>powder blue</strong>, a tasty and presentable treat that's sure to make everyone smile. </p>
+<p>     Each lolly is <strong>individually wrapped</strong>, delivering a classy look that would make any candy bouquet look absolutely stunning. Perfect for weddings, bridal showers, baby showers, or any event in which you'd like to share fun and sweetness!</p>
+<h3>24g | 1 wrapped lollipop</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Colour_Blue</s:tag>
+    <s:tag>Era_2020s</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6932702232754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.29</s:price>
+      <s:sku>01-1003017</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6278100451506</id>
+    <published>2021-02-23T18:48:19-05:00</published>
+    <updated>2021-02-23T18:48:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/chupa-chups-zugen-maler-lollipops-100-count"/>
+    <title>Chupa Chups Zugen-Maler Lollipops</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Chupa Chups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/chupa-chups-zungen-maler-paint-your-mouth-lollipops-100ct-candy-district-online-candy-store-canada.jpg?v=1614124082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chupa Chups<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Stock up the pantry with iconic lollipops.</h2>
+<h3 style="text-align: center;">Paint your tongue sweet.</h3>
+<p><span>Colour your tongue with these classic </span><span>Chupa Chups Tongue Painters Lollipops. These gourmet lollipops are fruity and tangy and come in the delicious flavours of cherry, orange and cola. So they paint your mouth red, yellow or black.</span><span> </span></p>
+<p>Chupa Chups Lollipops have been around since the late 1950s and candy lovers have sucked on them ever since. Actually, the idea for the name came from <span>the Spanish verb </span><i>chupar</i><span>, meaning "to suck". In 1969 the idea for the iconic logo was created by Salvador Dali. We all know who he is. </span></p>
+<p><span>1 Pop</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>Chupa Chups</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6278100451506</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.49</s:price>
+      <s:sku>01-1000476</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6278050283698</id>
+    <published>2021-02-23T18:16:42-05:00</published>
+    <updated>2021-02-23T18:16:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/chupa-chups-fresh-cola-lollipops-100-count"/>
+    <title>Chupa Chups Fresh Cola Lollipop</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Chupa Chups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/chupa-chups-fresh-cola-lollipops-candy-district-online-candy-store-canada.jpg?v=1618628687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chupa Chups<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Stock up the pantry with iconic lollipops.</h2>
+<p>These awesome Chupa Chups Lollipops come in delicious cola and cola-lemon flavours.</p>
+<p>Chupa Chups Lollipops have been around since the late 1950s and candy lovers have sucked on them ever since. Actually, the idea for the name came from <span>the Spanish verb </span><i>chupar</i><span>, meaning "to suck". In 1969 the idea for the iconic logo was created by Salvador Dali. We all know who he is. </span></p>
+<p><strong>1 Pop</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>Chupa Chups</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6278050283698</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.49</s:price>
+      <s:sku>01-1000422</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6269539877042</id>
+    <published>2021-02-18T20:53:34-05:00</published>
+    <updated>2021-02-18T20:53:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/chupa-chups-xxl-lollipops-60-count"/>
+    <title>Chupa Chups XXL Lollipops - 29 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Chupa Chups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/chupa-chups-lollipops-xxl-candy-district-online-candy-store-canada.jpg?v=1618629019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chupa Chups<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Blow The Biggest Bubbles!</h2>
+<h3 style="text-align: center;">Chupa Chups Lollipops with Bubble Gum Center</h3>
+<p>These Chupa Chups lollipops are the XXL size of the classic Chupa Chups pops with a surprise bubble gum center. Urban legend has it that you can blow the biggest bubbles with this lollipop! They come in 3 amazing flavours of strawberry, apple-strawberry and cola-strawberry.</p>
+<ul>
+<li>Stock up with this 60 Count Container</li>
+<li>3 Yummy Flavours</li>
+<li>Bubble Gum Center</li>
+<li>3 cm in diameter</li>
+<li>Decorative storage bin</li>
+</ul>
+<p><strong>29 g Lollipops </strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Lollipops Shipped Fast!</strong></h3>
+<p><span><strong>Ingredients:</strong> </span></p>
+<p><span>Sugar, glucose syrup, chewing mass, acidulant (citric acid, lactic acid), humectant (glycerine), colourants (beetroot, capsanthin, curcumin), aromas, malt extract (BARLEY), emulsifier (SOY LECITHIN), antioxidant (E321) .;</span></p>
+<p><span><span>Allergen info: soy and barley. </span><span>May contain traces of milk.</span></span></p>
+<p><span><span><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Chupa Chups</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6269539877042</id>
+      <title>1 Lollipop</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku>01-1000446</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6044850159794</id>
+    <published>2020-11-01T22:15:54-05:00</published>
+    <updated>2020-11-01T22:15:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/bipmoji-pop-up-lollipops"/>
+    <title>BIPMoji Pop Up Lollipops</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>BIP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/bipmoji-pop-up-lollipops-candy-district-online-candy-store-canada.jpg?v=1604287348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BIP<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Pop Up Lollipops</h2>
+<p><span>Everyone will love these fun Pop Up Lollipops. The Bip Moji themed Pop Up protects the lollipop to keep it clean and safe. Even better it is refillable.</span></p>
+<ul>
+<li>Pop Up that protects the lollipop and keeps it clean and safe</li>
+<li>Refillable “lollipop keeper”</li>
+<li>3 Different characters to collect</li>
+</ul>
+<p><strong>1 Pop Up Lollipop</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6044850159794</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku/>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5523397509275</id>
+    <published>2020-08-21T17:47:32-04:00</published>
+    <updated>2020-08-21T17:47:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/dum-dums-pops-100-count"/>
+    <title>Dum Dums Pops - 100 Count</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Spangler Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/dum-dums-pops-lollipops-100ct-candy-district.jpg?v=1598046453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spangler Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>10 million Dum Dum Pops are made every day</span></h2>
+<p>With 10 million Dum Dum Pops being made each and every day, you know you'll be missing out if you don't try this tempting treat. This 100-count bag will keep you and your family all stocked up for a while. And it's the perfect candy package to have on hand as Halloween Candy</p>
+<p><span>Delicious and yummy flavours including Blue Raspberry, Cotton Candy, Cream Soda, Root Beer, Butterscotch, Watermelon, Sour Apple, Peach-Mango, Raspberry Lemonade, Grape, Blueberry, Strawberry, Fruit Punch, Cherry, Bubblegum, Orange, and the famous Mystery Flavour.</span></p>
+<ul>
+<li><span>Made in the USA</span></li>
+<li><span>Individually Wrapped</span></li>
+<li>Kosher</li>
+<li>Peanut Free</li>
+<li>Tree Nut Free</li>
+<li>Gluten-Free</li>
+</ul>
+<p>488 g | 100 Count Bag</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Dum Dums Pops</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Tree Nut Free</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5523397509275</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>01-1000582</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5520876601499</id>
+    <published>2020-08-20T23:19:41-04:00</published>
+    <updated>2020-08-20T23:19:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/mega-double-lollies-60-count"/>
+    <title>Mega Double Lollies</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ce De Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/smarties-mega-double-lollies-60-count-canadian-candies-candy-district-candy-store-toronto.jpg?v=1597980798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ce De Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Smarties Mega Double Lollies</h2>
+<h3 style="text-align: center;">Retro Canadian Candy</h3>
+<p>Bring the candy store home with this 60-count jar of Mega Double Lollies. With a colourful label and lots of treats inside, be ready for your family and friends to get excited!</p>
+<p>And you'll enjoy these lollies yourself. We're all big kids at heart! And Mega means Mega with these classic lollipops. There's lots of candy on these pops, ready to delight your taste buds.</p>
+<p>This is just the kind of treat you'll want to have on hand for you to share. Talk about a great stash for Halloween, too. You'll always be the neighbour with the best candy.</p>
+<ul>
+<li>Canadian Candy</li>
+<li>Stock up with this bulk candy jar</li>
+<li>Individually wrapped lollipops</li>
+</ul>
+<p><strong>1 Lollie</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5520876601499</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku>01-1002155</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5519660548251</id>
+    <published>2020-08-20T13:48:24-04:00</published>
+    <updated>2020-08-20T13:48:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/colombina-bon-bon-boom-sour-bubble-gum-pops-170-g"/>
+    <title>Colombina Bon Bon Boom Sour Bubble Gum Pops - 170 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Columbina</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/colombina-bon-bon-boom-sour-bubble-gum-pops-170-g-candy-district-candy-store-toronto.jpg?v=1597945947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Columbina<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Bon Bon Boom Sour Lollipops</strong></h2>
+<p>Colombina Bon Bon Boom Sour Bubble Gum Pops - 170 g</p>
+<ul>
+<li>Individually Wrapped</li>
+<li>Perfect for the candy dish or any celebration</li>
+</ul>
+<p><strong>170 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Columbina</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5519660548251</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku/>
+      <s:grams>240</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5519648161947</id>
+    <published>2020-08-20T13:39:40-04:00</published>
+    <updated>2020-08-20T13:39:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/colombina-bon-bon-boom-berry-explosion-bubble-gum-pops-170-g"/>
+    <title>Colombina Bon Bon Boom Berry Explosion Bubble Gum Pops - 170 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Columbina</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/colombina-bon-bon-boom-berry-explosion-bubble-gum-pops-170-g-candy-district-candy-store-toronto.jpg?v=1597945578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Columbina<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Bon Bon Boom Lollipops</strong></h2>
+<p>Colombina Bon Bon Boom Berry Explosion Bubble Gum Pops are f<span>our explosively juicy flavours of red grape, strawberry, blue raspberry, and a tangy surprise of sour berry all in one bag. After you enjoy the delicious and fruity flavoured candy, bubble gum awaits you in its center.</span></p>
+<ul>
+<li>Individually Wrapped</li>
+<li>Perfect for the candy dish or any celebration</li>
+</ul>
+<p><strong>170 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Columbina</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5519648161947</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku/>
+      <s:grams>240</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5519635349659</id>
+    <published>2020-08-20T13:30:43-04:00</published>
+    <updated>2020-08-20T13:30:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/colombina-fun-mix-candies-227-g"/>
+    <title>Colombina Fun Mix Candies - 227 g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Columbina</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/colombina-fun-mix-candies-227g-candy-district-candy-store-toronto.jpg?v=1597944946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Columbina<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>A fun part mix candy bag.</strong></h2>
+<p>Colombina Fun Mix Candies are filled with Lollipops, Hard Candies, Filled Candies, Bubble Gum Pops and Chewy Candies.</p>
+<ul>
+<li>Individually Wrapped</li>
+<li>Perfect for the candy dish or any celebration</li>
+</ul>
+<p><strong>227 g</strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Columbina</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5519635349659</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku/>
+      <s:grams>240</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5504258277531</id>
+    <published>2020-08-15T22:43:55-04:00</published>
+    <updated>2020-08-15T22:43:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/super-double-lollies-48-count"/>
+    <title>Super Double Lollies - 14g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Regal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/super-double-lollies-48-count-candy-district-candy-store-toronto.jpg?v=1597545835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Regal<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            0.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Canadian Retro Candy</h2>
+<p>Feel like a kid in a candy shop and fill your stash with Super Double Lollies. These lollipops create a truly retro candy experience. And they're made in Canada. You can't get better than that!</p>
+<p>Get this plentiful 48-count box as a treat for the entire family. Imagine all the fun. And these are fun lollipops, the type you can enjoy as a sucker before chewing up the rest. It's time to enjoy a candy break with these colourful, retro pops.</p>
+<p>Stock up the pantry and you'll have enough pops for everyone. This is a great choice as Halloween Candy, too.</p>
+<ul>
+<li>Retro Candy</li>
+<li>Made in Canada</li>
+<li>Individually Wrapped</li>
+</ul>
+<p><strong>14 g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5504258277531</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.49</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5448821801115</id>
+    <published>2020-07-31T13:44:58-04:00</published>
+    <updated>2020-07-31T13:44:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/koko-s-crank-pop"/>
+    <title>KoKo’s Crank Pop - 16 Count</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Koko&apos;s Confectionery &amp; Novelty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/koko_s-crank-pop-lollipops-16ct-candy-district-online-candy-store.jpg?v=1596217893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koko&#39;s Confectionery &amp; Novelty<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            27.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Crank Pop Lollipops</h2>
+<p>KoKo’s Crank Pop Lollipops will have you spinning. Turn the crank and watch the colourful spiral up. These incredible lollipops come in the delicious flavours of strawberry, blue raspberry, cotton candy and watermelon. </p>
+<div>
+<ul></ul>
+</div>
+<div></div>
+<div><strong>.81 oz. Lollipops | 16 Count Box</strong></div>
+<h3 style="text-align: center;"><strong>The Freshest Candy at the Sweetest Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Koko&apos;s</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5448821801115</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.59</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5448163000475</id>
+    <published>2020-07-31T08:58:58-04:00</published>
+    <updated>2020-07-31T08:58:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/licky-loot-lollipops"/>
+    <title>Licky Loot Lollipops</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Kidsmania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/licky-loot-lollipops-sweet-bandit-kidsmania-12ct-candy-district-online-candy-store.jpg?v=1618712687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kidsmania<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-test-id="UnauthBestPinCardTitle" style="text-align: center;"><span>Licky Loot Lollipops from Sweet Bandit</span></h2>
+<p>Flick and lick the Licky Loot Lollipops from Sweet Bandit. These delicious lollipops are available in strawberry, green apple, blue raspberry and grape flavours, They make super fun party favours for any celebration.</p>
+<ul>
+<li>Flickable handle covers</li>
+<li>4 Delicious Flavours</li>
+<li>Makes great party favours</li>
+</ul>
+<p><strong>1 Pop</strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Candy at the Sweetest Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>Kidsmania</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5448163000475</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1001243</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5446229524635</id>
+    <published>2020-07-30T23:11:28-04:00</published>
+    <updated>2020-07-30T23:11:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/kidsmania-flip-phone-pop"/>
+    <title>Kidsmania Flip Phone Pop</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Kidsmania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/kidsmania-flip-phone-pop-lollipops-candy-district-online-candy-store-canada.jpg?v=1618707506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kidsmania<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-test-id="UnauthBestPinCardTitle" style="text-align: center;"><span>You need to call.</span></h2>
+<p>The Kidsmania Flip Phone Pop allows you to avoid unnecessary cell phone bills while it lets you enjoy a delicious lollipop that emerges from within. No iPhone can do that!</p>
+<p>Lollipops come in the three delicious flavours of <span>Grape, Watermelon, and Blue Raspberry.</span></p>
+<p><strong>1 Flip Phone Pop</strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Candy at the Sweetest Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>Kidsmania</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5446229524635</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1000678</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5445547950235</id>
+    <published>2020-07-30T16:47:47-04:00</published>
+    <updated>2020-07-30T16:47:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/kidsmania-pirate-flash-pop"/>
+    <title>Kidsmania Pirate Flash Pop</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Kidsmania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/kidsmania-pirate-flash-pop-lollipops-candy-district-online-candy-store-canada.jpg?v=1618707840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kidsmania<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="a-size-large a-spacing-none" style="text-align: center;"><span id="productTitle" class="a-size-large product-title-word-break">Pirate Flash Pop Lollipop Suckers</span></h2>
+<p><span class="a-size-large product-title-word-break">These Kidsmania Pirate Flash Pop won't have you walking the plank but they will allow you to enjoy the delicious lollipop within. And these pops light up! </span></p>
+<p><span class="a-size-large product-title-word-break">Three pirate characters with three yummy fruit flavours:</span></p>
+<ul>
+<li>Skeleton-Blue Raspberry</li>
+<li>Pirate-Watermelon</li>
+<li>Parrot-Strawberry</li>
+</ul>
+<ul></ul>
+<p><strong>1 Pop</strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Candy at the Sweetest Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>Kidsmania</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5445547950235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1001916</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5445214896283</id>
+    <published>2020-07-30T14:19:56-04:00</published>
+    <updated>2020-07-30T14:19:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/kidsmania-blink-pop"/>
+    <title>Kidsmania Blink Pop</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Kidsmania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/kidsmania-blink-pop-lollipop-candydistrict-online-candy-shop.jpg?v=1618705372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kidsmania<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Blink Pop Light Up Lollipops</span></h2>
+<p>This Kidsmania Blink Pop Lollipop will be tempting you. You're minding your own business but this delicious lollipop keeps blinking at you. Go ahead you deserve it.</p>
+<ul></ul>
+<p><strong>1 POP</strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Candy at the Sweetest Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>Kidsmania</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5445214896283</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1000267</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5444088266907</id>
+    <published>2020-07-30T09:55:47-04:00</published>
+    <updated>2020-07-30T09:55:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/kidsmania-quick-blast-sour-candy-spray"/>
+    <title>Kidsmania Quick Blast Sour Candy Spray</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Kidsmania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/kidsmania-quick-blast-sour-candy-spray-candydistrict-online-candy-shop.jpg?v=1618709194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kidsmania<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Extinguish your desire...</span></h2>
+<p><span>Extinguish your desire for a sour candy hit with Quick Blast Sour Candy Spray! Available in three colour and flavour combinations: </span><span> Blue-Blue Raspberry Blast, Red-Cherry Splash and Green-Green Apple Burst.</span></p>
+<p><strong>2.05 oz. Bottle </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5444088266907</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1001963</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5444065788059</id>
+    <published>2020-07-30T09:48:52-04:00</published>
+    <updated>2020-07-30T09:48:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/sucker-punch-candy-lollipop"/>
+    <title>Kidsmania Sucker Punch Candy Lollipop</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Kidsmania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/sucker-punch-candy-lollipop-kidsmania-candydistrict-online-candy-shop.jpg?v=1618709312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kidsmania<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Get into the ring with this lollipop.</span></h2>
+<p><span>This will be the sweetest sucker punch you'll ever have.  The Sucker Punch Candy Lollipop from Kidsmania comes in the three knockout flavours of </span><span>Cherry K.O., Grape Hook and Raspberry Jab. Get into the ring and order today!</span></p>
+<p><strong>1 Sucker Punch</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5444065788059</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1002302</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5407200673947</id>
+    <published>2020-07-21T20:11:37-04:00</published>
+    <updated>2020-07-21T20:11:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/jumbo-jawbreakers-lollipops-with-bubble-gum-center-12-ct"/>
+    <title>Jumbo Jawbreakers Lollipops with Bubble Gum Center</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Candy District</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/jumbo-jawbreakers-lollipops-with-bubble-gum-center-candy-district.jpg?v=1595376698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Candy District<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Jumbo Jawbreaker Lollipops</h2>
+<p>Jumbo Jawbreakers Lollipops with Bubble Gum Center! Then take a trip down memory lane while you are licking the multiple layers of this everlasting jawbreaker.</p>
+<p>These enormous jawbreaker lollipops will take a while to get through. And when all the hard candy is melted away, you'll have a nice wad of bubble gum to chew on. Can't get any better than that. You'll be the envy of their friends and the neighbourhood with these jawbreaker lollipops. Everyone will want to know where you got them, and you'll know what to say!</p>
+<p><strong>1 Jumbo Jawbreaker with Bubble Gum Center</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Jawbreakers</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5407200673947</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5406276550811</id>
+    <published>2020-07-21T12:09:05-04:00</published>
+    <updated>2020-07-21T12:09:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/chupa-chups-lollipops-60-count"/>
+    <title>Chupa Chups Lollipops</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Chupa Chups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/chupa-chups-lollipops-60-count-candy-district.jpg?v=1595347843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chupa Chups<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            0.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Iconic Lollipops</h2>
+<p>Chupa Chups Lollipops have been around since the late 1950s and candy lovers have sucked on them ever since. Actually, the idea for the name came from <span>the Spanish verb </span><i>chupar</i><span>, meaning "to suck". In 1969 the idea for the iconic logo was created by Salvador Dali. We all know who he is. </span></p>
+<p><span>This awesome tub of Chupa Chups Lollipops comes in delicious and creamy flavours of fruit. creamy and cola. A perfect choice to stock up the pantry for a go-to treat.</span></p>
+<p><strong>1 Pop</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>Chupa Chups</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5406276550811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.49</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1815374004269</id>
+    <published>2019-05-12T16:33:26-04:00</published>
+    <updated>2019-05-12T16:33:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/unicorn-pop-mini-rainbow-24-ct"/>
+    <title>Unicorn Pop Mini Rainbow Lollipop - .42 oz.</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Adams &amp; Brooks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/unicorn-pop-mini-rainbow-strawberry-banana-lollipops-candy-district-online-candy-store-toronto.jpg?v=1618873882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adams &amp; Brooks<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Rainbow Strawberry Banana Mini Unicorn Pop</h2>
+<p>Unicorn Pop Mini Rainbow comes in scrumptious strawberry banana flavours that are bursting with the yumminess we all expect from Adams &amp; Brooks. These lollipops are perfect for any celebration or to stock up the pantry for that special moment.</p>
+<ul>
+<li>Individually Wrapped Lollipops</li>
+<li>61/4" long including the stick</li>
+<li>Kosher Certified Parve</li>
+</ul>
+<p><strong>,42 oz.</strong></p>
+<p><span><strong>Ingredients:</strong> </span></p>
+<p><span>Sugar, Corn Syrup, Natural or Artificial Flavor, Citric Acid, Artificial Colors in Addition to One or More of the Following: Blue 1, Blue 2, Blue 2 Lake, Red 3, Red 40, Red 40 Lake, Yellow 5, Yellow 6, Yellow 6 Lake.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>Adams &amp; Brooks</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1815374004269</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku>01-1002578</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1792906330157</id>
+    <published>2019-04-27T18:21:15-04:00</published>
+    <updated>2019-04-27T18:21:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/astro-pop"/>
+    <title>Astro Pop Original - 1.5 oz.</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Leaf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/astro-pop-lollipops-retro-candies-24ct-candy-district-kitchener-waterloo.jpg?v=1618610588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Leaf<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">Original Old Fashioned Astro Pop Lollipop</h2>
+<div class="gs">
+<div class="">
+<div id=":qt" class="ii gt">
+<div id=":o3" class="a3s aXjCH">
+<div dir="ltr">You might end up in an alternate universe, that's just how delicious the Astro Pop is! The old-fashioned Astro Pop is made to resemble a rocket and comes in a trio of fruity flavours. Cherry, Passionfruit and Banana are what really give the retro Astro Pop Lollipop such irresistible taste! Truly, a blast from the past, The Astro Pop has been loved since 1963!</div>
+<div dir="ltr">
+<ul>
+<li>
+<p><span>Flavour layers: Cherry, passion fruit, banana</span></p>
+</li>
+<li>
+<p><span style="color: #000000;">Kosher Certified Parve</span></p>
+</li>
+<li><span style="color: #000000;"><span>Gluten-Free</span></span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><strong><span style="color: #000000;">1.5 oz. </span></strong></p>
+<p><span style="color: #000000;"><span><strong>Ingredients:</strong> </span></span></p>
+<p><span style="color: #000000;"><span>Sugar, corn syrup, water, artificial flavours, colour added (includes red 40, yellow 5, blue 1), glycerin.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1792906330157</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>01-1000186</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/1792863207469</id>
+    <published>2019-04-27T17:48:39-04:00</published>
+    <updated>2019-04-27T17:48:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/tootsie-pop"/>
+    <title>Tootsie Pops</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Tootsie Roll Industires</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/tootsie-pop-lollipops-retro-candies--candy-district-kitchener-waterloo.jpg?v=1618805635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tootsie Roll Industires<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="gs">
+<div class="">
+<div id=":qz" class="ii gt">
+<div id=":r0" class="a3s aXjCH">
+<h2 dir="ltr" style="text-align: center;">Best Selling Lollipop in the World!</h2>
+<div dir="ltr">Tootsie Pops are an iconic lollipop and the number one selling lollipop in the world! Coming in a variety of flavours, Orange, Grape, Cherry Chocolate. Tootsie Pops include the delicious old-fashioned Tootsie Roll candy in middle. With a hard candy coating on the outside, the centre is delicious and so chewy! It's like two treats in one! Tootsie Pops Lollipops are mouthwatering and so irresistible!</div>
+<div class="yj6qo">
+<ul>
+<li>Assorted Flavours include: Orange, Cherry, Grape and Chocolate</li>
+<li>Gluten-Free</li>
+<li>Kosher Certified Dairy</li>
+</ul>
+</div>
+<div class="adL"><strong>1 Pop</strong></div>
+<div class="adL"></div>
+</div>
+</div>
+</div>
+</div>
+<p><span><strong>Ingredients:</strong> </span></p>
+<p><span>Sugar, corn syrup, partially hydrogenated soybean oil, citric acid (may contain malic acid), condensed skim milk, cocoa, whey, artificial and natural flavours, soya lecithin, artificial colours (FD&amp;C red 40, yellow 5, blue 1), strawberry powder.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Tootsie Roll</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/1792863207469</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.49</s:price>
+      <s:sku>01-1002463</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+</feed>

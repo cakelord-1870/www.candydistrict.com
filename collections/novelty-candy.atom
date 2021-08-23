@@ -1,0 +1,1268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.candydistrict.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.candydistrict.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.candydistrict.com/collections/novelty-candy.atom"/>
+  <title>Candy District</title>
+  <updated>2021-08-19T12:16:20-04:00</updated>
+  <author>
+    <name>Candy District</name>
+  </author>
+  <entry>
+    <id>https://www.candydistrict.com/products/6965034287282</id>
+    <published>2021-08-19T12:16:20-04:00</published>
+    <updated>2021-08-19T12:16:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/popeye-candy-sticks-24ct"/>
+    <title>Popeye Candy Sticks - 24ct</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Regal Confections</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/regal_popeye_candy_sticks_bulk_bag_24_count_60g_candy_district.jpg?v=1629389812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Regal Confections<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Nostalgic 50s Sweets to Share!</h2>
+<p>     <strong>Popeye Candy Sticks</strong> are the perfect treat to share with all the kids on Halloween, they bring back so many fond trick-or-treating memories! This <strong>24 count bulk bag</strong> makes it easy to fill a bowl full of the retro classic candy to pass around or leave out for a fun party. </p>
+<h3>60g | 1 bulk bag</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Era_1950s</s:tag>
+    <s:tag>Halloween Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6965034287282</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>04-4000737</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6948647796914</id>
+    <published>2021-08-11T17:53:19-04:00</published>
+    <updated>2021-08-11T17:53:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/kit-kat-fruity-cereal-1-5oz"/>
+    <title>Kit Kat Fruity Cereal - 1.5oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/kit_kat_fruity_cereal_chocolate_bar_42g_candy_district.jpg?v=1628718783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">A Brand NEW Way to Take a Break!</h2>
+<p data-mce-fragment="1">     Nothing's better than the nostalgic taste of a bowl full of Froot Loops cereal on a Saturday morning. Maybe adding a delicious, crunchy wafer into the mix makes for a close second, though!</p>
+<p data-mce-fragment="1">     <strong data-mce-fragment="1">Kit Kat</strong> has come dressed up in an all-new flavour, each bite delivering a whole bowl of <strong data-mce-fragment="1">Fruity Cereal</strong> flavour. Creamy creme flavoured like a bowl of Fruity Pebbles envelops the tasty wafer you love so much. So you can forget the milk and the bowl, just unwrap one of these bars to get your cereal fix!</p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<h3 data-mce-fragment="1">1.5oz / 42g | 1 bar</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6948647796914</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2001449</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6620579102898</id>
+    <published>2021-04-04T11:58:47-04:00</published>
+    <updated>2021-04-04T11:58:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/juicy-drop-gummy-dip-n-stix-96g"/>
+    <title>Juicy Drop Gummy Dip &apos;N Stix - 96g</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Topps Company Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/juicy-drop-gummy-dip-n-stix-96g-candy-district-online-candy-store-canada.jpg?v=1618704788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topps Company Inc.<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="a-size-large a-spacing-none" style="text-align: center;"><span class="a-size-large product-title-word-break">As Seen on Tik Tok</span></h2>
+<h3 class="a-size-large a-spacing-none" style="text-align: center;"><span class="a-size-large product-title-word-break" id="productTitle">Sweet Gummy Sticks with Sour Dipping Gel</span></h3>
+<p><span class="a-size-large product-title-word-break">Juicy Drop Gummy Dip 'N Stix are sweet and sour candy that is fun for everyone! They come in four intense flavours of <span data-mce-fragment="1">Knock Out Punch, Blue Rebel, Wild Cherry Berry, and Watermelon Blast. Take the soft and chewy gummy candy sticks and dip them in that sour gel that will make you pucker! Create your own delicious mix of sweet and sour. Stock up the pantry with an 8 count box because anytime could be party time.</span></span></p>
+<p> </p>
+<p><strong>96 g Container | 8 CT BOX</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Bazooka Candy Brands</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>topps</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6620579102898</id>
+      <title>Knock Out Punch</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6174447141042</id>
+    <published>2021-01-10T13:38:36-05:00</published>
+    <updated>2021-01-10T13:38:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/zaini-toy-story-4-chocolate-eggs-20-g"/>
+    <title>Zaini Toy Story 4 Chocolate Eggs - 20 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Zaini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/zaini-toy-story-4-chocolate-eggs-20g-candy-district-online-candy-store-canada.jpg?v=1610303948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zaini<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Eggs</h2>
+<div style="text-align: center;">Buzz, Woody and Jessie would have surely brought these Chocolate Eggs on their adventurous road trip! </div>
+<div style="text-align: center;">You'll have loads of fun tearing into these Zaini Toy Story 4 Chocolate Eggs! Not only do you get a delicious chocolate egg, but you'll also get the sweet bonus of a surprise toy!</div>
+<div style="text-align: center;"><strong>Delve into this fun and yummy world with the Zaini Toy Story 4 Chocolate Eggs!</strong></div>
+<p><strong>20 g </strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Chocolate Eggs Shipped Fast!</strong></h3>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Eggs</s:tag>
+    <s:tag>Easter Candy</s:tag>
+    <s:tag>Exotic Snacks</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Zaini</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6174447141042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2001305</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6174443339954</id>
+    <published>2021-01-10T13:32:36-05:00</published>
+    <updated>2021-01-10T13:32:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/zaini-unicorn-chocolate-eggs-20-g"/>
+    <title>Zaini Unicorns Chocolate Eggs - 20 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Zaini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/zaini-unicorn-chocolate-eggs-20g-candy-district-online-candy-store-canada.jpg?v=1610303614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zaini<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Eggs</h2>
+<div style="text-align: center;"><span>Once upon a time, there were magical creatures that inhabited the earth, we know them as unicorns. They were bright and beautiful and made friends easily by giving out their delicious chocolate surprise eggs!</span></div>
+<div style="text-align: center;">Not only were these eggs absolutely delectable, but they also contained a surprise unicorn-themed toy inside! They called these eggs, the Zaini Unicorn Chocolate Eggs.</div>
+<div style="text-align: center;">This made all the flying fairies,  funny elves and wise old dwarfs love them even more!</div>
+<div style="text-align: center;">You see, these mythical creatures never ever wanted to be forgotten, that's why they created these very special chocolate eggs!</div>
+<div style="text-align: center;"><strong>Remember the enchanting unicorns with the Zaini Unicorn Chocolate Eggs and you will live happily ever after!</strong></div>
+<p><strong>20 g </strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Chocolate Eggs Shipped Fast!</strong></h3>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Eggs</s:tag>
+    <s:tag>Easter Candy</s:tag>
+    <s:tag>Exotic Snacks</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Zaini</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6174443339954</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2001325</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6174439932082</id>
+    <published>2021-01-10T13:26:50-05:00</published>
+    <updated>2021-01-10T13:26:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/zaini-nhl-chocolate-eggs-20-g"/>
+    <title>Zaini NHL Chocolate Eggs - 20 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Zaini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/zaini-nhl-chocolate-eggs-20g-candy-district-online-candy-store-canada.jpg?v=1610303259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zaini<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Eggs</h2>
+<div style="text-align: center;">Score large just like your favourite NHL player! You'll be as cool as ice, with these Zaini NHL Chocolate Eggs!</div>
+<div style="text-align: center;">European chocolate eggs are made with rich milk chocolate and inside contain a Canadian Team Banner! Collect them all and share them with any hockey fan!</div>
+<div style="text-align: center;"><strong>Shoot and then really score, you will always win, with the Zaini NHL Chocolate Eggs!</strong></div>
+<div class="yj6qo"><br></div>
+<p><strong>20 g </strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Chocolate Eggs Shipped Fast!</strong></h3>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Eggs</s:tag>
+    <s:tag>Easter Candy</s:tag>
+    <s:tag>Exotic Snacks</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Zaini</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6174439932082</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2001370</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6174436982962</id>
+    <published>2021-01-10T13:21:03-05:00</published>
+    <updated>2021-01-10T13:21:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/zaini-masha-and-the-bear-chocolate-eggs-20-g"/>
+    <title>Zaini Masha and the Bear Chocolate Eggs - 20 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Zaini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/zaini-masha-and-the-bear-chocolate-eggs-20g-candy-district-online-candy-store-canada.jpg?v=1610302907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zaini<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Eggs</h2>
+<div style="text-align: center;">Masha loves her friend Bear and of course the Zaini Chocolate Eggs! </div>
+<div style="text-align: center;">A milk chocolate egg that has tucked inside, a Masha And The Bear-themed prize!</div>
+<div style="text-align: center;">You can follow along with these sweet adventures of Masha And The Bear with your very own chocolate surprise egg!</div>
+<div style="text-align: center;"><strong>The Zaini Masha And The Bear Chocolate Eggs will entertain your sweet tooth and amuse your need to play!</strong></div>
+<p><strong>20 g </strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Chocolate Eggs Shipped Fast!</strong></h3>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Eggs</s:tag>
+    <s:tag>Easter Candy</s:tag>
+    <s:tag>Exotic Snacks</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Zaini</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6174436982962</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2000892</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6174430822578</id>
+    <published>2021-01-10T13:13:36-05:00</published>
+    <updated>2021-01-10T13:13:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/zaini-barbie-chocolate-eggs-20-g"/>
+    <title>Zaini Barbie Chocolate Eggs - 20 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Zaini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/zaini-barbie-chocolate-eggs-20g-candy-district-online-candy-store-canada.jpg?v=1610302476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zaini<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Eggs</h2>
+<div style="text-align: center;">Be a "Barbie Girl in a Barbie World" with this yummy chocolate surprise egg! </div>
+<div style="text-align: center;">The Zaini Barbie Chocolate Eggs are a delicious European milk chocolate egg that will not only fill your chocolate cravings but has inside a sweet Barbie toy surprise!</div>
+<div style="text-align: center;">Enter the sweet world of  Barbie with the Zaini Barbie Chocolate Eggs!</div>
+<p><strong>20 g </strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Chocolate Eggs Shipped Fast!</strong></h3>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Eggs</s:tag>
+    <s:tag>Easter Candy</s:tag>
+    <s:tag>Exotic Snacks</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Zaini</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6174430822578</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2000155</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6174420074674</id>
+    <published>2021-01-10T13:07:22-05:00</published>
+    <updated>2021-01-10T13:07:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/zaini-hot-wheels-chocolate-eggs-20-g"/>
+    <title>Zaini Hot Wheels Chocolate Eggs - 20 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Zaini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/zaini-hot-wheels-chocolate-eggs-20g-candy-district-online-candy-store-canada.jpg?v=1610302076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zaini<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Eggs</h2>
+<div style="text-align: center;">Get your motor running, and your tastebuds ready for the delicious taste of the Zaini Hot Wheels Chocolate Eggs!</div>
+<div style="text-align: center;">A milk chocolate surprise egg, that along with being extraordinarily yummy has inside a Hot wheels Toy! So you can eat and play!</div>
+<div style="text-align: center;"><strong>Amuse your friends, and yourself with this yumminess of the Zaini Hot Wheels Chocolate Eggs!</strong></div>
+<div class="yj6qo"><br></div>
+<p><strong>20 g</strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Chocolate Eggs Shipped Fast!</strong></h3>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Eggs</s:tag>
+    <s:tag>Easter Candy</s:tag>
+    <s:tag>Exotic Snacks</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Zaini</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6174420074674</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2000629</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6174408966322</id>
+    <published>2021-01-10T12:58:35-05:00</published>
+    <updated>2021-01-10T12:58:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/zaini-kung-fu-panda-3-chocolate-eggs-20-g"/>
+    <title>Zaini Kung Fu Panda 3 Chocolate Eggs - 20 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Zaini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/zaini-kung-fu-panda-3-chocolate-eggs-20-g-candy-district-online-candy-store-canada.jpg?v=1618877260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zaini<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Eggs</h2>
+<p style="text-align: center;"><span>Po was busy Kung Fu fighting, while you were enjoying this yummy surprise egg! That's okay, we know that this is Po's most favourite chocolate egg!</span></p>
+<div style="text-align: center;">Join the exciting  Kung Fu fun with this European, milk chocolate surprise egg! </div>
+<div style="text-align: center;">The Zaini Kung Fu panda 3 Chocolate Eggs are full of rich milk chocolate flavour and also include a Kung Fu Panda 3 themed prize inside! </div>
+<div style="text-align: center;">Enjoy this sweet action adventure with the fun of Zaini Kung Fu Panda 3 chocolate Eggs!</div>
+<p><strong>20 g </strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Chocolate Eggs Shipped Fast!</strong></h3>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Eggs</s:tag>
+    <s:tag>Easter Candy</s:tag>
+    <s:tag>Exotic Snacks</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Zaini</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6174408966322</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2000447</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6174372987058</id>
+    <published>2021-01-10T12:30:16-05:00</published>
+    <updated>2021-01-10T12:30:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/zaini-madagascar-chocolate-eggs-20-g"/>
+    <title>Zaini Madagascar Chocolate Eggs - 20 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Zaini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/zaini-madagascar-chocolate-eggs-20g-candy-district-online-candy-store-canada.jpg?v=1618877313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zaini<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Eggs</h2>
+<div style="text-align: center;"><span>Now you can really be "King of the jungle" with these delicious chocolate surprise eggs! </span></div>
+<div style="text-align: center;">The Zaini Madagascar Chocolate Egg is European milk chocolate and has all the Madagascar fun you can handle!</div>
+<div style="text-align: center;"><strong>Enjoy this sweet and wild chocolate adventure with the Zaini Madagascar Chocolate Eggs!</strong></div>
+<p><strong>20 g </strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Chocolate Eggs Shipped Fast!</strong></h3>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Eggs</s:tag>
+    <s:tag>Easter Candy</s:tag>
+    <s:tag>Exotic Snacks</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Zaini</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6174372987058</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2000448</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6174363615410</id>
+    <published>2021-01-10T12:14:42-05:00</published>
+    <updated>2021-01-10T12:14:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/zaini-paw-patrol-chocolate-eggs-20-g"/>
+    <title>Zaini Paw Patrol Chocolate Eggs - 20 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Zaini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/zaini-paw-patrol-chocolate-eggs-20g-candy-district-online-candy-store-canada.jpg?v=1618877475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zaini<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Eggs</h2>
+<div style="text-align: center;"><span>You just won't be able to keep your "paws" off these delicious Zaini Paw Patrol Chocolate Eggs!</span></div>
+<div style="text-align: center;">A European milk chocolate surprise egg that is not only silky, smooth and rich tasting but offers you a Paw Patrol themed toy inside!</div>
+<div style="text-align: center;"><strong>Protect your tastebuds at all costs, with the yummy fun of the Zaini Paw Patrol Chocolate Eggs!</strong></div>
+<p><strong>20 g | 24 Count Box</strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Chocolate Eggs Shipped Fast!</strong></h3>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Eggs</s:tag>
+    <s:tag>Easter Candy</s:tag>
+    <s:tag>Exotic Snacks</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Zaini</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6174363615410</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1001601</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6174359257266</id>
+    <published>2021-01-10T12:06:24-05:00</published>
+    <updated>2021-01-10T12:06:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/zaini-regal-academy-chocolate-eggs-20-g"/>
+    <title>Zaini Regal Academy Chocolate Eggs - 20 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Zaini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/zaini-regal-academy-chocolate-eggs-20g-candy-district-online-candy-store-canada.jpg?v=1618877520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zaini<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Eggs</h2>
+<div style="text-align: center;"><span>Rose and her friends love chocolate, especially the Zaini Regal Academy Chocolate Eggs!</span></div>
+<div style="text-align: center;">These European chocolate surprise eggs are made with a delicious milk chocolate shell and the inside contains a fun Regal Academy themed prize!</div>
+<div style="text-align: center;"><strong>Be regal like Rose and her friends, with the Zaini Regal Academy Chocolate Eggs</strong></div>
+<p><strong>20 g </strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Chocolate Eggs Shipped Fast!</strong></h3>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Eggs</s:tag>
+    <s:tag>Easter Candy</s:tag>
+    <s:tag>Exotic Snacks</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Zaini</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6174359257266</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2001130</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6174355194034</id>
+    <published>2021-01-10T11:59:12-05:00</published>
+    <updated>2021-01-10T11:59:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/zaini-scooby-doo-chocolate-eggs-20-g"/>
+    <title>Zaini Scooby-Doo! Chocolate Eggs - 20 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Zaini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/zaini-scooby-doo-chocolate-eggs-20g-candy-district-online-candy-store-canada.jpg?v=1618877578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zaini<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Eggs</h2>
+<div style="text-align: center;"><span>Scooby-Doo and Shaggy are on the run again trying to solve the latest mystery. What fuels them you ask? Well, of course, it's the delicious taste of the Zaini Scooby-Doo Chocolate Eggs!</span></div>
+<div style="text-align: center;">These European milk chocolate surprise eggs are made with rich and creamy milk chocolate and on the inside and hold a fun Scooby-Doo themed prize!</div>
+<div style="text-align: center;">It's really no mystery, join the fun with the Scooby-Doo Chocolate Eggs!</div>
+<p><strong>20 g </strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Chocolate Eggs Shipped Fast!</strong></h3>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Eggs</s:tag>
+    <s:tag>Easter Candy</s:tag>
+    <s:tag>Exotic Snacks</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Zaini</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6174355194034</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2001201</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6174345330866</id>
+    <published>2021-01-10T11:49:45-05:00</published>
+    <updated>2021-01-10T11:49:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/zaini-thomas-friends-chocolate-eggs-20-g"/>
+    <title>Zaini Thomas &amp; Friends Chocolate Eggs - 20 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Zaini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/zaini-thomas-friends-chocolate-eggs-20-g-candy-district-online-candy-store.jpg?v=1618877640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zaini<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">European Chocolate Eggs</h2>
+<div style="text-align: center;"><span>All aboard! Get ready to depart on a delicious adventure with Thomas and the Zaini Thomas Friends Chocolate Eggs!</span></div>
+<div style="text-align: center;">These yummy surprise eggs are made with a European milk chocolate shell and inside contain a Thomas The Tank Engine and friends-themed toy!</div>
+<div style="text-align: center;"><strong>Enjoy this sweet ride, with the deliciousness of Zaini Thomas Friends Chocolate Eggs!</strong></div>
+<p><strong>20 g</strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Chocolate Eggs Shipped Fast!</strong></h3>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Eggs</s:tag>
+    <s:tag>Easter Candy</s:tag>
+    <s:tag>Exotic Snacks</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Zaini</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6174345330866</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2001290</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6107350827186</id>
+    <published>2020-11-29T15:52:06-05:00</published>
+    <updated>2020-11-29T15:52:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/sour-sneaky-stardust-bubble-gum-12-count"/>
+    <title>Sour Sneaky Stardust Bubble Gum</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Kidsmania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/sour-sneaky-stardust-bubble-gum-candy-district-online-candy-shop-canada.jpg?v=1618802766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kidsmania<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">Sour Bubble Gum</h2>
+<div style="text-align: center;"><span>The mystery here is just how does this sour-tasting, mystical powder turn into gum? We love to think about this while chewing on wads of the Sour Sneaky Stardust Bubble Gum!</span></div>
+<div style="text-align: center;">This fascinating bubblegum comes in three flavours, Blue Raspberry, Green Apple and Sour Strawberry.</div>
+<div style="text-align: center;">The Sour Sneaky Stardust Bubble Gum comes in its own jug, so you can share it with your favourite people or simply save some for later.</div>
+<div style="text-align: center;">Experience the magic for yourself with the Sour Sneaky Stardust Bubble Gum!</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Kidsmania</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6107350827186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1002223</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6049860386994</id>
+    <published>2020-11-03T15:21:09-05:00</published>
+    <updated>2020-11-03T15:21:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/kidsmania-dubble-bubble-gumball-dispenser-12-count"/>
+    <title>Kidsmania Dubble Bubble Mini Gumball Dispenser</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Kidsmania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/kidsmania-dubble-bubble-gumball-dispenser-12-count-candy-district-online-candy-store-canada.jpg?v=1604435516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kidsmania<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Blow Big Bubbles.</span></h2>
+<p><span>The Kidsmania Dubble Bubble Gumball Dispenser allows you to always have your supply of delicious bubble gum at hand. </span></p>
+<ul></ul>
+<p><strong>1 Dispenser</strong></p>
+<h3 style="text-align: center;"><strong>The Freshest Candy at the Sweetest Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Dubble Bubble</s:tag>
+    <s:tag>Kidsmania</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6049860386994</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1000559</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/6044850159794</id>
+    <published>2020-11-01T22:15:54-05:00</published>
+    <updated>2020-11-01T22:15:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/bipmoji-pop-up-lollipops"/>
+    <title>BIPMoji Pop Up Lollipops</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>BIP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/bipmoji-pop-up-lollipops-candy-district-online-candy-store-canada.jpg?v=1604287348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BIP<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Pop Up Lollipops</h2>
+<p><span>Everyone will love these fun Pop Up Lollipops. The Bip Moji themed Pop Up protects the lollipop to keep it clean and safe. Even better it is refillable.</span></p>
+<ul>
+<li>Pop Up that protects the lollipop and keeps it clean and safe</li>
+<li>Refillable “lollipop keeper”</li>
+<li>3 Different characters to collect</li>
+</ul>
+<p><strong>1 Pop Up Lollipop</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/6044850159794</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku/>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5523688784027</id>
+    <published>2020-08-21T22:02:43-04:00</published>
+    <updated>2020-08-21T22:02:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/push-pop-gummy-roll-40-g"/>
+    <title>Push Pop Gummy Roll - 40 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Bazooka Candy Brands</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/push-pop-gummy-rolls-candy-district.jpg?v=1598061763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bazooka Candy Brands<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A new way to enjoy your Push Pop</h2>
+<p>Push Pop Gummy Roll comes in 4 assorted fruit flavours including Strawberry, Blue Raspberry, Berry Blast, and Watermelon. The sweet gummy tape is covered with sour sugar and comes in a reusable container so you can save some for later. But do you really want to do that? </p>
+<p>Stock up and grab the 8 count box so you can share it with your family and friends. But do you really want to do that?</p>
+<p><strong><span class="a-list-item">40 g Pack</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Bazooka Candy Brands</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5523688784027</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1001960</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5523352617115</id>
+    <published>2020-08-21T17:01:37-04:00</published>
+    <updated>2020-08-21T17:01:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/raging-bull-bubble-gum"/>
+    <title>Raging Bull Bubble Gum</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Exclusive Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/raging-bull-bubble-gum-candy-district.jpg?v=1618790898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Exclusive Candy<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Raging Bull needs Bubble Gum</h2>
+<p>This isn't just any bubble gum. Raging Bull Bubble Gum is what you've been craving. </p>
+<p>This gum will rev you up. Looking for a pick-me-up? Pop a piece of Raging Bull Bubble Gum in your mouth and chew. It'll help power you through the day.</p>
+<p>Forget about being a kid in a candy store. You'll be a bull in a candy store, so you need to stock up.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5523352617115</id>
+      <title>1 Container</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2000463</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5504232816795</id>
+    <published>2020-08-15T22:31:09-04:00</published>
+    <updated>2020-08-15T22:31:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/big-mouth-candy-spray-12-count"/>
+    <title>Big Mouth Candy Spray - 23g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Bazooka Candy Brands</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/big-mouth-candy-spray-12-count-candy-district-candy-store-toronto.jpg?v=1597545221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bazooka Candy Brands<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Bazooka Candy Brands</h2>
+<p>Get your candy-fix on the go. Bazooka Candy Brands brings you Big Mouth Candy Spray. And this is a huge box of 12, so you know you won't run out – at least for a while.</p>
+<p>There's a variety of colours and flavours too, so you can pick and choose. Bazooka is a legendary candy brand you'll remember from your childhood. So you know you're going to love these. Go for a stroll down memory lane while spraying this yummy candy spray into your mouth. Open wide!</p>
+<p><span>Big Mouth Candy Spray</span> comes in a fun display box, too, just like in the candy store. Stock up the pantry and pretend you have your own corner store at home!</p>
+<p><strong>23 g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>Candy Spray</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>topps</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5504232816795</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>01-1000261</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5504218693787</id>
+    <published>2020-08-15T22:23:40-04:00</published>
+    <updated>2020-08-15T22:23:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/big-mouth-sour-candy-spray-12-count"/>
+    <title>Big Mouth Sour Candy Spray - 23g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Bazooka Candy Brands</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/big-mouth-sour-candy-spray-12-count-candy-district-candy-store-toronto.jpg?v=1597544845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bazooka Candy Brands<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Bazooka Candy Brands</h2>
+<p>Liven up your taste buds with the sour zing of Big Mouth Sour Candy spray. In colourful shades of pink, blue, and green, the sprays come displayed in a cute box worthy of any candy store. Pretend you have your own candy shop at home.</p>
+<p>This candy is the perfect treat if you just want a sour shot of flavour. Have this generous box of 12 around for when family and friends want a treat, too. This is a great reward for work well done.</p>
+<p>Share childhood memories of going to the corner store for candy with friends. Your kids will love to share these treats with their friends, too.</p>
+<p><strong>23 g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>Candy Spray</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>topps</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5504218693787</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>01-1002166</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5476863705243</id>
+    <published>2020-08-08T20:49:31-04:00</published>
+    <updated>2020-08-08T20:49:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/razzles-berry-mix-candy-24-count"/>
+    <title>Razzles Berry Mix Candy - 1.6 oz.</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Concord Confections</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/razzles-berry-mix-candy-candy-district-online-candy-store.jpg?v=1618791113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Concord Confections<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h2 style="text-align: center;"><span>First, it's candy. Then it's gum.</span></h2>
+<p>"First it's a candy, then it's gum." Now Razzles Berry Mix is all that but with the extra turn of being candy-coated with the delicious berry flavours of strawberry, blueberry and raspberry. You will be berry happy.</p>
+<div style="text-align: center;"><strong>First its a candy,</strong></div>
+<div style="text-align: center;"><strong>then its a gum.</strong></div>
+<div style="text-align: center;"><strong>If you're indecisive </strong></div>
+<div style="text-align: center;"><strong>this is the one!</strong></div>
+<div style="text-align: center;"><strong>You'll be delighted,</strong></div>
+<div style="text-align: center;"><strong>amazed and so</strong></div>
+<div style="text-align: center;"><strong>dazzled,</strong></div>
+<div style="text-align: center;"><strong>when your mouth </strong></div>
+<div style="text-align: center;"><strong>meets the taste</strong></div>
+<div style="text-align: center;"><strong>of these magnificent</strong></div>
+<div style="text-align: center;"><strong><span class="il">Razzles</span>!</strong></div>
+<div style="text-align: left;">
+<ul>
+<li>Resealable Bag</li>
+<li>Kosher Certified Parve</li>
+<li>Gluten-Free</li>
+<li>Peanut Free/Nut Free</li>
+</ul>
+</div>
+<p><strong>1.6 oz. Pack </strong></p>
+<p><strong>Ingredients:</strong></p>
+<p>Sugar, gum base, dextrose, calcium stearate, natural and artificial flavours, citric acid, gum arabic, tapioca dextrin, artificial colours (FD&amp;C red 40 lake, blue 1 lake), carnauba wax, BHT (to maintain freshness).</p>
+<p>Soy may be present.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5476863705243</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1001985</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5476708319387</id>
+    <published>2020-08-08T19:17:50-04:00</published>
+    <updated>2020-08-08T19:17:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/razzles-fizzies-1-4-oz-packs"/>
+    <title>Razzles Fizzles Candy - 1.4 oz,</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Concord Confections</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/razzles-fizzles-first-its-candy-then-its-gum-24ct-candy-district-online-candy-store_e345fb4e-92d0-4977-a66d-785ef297906b.jpg?v=1618791182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Concord Confections<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h2 style="text-align: center;"><span>First, it's candy. Then it's gum.</span></h2>
+<p style="text-align: center;">"First it's a candy, then it's gum. Little round Razzles are so much fun."</p>
+<p style="text-align: center;">New from Razzles! Now they Fizz!</p>
+<div style="text-align: center;"><strong>First its a candy,</strong></div>
+<div style="text-align: center;"><strong>then its a gum.</strong></div>
+<div style="text-align: center;"><strong>If you're indecisive </strong></div>
+<div style="text-align: center;"><strong>this is the one!</strong></div>
+<div style="text-align: center;"><strong>You'll be delighted,</strong></div>
+<div style="text-align: center;"><strong>amazed and so</strong></div>
+<div style="text-align: center;"><strong>dazzled,</strong></div>
+<div style="text-align: center;"><strong>when your mouth </strong></div>
+<div style="text-align: center;"><strong>meets the taste</strong></div>
+<div style="text-align: center;"><strong>of these magnificent</strong></div>
+<div style="text-align: center;"><strong><span class="il">Razzles</span>!</strong></div>
+<div style="text-align: left;">
+<ul>
+<li>Kosher Certified Parve</li>
+<li>Gluten-Free</li>
+<li>Peanut Free/Nut Free</li>
+</ul>
+</div>
+<p><strong>1,4 oz. Pack</strong></p>
+<p><strong>Ingredients:</strong></p>
+<p><span>Sugar, gum base, citric acid, sodium bicarbonate, dextrose, calcium stearate, artificial and natural flavours, artificial colours (FD&amp;C red 40 lake, yellow 5 lake, yellow 6 lake), BHT (to preserve freshness). Soy may be present.</span></p>
+<p>Soy may be present.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5476708319387</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1001986</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.candydistrict.com/products/5448821801115</id>
+    <published>2020-07-31T13:44:58-04:00</published>
+    <updated>2020-07-31T13:44:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.candydistrict.com/products/koko-s-crank-pop"/>
+    <title>KoKo’s Crank Pop - 16 Count</title>
+    <s:type>Candy District</s:type>
+    <s:vendor>Koko&apos;s Confectionery &amp; Novelty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0736/7879/products/koko_s-crank-pop-lollipops-16ct-candy-district-online-candy-store.jpg?v=1596217893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koko&#39;s Confectionery &amp; Novelty<br>
+        <strong>Type: </strong>Candy District<br>
+        <strong>Price: </strong>
+            27.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Crank Pop Lollipops</h2>
+<p>KoKo’s Crank Pop Lollipops will have you spinning. Turn the crank and watch the colourful spiral up. These incredible lollipops come in the delicious flavours of strawberry, blue raspberry, cotton candy and watermelon. </p>
+<div>
+<ul></ul>
+</div>
+<div></div>
+<div><strong>.81 oz. Lollipops | 16 Count Box</strong></div>
+<h3 style="text-align: center;"><strong>The Freshest Candy at the Sweetest Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Koko&apos;s</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.candydistrict.com/products/5448821801115</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.59</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+</feed>
